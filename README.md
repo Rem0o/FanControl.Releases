@@ -2,7 +2,11 @@
 
 ## [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=N4JPSTUQHRJM8&currency_code=USD&source=url&item_name=Fan+Control)
 
-Fan Control is a highly customizable and feature rich fan controlling software for Windows.
+Fan Control is a highly customizable and feature-rich fan controlling software for Windows.
+
+Library used:
+* https://github.com/LibreHardwareMonitor/LibreHardwareMonitor
+* https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit
 
 ![Fan Control](Images/MainUI.png)
 
