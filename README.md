@@ -1,6 +1,19 @@
 # FanControl.Releases
 
-![Fan Control](Images/Main.png)
+## [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=N4JPSTUQHRJM8&currency_code=USD&source=url&item_name=Fan+Control)
+
+Fan Control is a highly customizable and feature rich fan controlling software for Windows.
+
+![Fan Control](Images/MainUI.png)
+
+## Features
+
+* Multiple temperature sources ( CPU, GPU, motherboard, hard drives )
+* Custom fan curves
+* Ability to mix different curves and sensors
+* Modern UI
+* Create, edit and load multiple profiles
+* And more!
 
 ## Fan curve types
 
@@ -12,8 +25,8 @@
 
 ## Graph fan curve editor
 
-![Fan Control](Images/Graph.png)
+![Fan Control](Images/GraphDialog.png)
 
 ## Theme editor
 
-![Fan Control](Images/Colors.png)
+![Fan Control](Images/ColorsDialog.png)
