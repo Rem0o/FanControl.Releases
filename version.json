@@ -1,4 +1,4 @@
 {
-  "Number": 30,
-  "Message": "- Fixed activation % with steps \r\n- Updated LibreHardwareMonitorLib"
+  "Number": 31,
+  "Message": "- Minor bug fixes \r\n- Changed host to Github repo \r\n- Updated LibreHardwareMonitorLib"
 }
