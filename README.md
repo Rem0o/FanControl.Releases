@@ -4,7 +4,7 @@
 
 Fan Control is a highly customizable and feature-rich fan controlling software for Windows.
 
-Library used:
+Libraries used:
 * https://github.com/LibreHardwareMonitor/LibreHardwareMonitor
 * https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit
 
@@ -14,7 +14,7 @@ Library used:
 
 * Multiple temperature sources ( CPU, GPU, motherboard, hard drives )
 * Custom fan curves
-* Ability to mix different curves and sensors
+* Mix different curves and sensors together
 * Modern UI
 * Create, edit and load multiple profiles
 * And more!
