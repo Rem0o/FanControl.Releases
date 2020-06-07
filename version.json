@@ -1,4 +1,4 @@
 {
-  "Number": 31,
-  "Message": "- Minor bug fixes \r\n- Changed host to Github repo \r\n- Updated LibreHardwareMonitorLib"
+  "Number": 32,
+  "Message": "- Cache system rework (default config will be loaded once after update) \r\n- Link to release repo \r\n- Updated LibreHardwareMonitorLib (Kraken X3 support)"
 }
