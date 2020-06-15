@@ -15,6 +15,7 @@ Libraries used:
 * Save, edit and load multiple profiles
 * Multiple temperature sources ( CPU, GPU, motherboard, hard drives )
 * Custom fan curves
+* Fine tune the fan control response with steps, activation %, response time and hysteresis
 * Mix different curves and sensors together
 * Modern, dashboard-style UI
 * Works as a background application with a customizable tray icon

@@ -1,4 +1,4 @@
 {
-  "Number": 32,
-  "Message": "- Cache system rework (default config will be loaded once after update) \r\n- Link to release repo \r\n- Updated LibreHardwareMonitorLib (Kraken X3 support)"
+  "Number": 33,
+  "Message": "- Fixed memory leak with the graph \r\n- Updated LibreHardwareMonitorLib"
 }
