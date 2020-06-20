@@ -1,4 +1,4 @@
 {
-  "Number": 33,
-  "Message": "- Fixed memory leak with the graph \r\n- Updated LibreHardwareMonitorLib"
+  "Number": 34,
+  "Message": "- Increased maximum command step \r\n- Increased maximum hysteresis \r\n- Increased maximum response time"
 }
