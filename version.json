@@ -1,4 +1,4 @@
 {
-  "Number": 34,
-  "Message": "- Increased maximum command step \r\n- Increased maximum hysteresis \r\n- Increased maximum response time"
+  "Number": 35,
+  "Message": "- Sub-1% command step \r\n- Fixed single fan matching \r\n- Fixed a bug with mix fan curve when moving cards \r\n- UI styling tweaks"
 }
