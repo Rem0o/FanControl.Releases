@@ -1,4 +1,4 @@
 {
-  "Number": 35,
-  "Message": "- Sub-1% command step \r\n- Fixed single fan matching \r\n- Fixed a bug with mix fan curve when moving cards \r\n- UI styling tweaks"
+  "Number": 36,
+  "Message": "- Hide individual control cards \r\n- Removed hide disabled fan control cards option \r\n- Graph fan curve dialog tweaks \r\n- Added disable storage sensors option"
 }
