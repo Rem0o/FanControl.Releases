@@ -8,6 +8,11 @@ Libraries used:
 * https://github.com/LibreHardwareMonitor/LibreHardwareMonitor
 * https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit
 
+## Issues
+
+* I am not the main developer for the driver portion of this software. Any issue regarding hardware compatibility should be submitted to LibreHardwareMonitor's repository.
+* Please only open issues for the software itself, UI, feature request and so on.
+
 ![Fan Control](Images/MainUI.png)
 
 ## Features
@@ -19,6 +24,7 @@ Libraries used:
 * Mix different curves and sensors together
 * Modern, dashboard-style UI
 * Works as a background application with a customizable tray icon
+* Create custom external temperature sensors with *.sensor files.
 * And more!
 
 ## Fan curve types
