@@ -1,4 +1,4 @@
 {
-  "Number": 36,
-  "Message": "- Hide individual control cards \r\n- Removed hide disabled fan control cards option \r\n- Graph fan curve dialog tweaks \r\n- Added disable storage sensors option"
+  "Number": 37,
+  "Message": "- External temp. sensors: Create a *.sensor file in the app folder to create a temperature file sensor. See the Example.sensor file."
 }
