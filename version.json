@@ -1,4 +1,4 @@
 {
-  "Number": 37,
-  "Message": "- External temp. sensors: Create a *.sensor file in the app folder to create a temperature file sensor. See the Example.sensor file."
+  "Number": 38,
+  "Message": "-Updated LibreHardwareMonitorLibrary \r\n-Fixed Graph fan curve bug"
 }
