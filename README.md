@@ -8,6 +8,13 @@ Libraries used:
 * https://github.com/LibreHardwareMonitor/LibreHardwareMonitor
 * https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit
 
+## Installation
+
+1. [Download the latest archive](/FanControl.zip?raw=true)
+2. Extract to the desired installation folder
+3. [Optional] Run the Register_Startup_Task.cmd script
+4. Start FanControl.exe
+
 ## Issues
 
 * I am not the main developer for the driver portion of this software. Any issue regarding hardware compatibility should be submitted to LibreHardwareMonitor's repository.
