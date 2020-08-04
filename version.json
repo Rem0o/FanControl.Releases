@@ -1,4 +1,4 @@
 {
-  "Number": 38,
-  "Message": "-Updated LibreHardwareMonitorLibrary \r\n-Fixed Graph fan curve bug"
+  "Number": 39,
+  "Message": "-Changed Nvidia GPU backend to NVApiWrapper"
 }
