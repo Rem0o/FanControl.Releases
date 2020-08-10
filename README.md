@@ -7,6 +7,7 @@ This is the release repository for Fan Control, a highly customizable fan contro
 Libraries used:
 * https://github.com/LibreHardwareMonitor/LibreHardwareMonitor
 * https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit
+* https://github.com/falahati/NvAPIWrapper
 
 ## Installation
 
