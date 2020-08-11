@@ -1,7 +1,7 @@
 # FanControl.Releases
 
-## [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=N4JPSTUQHRJM8&currency_code=USD&source=url&item_name=Fan+Control)
-
+[<img src="https://www.paypalobjects.com/webstatic/mktg/logo/pp_cc_mark_37x23.jpg">](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=N4JPSTUQHRJM8&currency_code=USD&source=url&item_name=Fan+Control)
+##
 This is the release repository for Fan Control, a highly customizable fan controlling software for Windows.
 
 Libraries used:
@@ -26,7 +26,7 @@ Libraries used:
 ## Features
 
 * Save, edit and load multiple profiles
-* Multiple temperature sources ( CPU, GPU, motherboard, hard drives )
+* Multiple temperature sources ( CPU, GPU, motherboard, hard drives, ".sensor" file )
 * Custom fan curves
 * Fine tune the fan control response with steps, activation %, response time and hysteresis
 * Mix different curves and sensors together
