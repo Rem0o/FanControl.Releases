@@ -1,4 +1,4 @@
 {
-  "Number": 42,
-  "Message": "-Changed Nvidia GPU backend to NVApiWrapper (breaking change for Nvidia GPU configurations)\r\n-Fixed Nvidia fan control when multiple controls are available\r\n-Fixed bug with the automatic fan matching"
+  "Number": 43,
+  "Message": "-Handle NVAPI_GPU_NOT_POWERED when resuming from sleep"
 }
