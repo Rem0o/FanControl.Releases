@@ -9,6 +9,11 @@ Libraries used:
 * https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit
 * https://github.com/falahati/NvAPIWrapper
 
+## New
+
+* Support for newer Nvidia RTX cards with NvAPIWrapper
+* Support for external sensors with .sensor files (see Example.sensor in your application folder)
+
 ## Installation
 
 1. [Download the latest archive](/FanControl.zip?raw=true)
