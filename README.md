@@ -4,11 +4,6 @@
 ##
 This is the release repository for Fan Control, a highly customizable fan controlling software for Windows.
 
-Libraries used:
-* https://github.com/LibreHardwareMonitor/LibreHardwareMonitor
-* https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit
-* https://github.com/falahati/NvAPIWrapper
-
 ## New
 
 * Support for newer Nvidia RTX cards with NvAPIWrapper
@@ -61,3 +56,8 @@ Libraries used:
 * Dark mode available
 
 ![Fan Control](Images/ColorsDialog.png)
+
+## Libraries used:
+* https://github.com/LibreHardwareMonitor/LibreHardwareMonitor
+* https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit
+* https://github.com/falahati/NvAPIWrapper
