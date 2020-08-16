@@ -1,4 +1,4 @@
 {
-  "Number": 43,
-  "Message": "-Handle NVAPI_GPU_NOT_POWERED when resuming from sleep"
+  "Number": 44,
+  "Message": "-Bug fixes\r\n-Improved exception handling"
 }
