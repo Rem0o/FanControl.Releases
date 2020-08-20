@@ -6,6 +6,7 @@ This is the release repository for Fan Control, a highly customizable fan contro
 
 ## New
 
+* New fan curve type : "Target". Will hold the configured "load" fan speed until the idle temperature is reached.
 * Support for newer Nvidia RTX cards with NvAPIWrapper
 * Support for external sensors with .sensor files (see Example.sensor in your application folder)
 
@@ -39,6 +40,7 @@ This is the release repository for Fan Control, a highly customizable fan contro
 
 * Linear : Temperature based linear function
 * Graph : Temperature based custom curve
+* Target: Temperature based that holds speed until target temperature is reached
 * Mix : Use two different curves and apply a mix function (Max, Sum)
 * Sync : Sync to an existing control
 * Flat: Set a fixed %

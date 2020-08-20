@@ -1,4 +1,4 @@
 {
-  "Number": 44,
-  "Message": "-Bug fixes\r\n-Improved exception handling"
+  "Number": 45,
+  "Message": "-Target Fan Curve: Holds the load fan speed until idle temperature is reached \r\n-0 deg (empty/null) temperature readout will max fan curves"
 }
