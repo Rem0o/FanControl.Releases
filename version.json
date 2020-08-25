@@ -1,4 +1,4 @@
 {
-  "Number": 45,
-  "Message": "-Target Fan Curve: Holds the load fan speed until idle temperature is reached \r\n-0 deg (empty/null) temperature readout will max fan curves"
+  "Number": 46,
+  "Message": "-Start with Windows setting\r\n-Target Fan Curve: Holds the load fan speed until idle temperature is reached \r\n-0 deg (empty/null) temperature readout will max fan curves"
 }
