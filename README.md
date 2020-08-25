@@ -15,8 +15,7 @@ This is the release repository for Fan Control, a highly customizable fan contro
 
 1. [Download the latest archive](/FanControl.zip?raw=true)
 2. Extract to the desired installation folder
-3. [Optional] Run the Register_Startup_Task.cmd script
-4. Start FanControl.exe
+3. Start FanControl.exe
 
 ## Issues
 
