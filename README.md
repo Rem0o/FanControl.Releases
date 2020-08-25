@@ -6,6 +6,7 @@ This is the release repository for Fan Control, a highly customizable fan contro
 
 ## New
 
+* Start with Windows setting
 * New fan curve type : "Target". Will hold the configured "load" fan speed until the idle temperature is reached.
 * Support for newer Nvidia RTX cards with NvAPIWrapper
 * Support for external sensors with .sensor files (see Example.sensor in your application folder)
