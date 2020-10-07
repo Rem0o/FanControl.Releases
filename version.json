@@ -1,4 +1,4 @@
 {
-  "Number": 49,
-  "Message": "-Updated LibreHardwareMonitorLib (better IT8628E support)"
+  "Number": 50,
+  "Message": "-Hysteresis now works only on the way down\r\n-Top right menu rework\r\n-Refresh sensors detection"
 }

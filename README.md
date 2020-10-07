@@ -6,6 +6,7 @@ This is the release repository for Fan Control, a highly customizable fan contro
 
 ## New
 
+* Hysteresis now only applies on the way down
 * Average function for the mix curve
 * Start with Windows setting
 * New fan curve type : "Target". Will hold the configured "load" fan speed until the idle temperature is reached.
