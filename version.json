@@ -1,4 +1,4 @@
 {
-  "Number": 50,
-  "Message": "-Hysteresis now works only on the way down\r\n-Top right menu rework\r\n-Refresh sensors detection"
+  "Number": 51,
+  "Message": "-Hysteresis option for one-way or two-way\r\n-Top right menu rework\r\n-Refresh sensors detection"
 }
