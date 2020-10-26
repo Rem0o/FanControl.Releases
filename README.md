@@ -6,6 +6,8 @@ This is the release repository for Fan Control, a highly customizable fan contro
 
 ## New
 
+* <b>Refined more compact card UI</b>
+* <b>Start % (activation % before) and Stop % are now separated</b>
 * Hysteresis can now be switched from one-way (down only) to two-way (up and down)
 * Average function for the mix curve
 * Start with Windows setting
@@ -31,7 +33,7 @@ This is the release repository for Fan Control, a highly customizable fan contro
 * Save, edit and load multiple profiles
 * Multiple temperature sources ( CPU, GPU, motherboard, hard drives, ".sensor" file )
 * Custom fan curves
-* Fine tune the fan control response with steps, activation %, response time and hysteresis
+* Fine tune the fan control response with steps, start %, stop %, response time and hysteresis
 * Mix different curves and sensors together
 * Modern, dashboard-style UI
 * Works as a background application with a customizable tray icon

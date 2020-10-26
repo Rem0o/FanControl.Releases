@@ -1,4 +1,4 @@
 {
-  "Number": 53,
-  "Message": "-Updated LibreHardwareMonitorLib\r\n-Bug fixes"
+  "Number": 54,
+  "Message": "-More compact UI\r\n-Added stop % parameter to the control card\r\n-Automatic stop % detection menu option "
 }
