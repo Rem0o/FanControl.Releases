@@ -1,4 +1,4 @@
 {
-  "Number": 56,
-  "Message": "-Updated LibreHardwareMonitorLib: improved support for IT8655E"
+  "Number": 57,
+  "Message": "- Updated LibreHardwareMonitorLib: Ryzen 5000 support\r\n- When storage is disabled, drives wont spin up at startup"
 }
