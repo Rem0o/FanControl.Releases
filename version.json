@@ -1,4 +1,4 @@
 {
-  "Number": 57,
-  "Message": "- Updated LibreHardwareMonitorLib: Ryzen 5000 support\r\n- When storage is disabled, drives wont spin up at startup"
+  "Number": 58,
+  "Message": "- Various bugfixes and optimizations"
 }
