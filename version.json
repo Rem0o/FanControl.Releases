@@ -1,4 +1,4 @@
 {
-  "Number": 58,
-  "Message": "- Various bugfixes and optimizations"
+  "Number": 59,
+  "Message": "- Fixed bug where a control could get stuck at 0% \r\n- Fixed a bug where a fan would ramp up or down on config change"
 }
