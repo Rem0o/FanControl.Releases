@@ -1,4 +1,4 @@
 {
-  "Number": 60,
-  "Message": "- Help dialog for each fan curve type when clicking on its logo icon \r\n- Target fan curve now has reponse time parameter"
+  "Number": 61,
+  "Message": "- Fixed response time with two-way hysteresis"
 }
