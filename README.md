@@ -9,7 +9,7 @@ This is the release repository for Fan Control, a highly customizable fan contro
 * <b>Adjusted styling in dark mode</b>
 * <b>Min function for the mix curve</b>
 * Ryzen 5000 support
-* Refined more compact card UI<
+* Refined more compact card UI
 * Start % (activation % before) and Stop % are now separated
 * Hysteresis can now be switched from one-way (down only) to two-way (up and down)
 
