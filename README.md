@@ -43,7 +43,7 @@ This is the release repository for Fan Control, a highly customizable fan contro
 * Linear : Temperature based linear function
 * Graph : Temperature based custom curve
 * Target: Temperature based that holds speed until target temperature is reached
-* Mix : Use two different curves and apply a mix function (Max, Sum, Average)
+* Mix : Use two different curves and apply a mix function (Min, Max, Sum, Average)
 * Sync : Sync to an existing control
 * Flat: Set a fixed %
 
