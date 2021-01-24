@@ -1,4 +1,4 @@
 {
-  "Number": 63,
-  "Message": "- Updated LibreHardwareMonitorLib \r\n- Fixed a bug where controls are changed even if disabled on profile load \r\n- Clicking the donate button in the dialog will disable the dialog"
+  "Number": 64,
+  "Message": "- Tray icon temperature colors now match with Windows dark/light mode \r\n- Added sync dark/light mode with Windows option \r\n- Mix fan curve now supports more than 2 curves"
 }
