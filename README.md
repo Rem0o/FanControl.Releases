@@ -5,13 +5,10 @@
 This is the release repository for Fan Control, a highly customizable fan controlling software for Windows.
 
 ## New
-
-* <b>Adjusted styling in dark mode</b>
-* <b>Min function for the mix curve</b>
-* Ryzen 5000 support
-* Refined more compact card UI
-* Start % (activation % before) and Stop % are now separated
-* Hysteresis can now be switched from one-way (down only) to two-way (up and down)
+* <b>Mix fan curve supports 1-N curves</b>
+* <b>Sync dark/light windows theme with Fan Control</b>
+* Adjusted styling in dark mode
+* Min function for the mix curve
 
 ## Installation
 
@@ -23,6 +20,12 @@ This is the release repository for Fan Control, a highly customizable fan contro
 
 * I am not the main developer for the driver portion of this software. Any issue regarding hardware compatibility should be submitted to LibreHardwareMonitor's repository.
 * Please only open issues for the software itself, UI, feature request and so on.
+
+## FAQ
+* Q: There is no control cards / control cards are missing / control cards are not changing my fan speeds, what's the issue?
+<br>
+A: Your motherboard's SuperIO chip is not supported / badly supported, see the [Issues](#issues) section.
+
 
 ![Fan Control](Images/MainUI.png)
 
