@@ -24,8 +24,7 @@ This is the release repository for Fan Control, a highly customizable fan contro
 
 ## FAQ
 * Q: There is no control cards / control cards are missing / control cards are not changing my fan speeds, what's the issue?
-<br>
-A: Your motherboard's SuperIO chip is not supported / badly supported, see the [Issues](#issues) section.
+<br>A: Your motherboard's SuperIO chip is not supported / badly supported, see the [Issues](#issues) section.
 
 
 ![Fan Control](Images/MainUI.png)
