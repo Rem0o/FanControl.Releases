@@ -1,4 +1,4 @@
 {
-  "Number": 64,
-  "Message": "- Tray icon temperature colors now match with Windows dark/light mode \r\n- Added sync dark/light mode with Windows option \r\n- Mix fan curve now supports more than 2 curves"
+  "Number": 65,
+  "Message": "- NEW: You can now add a new \"Mix\" custom temperature sensor from the \"+\" menu \r\n- Updated LibreHardwareMonitorLib \r\n- Tray icon temperature colors now match with Windows dark/light mode"
 }
