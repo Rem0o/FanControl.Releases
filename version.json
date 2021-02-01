@@ -1,4 +1,4 @@
 {
-  "Number": 65,
-  "Message": "- NEW: You can now add a new \"Mix\" custom temperature sensor from the \"+\" menu \r\n- Updated LibreHardwareMonitorLib \r\n- Tray icon temperature colors now match with Windows dark/light mode"
+  "Number": 66,
+  "Message": "- Various bug fixes"
 }
