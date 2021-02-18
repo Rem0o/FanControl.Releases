@@ -1,4 +1,4 @@
 {
-  "Number": 67,
-  "Message": "- Fixed a bug when loading/switching profiles"
+  "Number": 68,
+  "Message": "- Support mix sensor of mix sensors \r\n- Splitted step % in step up and down %"
 }
