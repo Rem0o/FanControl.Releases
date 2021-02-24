@@ -5,8 +5,8 @@
 This is the release repository for Fan Control, a highly customizable fan controlling software for Windows.
 
 ## New
-* <b> Manual control for each control card </b>
-    ![Fan Control](Images/ManualControlSlider.png)
+* <b> Manual control for each control card </b><br>
+![Fan Control](Images/ManualControlSlider.png)
 * Step % has been split in step up and step down.
 * Custom sensors: Create a "mix" sensor with a custom function (min, max, average)
 * Mix fan curve supports 1-N curves
