@@ -6,7 +6,7 @@ This is the release repository for Fan Control, a highly customizable fan contro
 
 ## New
 * <b> Manual control for each control card </b>
-    ![Fan Control](Images/ManualControl.png)
+    ![Fan Control](Images/ManualControlSlider.png)
 * Step % has been split in step up and step down.
 * Custom sensors: Create a "mix" sensor with a custom function (min, max, average)
 * Mix fan curve supports 1-N curves
