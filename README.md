@@ -5,11 +5,12 @@
 This is the release repository for Fan Control, a highly customizable fan controlling software for Windows.
 
 ## New
-* <b>Step % has been split in step up and step down.</b>
-* <b>Custom sensors: Create a "mix" sensor with a custom function (min, max, average) </b>
+* <b> Manual control for each control card </b>
+    ![Fan Control](Images/ManualControl.png)
+* Step % has been split in step up and step down.
+* Custom sensors: Create a "mix" sensor with a custom function (min, max, average)
 * Mix fan curve supports 1-N curves
 * Sync dark/light windows theme with Fan Control
-* Adjusted styling in dark mode
 
 ## Installation
 
@@ -34,6 +35,7 @@ This is the release repository for Fan Control, a highly customizable fan contro
 * Save, edit and load multiple profiles
 * Multiple temperature sources ( CPU, GPU, motherboard, hard drives, ".sensor" file )
 * Custom fan curves
+* Manual control
 * Fine tune the fan control response with steps, start %, stop %, response time and hysteresis
 * Mix different curves and sensors together
 * Modern, dashboard-style UI
