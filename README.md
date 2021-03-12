@@ -5,7 +5,8 @@
 This is the release repository for Fan Control, a highly customizable fan controlling software for Windows.
 
 ## New
-* <b> Manual control for each control card </b><br>
+* <b>Plugin system (prototype), see https://github.com/Rem0o/FanControl.DellPlugin </b>
+* Manual control for each control card <br>
 ![Fan Control](Images/ManualControlSlider.png)
 * Step % has been split in step up and step down.
 * Custom sensors: Create a "mix" sensor with a custom function (min, max, average)
