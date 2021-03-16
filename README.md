@@ -5,7 +5,9 @@
 This is the release repository for Fan Control, a highly customizable fan controlling software for Windows.
 
 ## New
-* <b>Plugin system (prototype), see [Plugins wiki](https://github.com/Rem0o/FanControl.Releases/wiki/Plugins) and https://github.com/Rem0o/FanControl.DellPlugin </b>
+* <b>Plugin system, see [Plugins wiki](https://github.com/Rem0o/FanControl.Releases/wiki/Plugins) and  </b>
+  * https://github.com/Rem0o/FanControl.HWInfo
+  * https://github.com/Rem0o/FanControl.DellPlugin
 * Manual control for each control card <br>
 ![Fan Control](Images/ManualControlSlider.png)
 * Step % has been split in step up and step down.
