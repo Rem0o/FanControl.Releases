@@ -1,4 +1,4 @@
 {
-  "Number": 71,
-  "Message": "- Plugin system prototype \r\n- Explicit checkbox to disable donation popup \r\n- Updated LibreHardwareMonitor"
+  "Number": 72,
+  "Message": "- New Time Average custom sensor \r\n- File sensors are now part of the custom sensors interface \r\n- Updated LibreHardwareMonitor"
 }

@@ -5,15 +5,14 @@
 This is the release repository for Fan Control, a highly customizable fan controlling software for Windows.
 
 ## New
-* <b>Plugin system, see [Plugins wiki](https://github.com/Rem0o/FanControl.Releases/wiki/Plugins) and  </b>
+* <b> Time average custom sensor ( Plus sign menu ) </b>
+* <b> File custom sensor interface ( Plus sign menu ) </b>
+* Plugin system, see [Plugins wiki](https://github.com/Rem0o/FanControl.Releases/wiki/Plugins) and
   * https://github.com/Rem0o/FanControl.HWInfo
   * https://github.com/Rem0o/FanControl.DellPlugin
-* Manual control for each control card <br>
-![Fan Control](Images/ManualControlSlider.png)
+* Manual control for each control card 
 * Step % has been split in step up and step down.
 * Custom sensors: Create a "mix" sensor with a custom function (min, max, average)
-* Mix fan curve supports 1-N curves
-* Sync dark/light windows theme with Fan Control
 
 ## Installation
 
