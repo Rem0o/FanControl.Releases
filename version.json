@@ -1,4 +1,4 @@
 {
-  "Number": 72,
-  "Message": "- New Time Average custom sensor \r\n- File sensors are now part of the custom sensors interface \r\n- Updated LibreHardwareMonitor"
+  "Number": 73,
+  "Message": "- Fixed serialization bug \r\n- New Time Average custom sensor \r\n- File sensors are now part of the custom sensors interface \r\n- Updated LibreHardwareMonitor"
 }
