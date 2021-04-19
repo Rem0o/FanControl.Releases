@@ -1,4 +1,4 @@
 {
-  "Number": 74,
-  "Message": "- Bug fixes"
+  "Number": 75,
+  "Message": "- Fixed a memory leak with taskbar temperature icons \r\n- Changed the format for the json config file to be human readable ( this will cause a save trigger for all of your configs, simply click yes ) \r\n- Resume from sleep now triggers a complete refresh of the config and sensor detection"
 }
