@@ -1,4 +1,4 @@
 {
-  "Number": 77,
-  "Message": "- Various bug fixes"
+  "Number": 78,
+  "Message": "- UI update: replaced numerical comboboxes with input fields\r\n- Ask for save on exit \r\n- Fixed a sensor refresh bug"
 }
