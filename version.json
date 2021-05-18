@@ -1,4 +1,4 @@
 {
   "Number": 79,
-  "Message": "- Numeric up/down fields now have a + and a - button. You can also use the arrow keys to change the value. \r\n Fixed a bug where Nvidia fan settings would be overriden even if the control was disabled. "
+  "Message": "- Numeric up/down fields now have a + and a - button. You can also use the arrow keys to change the value. \r\n Fixed a bug where Nvidia fan settings would be overridden even if the control was disabled. "
 }
