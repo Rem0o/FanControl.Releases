@@ -1,4 +1,4 @@
 {
-  "Number": 78,
-  "Message": "- UI update: replaced numerical comboboxes with input fields\r\n- Ask for save on exit \r\n- Fixed a sensor refresh bug"
+  "Number": 79,
+  "Message": "- Numeric up/down fields now have a + and a - button. You can also use the arrow keys to change the value. \r\n Fixed a bug where Nvidia fan settings would be overriden even if the control was disabled. "
 }
