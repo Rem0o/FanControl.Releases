@@ -6,7 +6,8 @@ This is the release repository for Fan Control, a highly customizable fan contro
 
 ## New
 
-* <b> Replaced numerical comboboxes with text boxes </b>
+* <b>Increased max temp. to 120 C </b>
+* Replaced numerical comboboxes with text boxes
 * Time average custom sensor ( Plus sign menu )
 * File custom sensor interface ( Plus sign menu )
 * Plugin system, see [Plugins wiki](https://github.com/Rem0o/FanControl.Releases/wiki/Plugins) and
