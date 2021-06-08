@@ -6,14 +6,14 @@ This is the release repository for Fan Control, a highly customizable fan contro
 
 ## New
 
-* <b>Increased max temp. to 120 C </b>
+* <b> -c or --config [json config file] command line arg </b>
+* Increased max temp. to 120 C
 * Replaced numerical comboboxes with text boxes
 * Time average custom sensor ( Plus sign menu )
 * File custom sensor interface ( Plus sign menu )
 * Plugin system, see [Plugins wiki](https://github.com/Rem0o/FanControl.Releases/wiki/Plugins) and
   * https://github.com/Rem0o/FanControl.HWInfo
   * https://github.com/Rem0o/FanControl.DellPlugin
-* Manual control for each control card 
 
 ## Installation
 
@@ -27,10 +27,10 @@ This is the release repository for Fan Control, a highly customizable fan contro
 * Please only open issues for the software itself, UI, feature request and so on.
 
 ## FAQ
-* Q: Does it run on my OS?
-<br>A: If your OS is W10, yes.
-* Q: There is no control cards / control cards are missing / control cards are not changing my fan speeds, what's the issue?
-<br>A: Your motherboard's SuperIO chip is not supported / badly supported, see the [Issues](#issues) section.
+* <b>Q</b>: Does it run on my OS?
+<br><b>A</b>: If your OS is W10, yes.
+* <b>Q</b>: There is no control cards / control cards are missing / control cards are not changing my fan speeds, what's the issue?
+<br><b>A</b>: Your motherboard's SuperIO chip is not supported / badly supported, see the [Issues](#issues) section.
 
 
 ![Fan Control](Images/MainUI.png)

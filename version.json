@@ -1,4 +1,4 @@
 {
-  "Number": 80,
-  "Message": "- Decimal fix for supported numeric fields \r\n- Increased max temp. to 120 C."
+  "Number": 81,
+  "Message": "- --config or -c [json file] command line arg\r\n- Decimal point in Graph \r\n- Updated LibreHardwareMonitorLib"
 }
