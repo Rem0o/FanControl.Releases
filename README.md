@@ -27,6 +27,8 @@ This is the release repository for Fan Control, a highly customizable fan contro
 * Please only open issues for the software itself, UI, feature request and so on.
 
 ## FAQ
+* Q: Does it run on my OS?
+<br>A: If your OS is W10, yes.
 * Q: There is no control cards / control cards are missing / control cards are not changing my fan speeds, what's the issue?
 <br>A: Your motherboard's SuperIO chip is not supported / badly supported, see the [Issues](#issues) section.
 
