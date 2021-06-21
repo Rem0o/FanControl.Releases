@@ -4,6 +4,9 @@
 ##
 This is the release repository for Fan Control, a highly customizable fan controlling software for Windows.
 
+
+![Fan Control](Images/MainUI.png)
+
 ## New
 
 * <b> -c or --config [json config file] command line arg </b>
@@ -31,9 +34,6 @@ This is the release repository for Fan Control, a highly customizable fan contro
 <br><b>A</b>: If your OS is W10, yes.
 * <b>Q</b>: There is no control cards / control cards are missing / control cards are not changing my fan speeds, what's the issue?
 <br><b>A</b>: Your motherboard's SuperIO chip is not supported / badly supported, see the [Issues](#issues) section.
-
-
-![Fan Control](Images/MainUI.png)
 
 ## Features
 
