@@ -30,8 +30,10 @@ This is the release repository for Fan Control, a highly customizable fan contro
 * Please only open issues for the software itself, UI, feature request and so on.
 
 ## FAQ
+* <b>Q</b>: How does <b>[FAN CURVE TYPE]</b> works and what does its parameters do?
+<br><b>A</b>: Click on its card's icon at the top left, a dialog will tell you.
 * <b>Q</b>: Does it run on my OS?
-<br><b>A</b>: If your OS is W10, yes.
+<br><b>A</b>: If your OS is Windows 10, yes.
 * <b>Q</b>: There is no control cards / control cards are missing / control cards are not changing my fan speeds, what's the issue?
 <br><b>A</b>: Your motherboard's SuperIO chip is not supported / badly supported, see the [Issues](#issues) section.
 
@@ -39,13 +41,12 @@ This is the release repository for Fan Control, a highly customizable fan contro
 
 * Save, edit and load multiple profiles
 * Multiple temperature sources ( CPU, GPU, motherboard, hard drives, ".sensor" file )
+* <b>Mix different curves and sensors together</b>
 * Custom fan curves
 * Manual control
 * Fine tune the fan control response with steps, start %, stop %, response time and hysteresis
-* Mix different curves and sensors together
 * Modern, dashboard-style UI
 * Works as a background application with a customizable tray icon
-* Create custom external temperature sensors with *.sensor files.
 * And more!
 
 ## Fan curve types
