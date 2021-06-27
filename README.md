@@ -9,6 +9,7 @@ This is the release repository for Fan Control, a highly customizable fan contro
 
 ## New
 
+* <b>Reduced CPU usage by 50%</b>
 * <b> -c or --config [json config file] command line arg </b>
 * Increased max temp. to 120 C
 * Replaced numerical comboboxes with text boxes

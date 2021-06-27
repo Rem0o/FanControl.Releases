@@ -1,4 +1,4 @@
 {
-  "Number": 84,
-  "Message": "- Updated LibreHardwareMonitorLib (Corsair PSUs support) \r\n- Reduced CPU usage by about 50%"
+  "Number": 85,
+  "Message": "- Fixed storage sensors update routine"
 }
