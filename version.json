@@ -1,4 +1,4 @@
 {
-  "Number": 85,
-  "Message": "- Fixed storage sensors update routine"
+  "Number": 86,
+  "Message": "- More robust sleep/wake routine \r\n- Fixed a bug when loading plugins"
 }
