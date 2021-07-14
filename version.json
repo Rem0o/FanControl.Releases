@@ -1,4 +1,4 @@
 {
-  "Number": 86,
-  "Message": "- More robust sleep/wake routine \r\n- Fixed a bug when loading plugins"
+  "Number": 87,
+  "Message": "- Fixed a crash with Ryzen CPUs \r\n- Controls with a NaN valued fan curve will max out. \r\n - Main window will show up when critical events occur"
 }
