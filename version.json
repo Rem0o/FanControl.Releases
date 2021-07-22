@@ -1,4 +1,4 @@
 {
-  "Number": 87,
-  "Message": "- Fixed a crash with Ryzen CPUs \r\n- Controls with a NaN valued fan curve will max out. \r\n - Main window will show up when critical events occur"
+  "Number": 88,
+  "Message": "- New help button for each section \r\n- Graph fancurve bug fix \r\n- Delay wake from sleep"
 }
