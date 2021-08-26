@@ -26,18 +26,23 @@ This is the release repository for Fan Control, a highly customizable fan contro
 2. Extract to the desired installation folder
 3. Start FanControl.exe
 
-## Issues
+## Issues and hardware compatibility
 
-* I am not the main developer for the driver portion of this software. Any issue regarding hardware compatibility should be submitted to LibreHardwareMonitor's repository.
+* I am not the main developer for the driver/backend portion of this software. Fan Control is basically a UI on top of existing hardware libraries. Any issue regarding hardware compatibility entirely depends on:
+  * https://github.com/LibreHardwareMonitor/LibreHardwareMonitor
+  * https://github.com/falahati/NvAPIWrapper
+  
 * Please only open issues for the software itself, UI, feature request and so on.
+* If you do have a hardware compatibility request and you can provide a <b>working</b> sample of code that can be used in .NET, like with a [Plugin](https://github.com/Rem0o/FanControl.Releases/wiki/Plugins), then feel free to submit that.
 
 ## FAQ
+* <b>Q</b>: There is no control cards / control cards are missing / control cards are not changing my fan speeds, what's the issue?
+<br><b>A</b>: See section above.
+
 * <b>Q</b>: How does <b>[FAN CURVE TYPE]</b> works and what does its parameters do?
 <br><b>A</b>: Click on its card's icon at the top left, a dialog will tell you.
 * <b>Q</b>: Does it run on my OS?
 <br><b>A</b>: If your OS is Windows 10, yes.
-* <b>Q</b>: There is no control cards / control cards are missing / control cards are not changing my fan speeds, what's the issue?
-<br><b>A</b>: Your motherboard's SuperIO chip is not supported / badly supported, see the [Issues](#issues) section.
 
 ## Features
 
