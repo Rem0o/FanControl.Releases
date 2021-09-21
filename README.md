@@ -10,7 +10,7 @@ This is the release repository for Fan Control, a highly customizable fan contro
 ## New
 
 * <b>Horizontal (columns) UI option</b><br>
-  <img src="Images/Horizontal.png" height="400" />
+  <img src="Images/HorizontalUI.png" height="400" />
 * Move graph points horizontally
 * Reduced CPU usage by 50%
 * -c or --config [json config file] command line arg 
