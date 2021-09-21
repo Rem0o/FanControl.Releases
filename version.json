@@ -1,4 +1,4 @@
 {
-  "Number": 92,
-  "Message": "- Assisted setup: helps you configure for the first time"
+  "Number": 93,
+  "Message": "- Horizontal UI option \r\n- Fixed graph bug \r\n- Updated LibreHardwareMonitorLib (driver)"
 }
