@@ -9,13 +9,11 @@ This is the release repository for Fan Control, a highly customizable fan contro
 
 ## New
 
-* <b>Move graph points horizontally</b>
-* <b>Reduced CPU usage by 50%</b>
-* <b> -c or --config [json config file] command line arg </b>
-* Increased max temp. to 120 C
-* Replaced numerical comboboxes with text boxes
-* Time average custom sensor ( Plus sign menu )
-* File custom sensor interface ( Plus sign menu )
+* <b>Horizontal (columns) UI option</b><br>
+  <img src="Images/Horizontal.png" height="400" />
+* Move graph points horizontally
+* Reduced CPU usage by 50%
+* -c or --config [json config file] command line arg 
 * Plugin system, see [Plugins wiki](https://github.com/Rem0o/FanControl.Releases/wiki/Plugins) and
   * https://github.com/Rem0o/FanControl.HWInfo
   * https://github.com/Rem0o/FanControl.DellPlugin
