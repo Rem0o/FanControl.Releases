@@ -40,7 +40,7 @@ This is the release repository for Fan Control, a highly customizable fan contro
 * <b>Q</b>: How does <b>[FAN CURVE TYPE]</b> works and what does its parameters do?
 <br><b>A</b>: Click on its card's icon at the top left, a dialog will tell you.
 * <b>Q</b>: Does it run on my OS?
-<br><b>A</b>: If your OS is Windows 10, yes.
+<br><b>A</b>: If your OS is Windows 10 <b> Or 11</b>, yes.
 
 ## Features
 
