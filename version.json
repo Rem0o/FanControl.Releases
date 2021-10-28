@@ -1,4 +1,4 @@
 {
-  "Number": 94,
-  "Message": "- UI tweaks \r\n- Updated LibreHardwareMonitorLib (driver)"
+  "Number": 95,
+  "Message": "- Numeric up/down controls for points in the graph \r\n- Change windows startup delay for sensor detection issues\r\n- Display 1 decimal place for % on all cards\r\n- Refined the tray icon tooltip text \r\n- Updated LibreHardwareMonitorLib (driver)"
 }

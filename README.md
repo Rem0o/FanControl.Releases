@@ -9,10 +9,9 @@ This is the release repository for Fan Control, a highly customizable fan contro
 
 ## New
 
-* <b>Horizontal (columns) UI option</b><br>
-  <img src="Images/HorizontalUI.png" height="400" />
-* Move graph points horizontally
-* Reduced CPU usage by 50%
+* <b>Numeric textbox for graph points</b>
+* <b>Change windows startup delay for sensor detection issues</b>
+* Horizontal (columns) UI option
 * -c or --config [json config file] command line arg 
 * Plugin system, see [Plugins wiki](https://github.com/Rem0o/FanControl.Releases/wiki/Plugins) and
   * https://github.com/Rem0o/FanControl.HWInfo
