@@ -2,15 +2,17 @@
 
 [<img src="https://www.paypalobjects.com/webstatic/mktg/logo/pp_cc_mark_37x23.jpg">](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=N4JPSTUQHRJM8&currency_code=USD&source=url&item_name=Fan+Control)
 ##
-This is the release repository for Fan Control, a highly customizable fan controlling software for Windows.
+This is the release repository for Fan Control, a focused, highly customizable fan controlling software for Windows.
 
 
 ![Fan Control](Images/MainUI.png)
 
 ## New
 
-* <b>Numeric textbox for graph points</b>
-* <b>Change windows startup delay for sensor detection issues</b>
+* Sensor settings dialog window. Activate or deactivate specific sources.
+![Sensor settings dialog](Images/SensorSettingsDialog.png)
+* Numeric textbox for graph points
+* Change windows startup delay for sensor detection issues
 * Horizontal (columns) UI option
 * -c or --config [json config file] command line arg 
 * Plugin system, see [Plugins wiki](https://github.com/Rem0o/FanControl.Releases/wiki/Plugins) and

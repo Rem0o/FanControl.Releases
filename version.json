@@ -1,4 +1,4 @@
 {
-  "Number": 95,
-  "Message": "- Numeric up/down controls for points in the graph \r\n- Change windows startup delay for sensor detection issues\r\n- Display 1 decimal place for % on all cards\r\n- Refined the tray icon tooltip text \r\n- Updated LibreHardwareMonitorLib (driver)"
+  "Number": 96,
+  "Message": "- New sensor settings dialog window\r\n- Refined fan start and stop logic\r\n- Subtract function for mixes\r\n- Updated LibreHardwareMonitorLib (driver)"
 }
