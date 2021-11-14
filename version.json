@@ -1,4 +1,4 @@
 {
-  "Number": 96,
-  "Message": "- New sensor settings dialog window\r\n- Refined fan start and stop logic\r\n- Subtract function for mixes\r\n- Updated LibreHardwareMonitorLib (driver)"
+  "Number": 97,
+  "Message": "- Fix storage sensor enabling/disabling bug \r\n- Sensor settings no longer overwrites your config when making a change \r\n -Refined assited setup"
 }
