@@ -1,4 +1,4 @@
 {
-  "Number": 97,
-  "Message": "- Fix storage sensor enabling/disabling bug \r\n- Sensor settings no longer overwrites your config when making a change \r\n -Refined assited setup"
+  "Number": 98,
+  "Message": "- Fixed bug with start/stop detection \r\n- Updated LibreHardwareMonitorLib \r\n -UI refinements"
 }
