@@ -9,6 +9,8 @@ This is the release repository for Fan Control, a focused, highly customizable f
 
 ## New
 
+* <b> Auto fan curve (BETA): Automatically adjust speed to keep target temperature</b>
+* <b> Allow text-wrapping for long names </b>
 * Sensor settings dialog window. Activate or deactivate specific sources.
 ![Sensor settings dialog](Images/SensorSettingsDialog.png)
 * Numeric textbox for graph points

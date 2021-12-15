@@ -1,4 +1,4 @@
 {
-  "Number": 98,
-  "Message": "- Fixed bug with start/stop detection \r\n- Updated LibreHardwareMonitorLib \r\n -UI refinements"
+  "Number": 99,
+  "Message": "- Auto fan-curve (BETA): Automatically adjust speed to keep a load target temperature. Settings and behavior are subject to change. Use at your own risk. Feedback welcomed. \r\n- Allow text-wrapping for longer sensors/curves names \r\n- Updated Libraries"
 }
