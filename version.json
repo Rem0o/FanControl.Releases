@@ -1,4 +1,4 @@
 {
-  "Number": 100,
-  "Message": "- Auto fan-curve (BETA): Changed parameters names to better reflect their usage. \r\n- Bug fixes"
+  "Number": 101,
+  "Message": "- Bug fix with serialization when no config is yet saved. \r\n- Bug fix with numeric up down fields"
 }
