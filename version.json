@@ -1,4 +1,4 @@
 {
-  "Number": 101,
-  "Message": "- Bug fix with serialization when no config is yet saved. \r\n- Bug fix with numeric up down fields"
+  "Number": 102,
+  "Message": "- Added sensor configuration window as part of the assisted setup. \r\n- Allow 1 degree as minimum deadband value for Auto fan curve"
 }
