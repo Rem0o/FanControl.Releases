@@ -1,4 +1,4 @@
 {
-  "Number": 102,
-  "Message": "- Added sensor configuration window as part of the assisted setup. \r\n- Allow 1 degree as minimum deadband value for Auto fan curve"
+  "Number": 103,
+  "Message": "- Updated LibreHardwareMonitorLib"
 }
