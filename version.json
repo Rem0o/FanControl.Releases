@@ -1,4 +1,4 @@
 {
-  "Number": 106,
-  "Message": "- Use nickname for mix sensor. \r\n- UI tweaks \r\n- TCC gpu support for NVApiWrapper"
+  "Number": 107,
+  "Message": "- Better decimal support all arround\r\n- Fixed potential UI memory leak \r\n- Removed useless properties when saving a config file"
 }

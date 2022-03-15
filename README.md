@@ -9,12 +9,12 @@ This is the release repository for Fan Control, a focused, highly customizable f
 
 ## New
 
-* <b>Nickname any temperature sensor from the sensor settings dialog</b>
+* <b> Better decimal support in graphs </b>
+* Nickname any temperature sensor from the sensor settings dialog
 ![Sensor settings dialog](Images/SensorNickname.png)
 * Auto fan curve (BETA): Automatically adjust speed to keep target temperature
 * Allow text-wrapping for long names
 * Sensor settings dialog window. Activate or deactivate specific sources.
-
 * Numeric textbox for graph points
 * Change windows startup delay for sensor detection issues
 * Horizontal (columns) UI option
