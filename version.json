@@ -1,4 +1,4 @@
 {
-  "Number": 107,
+  "Number": 108,
   "Message": "- Better decimal support all arround\r\n- Fixed potential UI memory leak \r\n- Removed useless properties when saving a config file"
 }
