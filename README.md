@@ -31,6 +31,7 @@ This is the release repository for Fan Control, a focused, highly customizable f
 * Plugin system, see [Plugins wiki](https://github.com/Rem0o/FanControl.Releases/wiki/Plugins) and
 * https://github.com/Rem0o/FanControl.HWInfo
 * https://github.com/Rem0o/FanControl.DellPlugin
+* https://github.com/medevil84/FanControl.AquacomputerHighFlowNext
 
 ## Issues and hardware compatibility
 
