@@ -8,23 +8,20 @@ This is the release repository for Fan Control, a focused, highly customizable f
 ![Fan Control](Images/MainUI.png)
 
 ## New
-
-* <b> Better decimal support in graphs </b>
+* <b> Configurable temperature range for graphs </b>
+* Better decimal support in graphs
 * Nickname any temperature sensor from the sensor settings dialog
-![Sensor settings dialog](Images/SensorNickname.png)
 * Auto fan curve (BETA): Automatically adjust speed to keep target temperature
 * Allow text-wrapping for long names
 * Sensor settings dialog window. Activate or deactivate specific sources.
 * Numeric textbox for graph points
-* Change windows startup delay for sensor detection issues
-* Horizontal (columns) UI option
-* -c or --config [json config file] command line arg 
 
 ## Installation
 
 1. [Download the latest archive](/FanControl.zip?raw=true)
 2. Extract to the desired installation folder
 3. Start FanControl.exe
+4. (Optional) -c or --config [json config file] command line arg 
 
 ## Plugins
 
@@ -65,6 +62,7 @@ This is the release repository for Fan Control, a focused, highly customizable f
 
 ## Fan curve types
 
+* (NEW) Auto: PI-ish type function. % will surf until temp is stable at load. 
 * Linear : Temperature based linear function
 * Graph : Temperature based custom curve
 * Target: Temperature based that holds speed until target temperature is reached
