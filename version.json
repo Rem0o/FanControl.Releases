@@ -1,4 +1,4 @@
 {
-  "Number": 109,
-  "Message": "- Configurable temperature range for graphs\r\n- Better decimal temp support"
+  "Number": 110,
+  "Message": "- Fixed a bug where the graph width was changing dynamically"
 }
