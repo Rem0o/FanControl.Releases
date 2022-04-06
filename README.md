@@ -24,7 +24,7 @@
 ![Fan Control](Images/MainUI.png)
 
 ## New
-* __ Configurable temperature range for graphs __
+* __Configurable temperature range for graphs__
 * Decimal support in graphs
 * Nickname any temperature sensor from the sensor settings dialog
 * Auto fan curve (BETA): Automatically adjust speed to keep target temperature
@@ -62,7 +62,7 @@
 * __Q__: How does __[FAN CURVE TYPE]__ works and what does its parameters do?
 <br>__A__: Click on its card's icon at the top left, a dialog will tell you.
 * __Q__: Does it run on my OS?
-<br>__A__: If your OS is Windows 10 __ Or 11__, yes.
+<br>__A__: If your OS is Windows 10 __Or 11__, yes.
 
 ## Fan curve types
 
