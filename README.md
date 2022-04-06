@@ -1,19 +1,16 @@
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat&logo=paypal)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=N4JPSTUQHRJM8&currency_code=USD&source=url&item_name=Fan+Control)
 
-<table>
-  <tr>
-    <td>
-      <p valign="center"><img src="Images/logo.gif" /></p>
-    </td>
-    <td valign="center">
-      <p>This is the release repository for Fan Control, a focused and highly customizable fan controlling software for Windows. </p> 
-    </td>
-  </tr>
-  <tr>
-</table>
 
 # Fan Control
+
+<p align=center>
+  <img src="Images/logo.gif" width=60/>
+</p>
+<p align=center>This is the release repository for Fan Control, a focused and highly customizable fan controlling software for Windows.</span>
+
+<br>
+<br>
 
 ## Main features
 
@@ -25,8 +22,6 @@
 * __Mix__ fan curves or sensor togethers (max, min, average)
 * Low ressource usage
 * Advanced tuning with steps, start %, stop %, response time and hysteresis
-* And more!
-
 
 ![Fan Control](Images/MainUI.png)
 
