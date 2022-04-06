@@ -1,20 +1,41 @@
-# FanControl.Releases
 
-[<img src="https://www.paypalobjects.com/webstatic/mktg/logo/pp_cc_mark_37x23.jpg">](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=N4JPSTUQHRJM8&currency_code=USD&source=url&item_name=Fan+Control)
-##
-This is the release repository for Fan Control, a focused, highly customizable fan controlling software for Windows.
+[![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat&logo=paypal)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=N4JPSTUQHRJM8&currency_code=USD&source=url&item_name=Fan+Control)
+
+<table>
+  <tr>
+    <td>
+      <p valign="center"><img src="Images/logo.gif" /></p>
+    </td>
+    <td valign="center">
+      <p>This is the release repository for Fan Control, a focused and highly customizable fan controlling software for Windows. </p> 
+    </td>
+  </tr>
+  <tr>
+</table>
+
+# Fan Control
+
+## Main features
+
+* Guided __setup__ process on first launch
+* Save, edit and load multiple __profiles__
+* Change the __theme__ and __color__ to fit your setup
+* Multiple temperature __sources__ ( CPU, GPU, motherboard, hard drives... )
+* Multiple fan curve __[functions](#fan-curve-types)__, including a custom __[graph](#graph-fan-curve-editor)__
+* __Mix__ fan curves or sensor togethers (max, min, average)
+* Low ressource usage
+* Advanced tuning with steps, start %, stop %, response time and hysteresis
+* And more!
 
 
 ![Fan Control](Images/MainUI.png)
 
 ## New
-* <b> Configurable temperature range for graphs </b>
-* Better decimal support in graphs
+* __ Configurable temperature range for graphs __
+* Decimal support in graphs
 * Nickname any temperature sensor from the sensor settings dialog
 * Auto fan curve (BETA): Automatically adjust speed to keep target temperature
-* Allow text-wrapping for long names
 * Sensor settings dialog window. Activate or deactivate specific sources.
-* Numeric textbox for graph points
 
 ## Installation
 
@@ -25,7 +46,9 @@ This is the release repository for Fan Control, a focused, highly customizable f
 
 ## Plugins
 
-* Plugin system, see [Plugins wiki](https://github.com/Rem0o/FanControl.Releases/wiki/Plugins) and
+ The plugin system let you inject any type of sensor into FanControl, see [Plugins wiki](https://github.com/Rem0o/FanControl.Releases/wiki/Plugins)
+
+ Some examples:
 * https://github.com/Rem0o/FanControl.HWInfo
 * https://github.com/Rem0o/FanControl.DellPlugin
 * https://github.com/medevil84/FanControl.AquacomputerHighFlowNext
@@ -37,28 +60,16 @@ This is the release repository for Fan Control, a focused, highly customizable f
   * https://github.com/falahati/NvAPIWrapper
   
 * Please only open issues for the software itself, UI, feature request and so on.
-* If you do have a hardware compatibility request and you can provide a <b>working</b> sample of code that can be used in .NET, like with a [Plugin](https://github.com/Rem0o/FanControl.Releases/wiki/Plugins), then feel free to submit that.
+* If you do have a hardware compatibility request and you can provide a __working__ sample of code that can be used in .NET, like with a [Plugin](https://github.com/Rem0o/FanControl.Releases/wiki/Plugins), then feel free to submit that.
 
 ## FAQ
-* <b>Q</b>: There is no control cards / control cards are missing / control cards are not changing my fan speeds, what's the issue?
-<br><b>A</b>: See section above.
+* __Q__: There is no control cards / control cards are missing / control cards are not changing my fan speeds, what's the issue?
+<br>__A__: See section above.
 
-* <b>Q</b>: How does <b>[FAN CURVE TYPE]</b> works and what does its parameters do?
-<br><b>A</b>: Click on its card's icon at the top left, a dialog will tell you.
-* <b>Q</b>: Does it run on my OS?
-<br><b>A</b>: If your OS is Windows 10 <b> Or 11</b>, yes.
-
-## Features
-
-* Save, edit and load multiple profiles
-* Multiple temperature sources ( CPU, GPU, motherboard, hard drives, ".sensor" file )
-* <b>Mix different curves and sensors together</b>
-* Custom fan curves
-* Manual control
-* Fine tune the fan control response with steps, start %, stop %, response time and hysteresis
-* Modern, dashboard-style UI
-* Works as a background application with a customizable tray icon
-* And more!
+* __Q__: How does __[FAN CURVE TYPE]__ works and what does its parameters do?
+<br>__A__: Click on its card's icon at the top left, a dialog will tell you.
+* __Q__: Does it run on my OS?
+<br>__A__: If your OS is Windows 10 __ Or 11__, yes.
 
 ## Fan curve types
 
@@ -72,17 +83,12 @@ This is the release repository for Fan Control, a focused, highly customizable f
 
 ## Graph fan curve editor
 
+* (NEW) Change the temperature range for finer control over a small range
 * Add, remove and drag points arround the graph
 * Copy and paste points from a graph to another
 * Fine-tune the response with the hysteresis and response time parameters
 
 ![Fan Control](Images/GraphDialog.png)
-
-## Theme editor
-
-* Dark mode available
-
-![Fan Control](Images/ColorsDialog.png)
 
 ## Libraries used:
 * https://github.com/LibreHardwareMonitor/LibreHardwareMonitor
