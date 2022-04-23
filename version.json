@@ -1,4 +1,4 @@
 {
-  "Number": 110,
-  "Message": "- Fixed a bug where the graph width was changing dynamically"
+  "Number": 111,
+  "Message": "- Fixed a plugin display bug in the sensor settings \r\n- A fefault fan curve is now created on first launch \r\n- Fixed a drag/drop issue \r\n- Ask for save on exit from the tray icon (Thanks Jay) \r\n- Fixed a bug when adding a curve/sensor in a mix"
 }
