@@ -43,10 +43,11 @@
 
  The plugin system let you inject any type of sensor into FanControl, see [Plugins wiki](https://github.com/Rem0o/FanControl.Releases/wiki/Plugins)
 
- Some examples:
-* https://github.com/Rem0o/FanControl.HWInfo
-* https://github.com/Rem0o/FanControl.DellPlugin
-* https://github.com/medevil84/FanControl.AquacomputerHighFlowNext
+Some examples (notify me if I'm missing some):
+* <b>(NEW) </b> https://github.com/iJacks1980/FanControl.CommanderPRO to interface with Corsair commander devices
+* <b>(NEW) </b> https://github.com/medevil84/FanControl.AquacomputerHighFlowNext to interface with aquacomputer HighFlowNext 
+* https://github.com/Rem0o/FanControl.HWInfo to import HWInfo sensor data
+* https://github.com/Rem0o/FanControl.DellPlugin for dell laptops and some towers
 
 ## Issues and hardware compatibility
 
@@ -68,7 +69,7 @@
 
 ## Fan curve types
 
-* (NEW) Auto: PI-ish type function. % will surf until temp is stable at load. 
+* <b>(NEW)<\b> Auto: PI-ish type function. % will surf until temp is stable at load. 
 * Linear : Temperature based linear function
 * Graph : Temperature based custom curve
 * Target: Temperature based that holds speed until target temperature is reached
