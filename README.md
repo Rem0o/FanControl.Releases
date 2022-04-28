@@ -69,7 +69,7 @@ Some examples (notify me if I'm missing some):
 
 ## Fan curve types
 
-* <b>(NEW)<\b> Auto: PI-ish type function. % will surf until temp is stable at load. 
+* <b>(NEW)</b> Auto: PI-ish type function. % will surf until temp is stable at load. 
 * Linear : Temperature based linear function
 * Graph : Temperature based custom curve
 * Target: Temperature based that holds speed until target temperature is reached
