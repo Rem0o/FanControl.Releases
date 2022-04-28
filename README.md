@@ -20,7 +20,7 @@
 * Multiple temperature __sources__ ( CPU, GPU, motherboard, hard drives... )
 * Multiple fan curve __[functions](#fan-curve-types)__, including a custom __[graph](#graph-fan-curve-editor)__
 * __Mix__ fan curves or sensor togethers (max, min, average)
-* Low ressource usage
+* Low resource usage
 * Advanced tuning with steps, start %, stop %, response time and hysteresis
 
 ![Fan Control](Images/MainUI.png)
