@@ -26,7 +26,7 @@
 ![Fan Control](Images/MainUI.png)
 
 ## New
-* __Configurable temperature range for graphs__
+* Configurable temperature range for graphs
 * Decimal support in graphs
 * Nickname any temperature sensor from the sensor settings dialog
 * Auto fan curve (BETA): Automatically adjust speed to keep target temperature
@@ -44,8 +44,8 @@
  The plugin system let you inject any type of sensor into FanControl, see [Plugins wiki](https://github.com/Rem0o/FanControl.Releases/wiki/Plugins)
 
 Some examples (notify me if I'm missing some):
-* <b>(NEW) </b> https://github.com/iJacks1980/FanControl.CommanderPRO to interface with Corsair commander devices
-* <b>(NEW) </b> https://github.com/medevil84/FanControl.AquacomputerHighFlowNext to interface with aquacomputer HighFlowNext 
+* __(NEW)__ https://github.com/iJacks1980/FanControl.CommanderPRO to interface with Corsair commander devices
+* __(NEW)__ https://github.com/medevil84/FanControl.AquacomputerHighFlowNext to interface with aquacomputer HighFlowNext 
 * https://github.com/Rem0o/FanControl.HWInfo to import HWInfo sensor data
 * https://github.com/Rem0o/FanControl.DellPlugin for dell laptops and some towers
 
@@ -59,9 +59,10 @@ Some examples (notify me if I'm missing some):
 * If you do have a hardware compatibility request and you can provide a __working__ sample of code that can be used in .NET, like with a [Plugin](https://github.com/Rem0o/FanControl.Releases/wiki/Plugins), then feel free to submit that.
 
 ## FAQ
+* __Q__: My Nvidia cards has X fans, but only two cards show up, why?
+<br>__A__: Your card only has 2 channels, more than 1 fan are plugged to the same channel.
 * __Q__: There is no control cards / control cards are missing / control cards are not changing my fan speeds, what's the issue?
 <br>__A__: See section above.
-
 * __Q__: How does __[FAN CURVE TYPE]__ works and what does its parameters do?
 <br>__A__: Click on its card's icon at the top left, a dialog will tell you.
 * __Q__: Does it run on my OS?
@@ -69,7 +70,7 @@ Some examples (notify me if I'm missing some):
 
 ## Fan curve types
 
-* <b>(NEW)</b> Auto: PI-ish type function. % will surf until temp is stable at load. 
+* (NEW) Auto: PI controller-ish type function. % will surf until temp is stable at load. 
 * Linear : Temperature based linear function
 * Graph : Temperature based custom curve
 * Target: Temperature based that holds speed until target temperature is reached
