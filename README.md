@@ -59,10 +59,12 @@ Some examples (notify me if I'm missing some):
 * If you do have a hardware compatibility request and you can provide a __working__ sample of code that can be used in .NET, like with a [Plugin](https://github.com/Rem0o/FanControl.Releases/wiki/Plugins), then feel free to submit that.
 
 ## FAQ
+* __Q__: What settings should I set in my BIOS to play along nicely with FanControl?
+<br>__A__: You want to avoid any "smart" control from your BIOS. Setting a fixed default speed in there, like 50%, works great for most people. Also keep an eye if your BIOS has PWM or DC mode on. One could work better for you depending on your setup.
 * __Q__: My Nvidia cards has X fans, but only two cards show up, why?
 <br>__A__: Your card only has 2 channels, more than 1 fan are plugged to the same channel.
 * __Q__: There is no control cards / control cards are missing / control cards are not changing my fan speeds, what's the issue?
-<br>__A__: See section above.
+<br>__A__: See __[ Issues and hardware compatibility](#issues-and-hardware-compatibility)__.
 * __Q__: How does __[FAN CURVE TYPE]__ works and what does its parameters do?
 <br>__A__: Click on its card's icon at the top left, a dialog will tell you.
 * __Q__: Does it run on my OS?
@@ -74,7 +76,7 @@ Some examples (notify me if I'm missing some):
 * Linear : Temperature based linear function
 * Graph : Temperature based custom curve
 * Target: Temperature based that holds speed until target temperature is reached
-* Mix : Use two different curves and apply a mix function (Min, Max, Sum, Average)
+* Mix : Use two different curves and apply a mix function (Min, Max, Sum, Average, Subtract)
 * Sync : Sync to an existing control
 * Flat: Set a fixed %
 
