@@ -1,4 +1,4 @@
 {
-  "Number": 112,
-  "Message": "- Auto-scroll when adding a new item \r\n- Cancel button in graph dialog \r\n- Auto-save on logout, shutdown or restart \r\n- Fixed a \"one way\" hysteresis bug \r\n- Fixed a bug allowing over 100% on Nvidia controls \r\n- Changed minus button style on numeric up/down fields \r\n- Fixed a drag and drop bug\r\n- Fixed window positioning bug \r\n- Fixed transitionary state bug for linear and graph"
+  "Number": 113,
+  "Message": "- Change tray icon temperature color depending on windows theme dynamically \r\n- FanControl will prevent session ending if config has changed \r\n- New IPlugin2 interface \r\n- Updated LibreHardwareMonitorLib"
 }
