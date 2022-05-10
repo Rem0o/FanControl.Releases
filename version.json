@@ -1,4 +1,4 @@
 {
-  "Number": 113,
-  "Message": "- Change tray icon temperature color depending on windows theme dynamically \r\n- FanControl will prevent session ending if config has changed \r\n- New IPlugin2 interface \r\n- Updated LibreHardwareMonitorLib"
+  "Number": 114,
+  "Message": "- Fixes an issue with plugin loading"
 }
