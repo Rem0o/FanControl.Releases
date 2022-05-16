@@ -1,4 +1,4 @@
 {
-  "Number": 114,
-  "Message": "- Fixes an issue with plugin loading"
+  "Number": 115,
+  "Message": "- Change tray icon color from \"Theme and colors\" dialog \r\n- Fixed a bug when matching a single fan automatically \r\n- Fixed various issues with dialogs"
 }
