@@ -1,4 +1,4 @@
 {
-  "Number": 115,
-  "Message": "- Change tray icon color from \"Theme and colors\" dialog \r\n- Fixed a bug when matching a single fan automatically \r\n- Fixed various issues with dialogs"
+  "Number": 116,
+  "Message": "- Opt-out of update popup for a specific version \r\n- Fixed a graph editing bug \r\n- Extended plugin interface with injectable modules (logger and dialog) \r\n- Auto fan curve now acts like a linear fan curve when not in load temperature \r\n- Show the config file save/load location"
 }

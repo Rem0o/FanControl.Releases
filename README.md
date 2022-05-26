@@ -26,11 +26,11 @@
 ![Fan Control](Images/MainUI.png)
 
 ## New
+* __(NEW) Opt-out of update popup for a specific version__
 * Configurable temperature range for graphs
 * Decimal support in graphs
 * Nickname any temperature sensor from the sensor settings dialog
 * Auto fan curve (BETA): Automatically adjust speed to keep target temperature
-* Sensor settings dialog window. Activate or deactivate specific sources.
 
 ## Installation
 
