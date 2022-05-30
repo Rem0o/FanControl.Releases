@@ -1,4 +1,4 @@
 {
-  "Number": 116,
-  "Message": "- Opt-out of update popup for a specific version \r\n- Fixed a graph editing bug \r\n- Extended plugin interface with injectable modules (logger and dialog) \r\n- Auto fan curve now acts like a linear fan curve when not in load temperature \r\n- Show the config file save/load location"
+  "Number": 117,
+  "Message": "- Fixed cache being flushed randomly on shutdown \r\n- Tweaked the auto fan curve \r\n- Improved the assisted setup for faster stop% step"
 }
