@@ -51,18 +51,20 @@ Some examples (notify me if I'm missing some):
 
 ## Issues and hardware compatibility
 
-* I am not the main developer for the driver/backend portion of this software. Fan Control is basically a UI on top of existing hardware libraries. Any issue regarding hardware compatibility entirely depends on:
+* I am not the main developer for the driver/backend portion of this software. Fan Control is basically a UI on top of existing hardware libraries. Any issue regarding hardware compatibility entirely depends on the following projects. If you can't contribute meaningfully with a branch/PR, don't pollute their issue page with "XXXXX doesn't work". The hardware is needed for testing. If a dev has interest in that project, is browsing it, has your specific hardware AND the knowledge to make it work, that dev won't be looking for your issue, he'll just raise a PR.
   * https://github.com/LibreHardwareMonitor/LibreHardwareMonitor
   * https://github.com/falahati/NvAPIWrapper
   
-* Please only open issues for the software itself, UI, feature request and so on.
-* If you do have a hardware compatibility request and you can provide a __working__ sample of code that can be used in .NET, like with a [Plugin](https://github.com/Rem0o/FanControl.Releases/wiki/Plugins), then feel free to submit that.
+* Please only open issues on this repository for the software itself, UI, feature request and so on.
+* If you do have a special hardware compatibility request and you can provide a __working__ sample of code that can be used in .NET, like with a [Plugin](https://github.com/Rem0o/FanControl.Releases/wiki/Plugins), then feel free to submit that.
 
 ## FAQ
 * __Q__: What settings should I set in my BIOS to play along nicely with FanControl?
-<br>__A__: You want to avoid any "smart" control from your BIOS. Setting a fixed default speed in there, like 50%, works great for most people. Also keep an eye if your BIOS has PWM or DC mode on. One could work better for you depending on your setup.
+<br>__A__: You want to avoid any "smart" control from your BIOS. Setting a fixed default speed, like 50%, works great for most people. Also keep an eye if your BIOS has PWM or DC mode on. One could work better for you depending on your setup.
 * __Q__: My Nvidia cards has X fans, but only two cards show up, why?
 <br>__A__: Your card only has 2 channels, more than 1 fan are plugged to the same channel.
+* __Q__: My new AMD card can't be controlled, why?
+<br>__A__: Newer AMD cards are not supported. If you can provide a working sample of code that works with these newer cards, please share!
 * __Q__: There is no control cards / control cards are missing / control cards are not changing my fan speeds, what's the issue?
 <br>__A__: See __[ Issues and hardware compatibility](#issues-and-hardware-compatibility)__.
 * __Q__: How does __[FAN CURVE TYPE]__ works and what does its parameters do?
