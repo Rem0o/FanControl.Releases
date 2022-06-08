@@ -1,4 +1,4 @@
 {
-  "Number": 117,
-  "Message": "- Fixed cache being flushed randomly on shutdown \r\n- Tweaked the auto fan curve \r\n- Improved the assisted setup for faster stop% step"
+  "Number": 118,
+  "Message": "- UI improvement: better use of the accent color \r\n- More robust wake from sleep \r\n- Fixed a bug when editing a graph"
 }
