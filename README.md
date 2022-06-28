@@ -14,7 +14,7 @@
 ## Featured On
 JayzTwoCents - Everyone NEEDS this FREE piece of software... You will thank me!
 
-<a href="https://www.youtube.com/watch?v=uDPKVKBMQU8"><img alt="JayzTwoCents - Everyone NEEDS this FREE piece of software... You will thank me!" src="https://i.ytimg.com/vi/uDPKVKBMQU8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&amp;rs=AOn4CLDpjcuKgjSlSO8bZt8bcG4eKoRB4Q" style="max-width:350px" />]</a>
+<a href="https://www.youtube.com/watch?v=uDPKVKBMQU8"><img alt="JayzTwoCents - Everyone NEEDS this FREE piece of software... You will thank me!" src="https://i.ytimg.com/vi/uDPKVKBMQU8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&amp;rs=AOn4CLDpjcuKgjSlSO8bZt8bcG4eKoRB4Q" width="350" />]</a>
 
 ## Main features
 
