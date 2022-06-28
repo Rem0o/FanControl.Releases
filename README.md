@@ -11,6 +11,10 @@
 [![Download](https://img.shields.io/badge/Download-FanControl-green.svg?style=flat&logo=download)](/FanControl.zip?raw=true)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat&logo=paypal)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=N4JPSTUQHRJM8&currency_code=USD&source=url&item_name=Fan+Control)
 
+## Featured On
+JayzTwoCents - Everyone NEEDS this FREE piece of software... You will thank me!
+
+<a href="https://www.youtube.com/watch?v=uDPKVKBMQU8"><img alt="JayzTwoCents - Everyone NEEDS this FREE piece of software... You will thank me!" src="https://i.ytimg.com/vi/uDPKVKBMQU8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&amp;rs=AOn4CLDpjcuKgjSlSO8bZt8bcG4eKoRB4Q" style="max-width:350px" />]</a>
 
 ## Main features
 
