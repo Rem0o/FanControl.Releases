@@ -1,4 +1,4 @@
 {
-  "Number": 118,
-  "Message": "- UI improvement: better use of the accent color \r\n- More robust wake from sleep \r\n- Fixed a bug when editing a graph"
+  "Number": 119,
+  "Message": "- Assisted setup: New settings step + faster fan pairing \r\n- Starting the app twice will open back the existing instance \r\n- UI refinements \r\n- Updated LibreHardwareMonitorLib"
 }
