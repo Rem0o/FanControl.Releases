@@ -1,4 +1,4 @@
 {
-  "Number": 119,
-  "Message": "- Assisted setup: New settings step + faster fan pairing \r\n- Starting the app twice will open back the existing instance \r\n- UI refinements \r\n- Updated LibreHardwareMonitorLib"
+  "Number": 120,
+  "Message": "- Updated LibreHardwareMonitorLib \r\n- Various bug fixes"
 }
