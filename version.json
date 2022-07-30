@@ -1,4 +1,4 @@
 {
-  "Number": 120,
-  "Message": "- Updated LibreHardwareMonitorLib \r\n- Various bug fixes"
+  "Number": 121,
+  "Message": "- More resilient refresh logic when waking from sleep \r\n- A \"?\" is displayed when a control is being overriden by an external source"
 }
