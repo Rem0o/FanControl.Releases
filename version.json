@@ -1,4 +1,4 @@
 {
-  "Number": 121,
-  "Message": "- More resilient refresh logic when waking from sleep \r\n- A \"?\" is displayed when a control is being overriden by an external source"
+  "Number": 122,
+  "Message": "- Fixed a drag and drop issue removing user selection \r\n- More robust retry logic when the app starts (requires to re-save your config)"
 }
