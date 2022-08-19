@@ -1,4 +1,4 @@
 {
-  "Number": 122,
-  "Message": "- Fixed a drag and drop issue removing user selection \r\n- More robust retry logic when the app starts (requires to re-save your config)"
+  "Number": 123,
+  "Message": "- Deserialization issue with time average sensor \r\n- Fixed a drag and drop issue removing user selection \r\n- More robust retry logic when the app starts (requires to re-save your config)"
 }
