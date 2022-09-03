@@ -1,4 +1,4 @@
 {
-  "Number": 125,
-  "Message": "- Support zero and negative temperature values\r\n- Fix fan curves initialization issue \r\n- New control option: Force Apply"
+  "Number": 126,
+  "Message": "-Refine Assisted setup\r\n- Numerous bug fixes"
 }
