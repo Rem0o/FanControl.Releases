@@ -1,4 +1,4 @@
 {
-  "Number": 127,
-  "Message": "-Bugfix: Handle missing control values"
+  "Number": 128,
+  "Message": "-Bugfix: Start% issue with non-stopping fans \r\n-Bugfix: Sensors were not refreshed when changing config \r\n-Bugfix: Nicknames were not saved properly \r\n-Add scrollbar to message dialog"
 }
