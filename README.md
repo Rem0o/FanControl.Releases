@@ -47,10 +47,15 @@ JayzTwoCents - Everyone NEEDS this FREE piece of software... You will thank me!
 
  The plugin system let you inject any type of sensor into FanControl, see [Plugins wiki](https://github.com/Rem0o/FanControl.Releases/wiki/Plugins)
 
-Some examples (notify me if I'm missing some):
-* __(NEW)__ https://github.com/Mourdraug/FanControl.AsusWMI to interface with ASUS motherboards through WMI methods
-* __(NEW)__ https://github.com/iJacks1980/FanControl.CommanderPRO to interface with Corsair commander devices
-* __(NEW)__ https://github.com/medevil84/FanControl.AquacomputerHighFlowNext to interface with aquacomputer HighFlowNext 
+From the community (notify me if I'm missing some):
+* https://github.com/fu-raz/FanControlThermaltake
+* https://github.com/jmarucha/FanControl.Liquidctl
+* https://github.com/Mourdraug/FanControl.AsusWMI to interface with ASUS motherboards through WMI methods
+* https://github.com/iJacks1980/FanControl.CommanderPRO to interface with Corsair commander devices
+* https://github.com/medevil84/FanControl.AquacomputerHighFlowNext to interface with aquacomputer HighFlowNext 
+* https://github.com/vision57/FanControl.GPU-Z
+
+From Rem0o
 * https://github.com/Rem0o/FanControl.HWInfo to import HWInfo sensor data
 * https://github.com/Rem0o/FanControl.DellPlugin for dell laptops and some towers
 
