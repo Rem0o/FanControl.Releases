@@ -1,4 +1,4 @@
 {
-  "Number": 129,
-  "Message": "-Bugfix: Plugin initialization would duplicate cards\r\n-Update LibreHardwareMonitorLib (NZXT GRID+ V3 support)"
+  "Number": 130,
+  "Message": "- Improved plugin error handling and integration\r\n- Refresh will now rescan for new plugins"
 }
