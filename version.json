@@ -1,4 +1,4 @@
 {
-  "Number": 130,
-  "Message": "- Improved plugin error handling and integration\r\n- Refresh will now rescan for new plugins"
+  "Number": 131,
+  "Message": "- Fan start bug: control could get stuck at start %. \r\n- Logger will now split itself in multiple files to avoid one giant unmanageable file. \r\n- Sync fan curve now detects if there is a loop. \r\n- Improved multi-instance handling: will now look if a FanControl instance is opened in a different user session. If yes, that instance will be closed before opening a new one."
 }
