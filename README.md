@@ -30,11 +30,9 @@ JayzTwoCents - Everyone NEEDS this FREE piece of software... You will thank me!
 ![Fan Control](Images/MainUI.png)
 
 ## New
-* __(NEW) Opt-out of update popup for a specific version__
+* __(NEW) 0 RPM override for Nvidia cards__
+* Opt-out of update popup for a specific version
 * Configurable temperature range for graphs
-* Decimal support in graphs
-* Nickname any temperature sensor from the sensor settings dialog
-* Auto fan curve (BETA): Automatically adjust speed to keep target temperature
 
 ## Installation
 
