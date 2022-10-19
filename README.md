@@ -3,7 +3,7 @@
 <p align=center>
   <img src="Images/logo.gif" width=60/>
 </p>
-<p align=center>This is the release repository for Fan Control, a focused and highly customizable fan controlling software for Windows.</span>
+<p align=center>This is the release repository for <a href="https://getFanControl.com">Fan Control</a>, a focused and highly customizable fan controlling software for Windows.</span>
 
 <br>
 <br>
