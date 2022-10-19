@@ -42,7 +42,7 @@ JayzTwoCents - Everyone NEEDS this FREE piece of software... You will thank me!
 4. (Optional) -c or --config [json config file] command line arg 
 
 ### Uninstall Instructions
-Since __Fan Control__ is a standalone app you can not use Windows to uninstall it. That being said the uninstall process is quite simple. Navigate to where you originally extracted the files for the program. If all the files are in their own directory, feel free to delete the entire directory. If the files are not in their own directory, well you're out of luck and need to delete each file individually.
+Since __Fan Control__ is a standalone app you can not use Windows to uninstall it. That being said the uninstall process is quite simple. Navigate to where you originally extracted the files for the program and delete them.
 
 If you have __Fan Control__ set to automatically start when Windows starts up you also need to delete the startup task in task scheduler.
 1) In the search bar type __Task Scheduler__ and open the app. From there you should see an image similar to the one below.
