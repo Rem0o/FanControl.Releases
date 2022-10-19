@@ -46,9 +46,7 @@ Since __Fan Control__ is a standalone app you can not use Windows to uninstall i
 
 If you have __Fan Control__ set to automatically start when Windows starts up you also need to delete the startup task in task scheduler.
 1) In the search bar type __Task Scheduler__ and open the app. From there you should see an image similar to the one below.
-![fan_control_screenshot](https://user-images.githubusercontent.com/33143771/196514548-19097cab-a3f1-447a-8a94-778c749d73f2.png)
 2) Find the __Fan Control__ task in the list, right click on it, and select _delete_.
-3) This will remove the startup task for __Fan Control__ and fix any command prompt errors that pop up saying "Windows cannot find FanControl.exe"
 
 ## Plugins
 
