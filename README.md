@@ -1,8 +1,13 @@
 # Fan Control
 
+
 <p align=center>
-  <img src="Images/logo.gif" width=60/>
+  <a href="https://www.getfancontrol.com">
+    <img src="Images/logo.gif" width=60/>
+  </a>
 </p>
+
+
 <p align=center>This is the release repository for <a href="https://getFanControl.com">Fan Control</a>, a focused and highly customizable fan controlling software for Windows.</span>
 
 <br>
