@@ -46,6 +46,13 @@ JayzTwoCents - Everyone NEEDS this FREE piece of software... You will thank me!
 3. Start FanControl.exe
 4. (Optional) -c or --config [json config file] command line arg 
 
+### Uninstall Instructions
+Since __Fan Control__ is a standalone app you can not use Windows to uninstall it. That being said the uninstall process is quite simple. Navigate to where you originally extracted the files for the program and delete them.
+
+If you have __Fan Control__ set to automatically start when Windows starts up you also need to delete the startup task in task scheduler.
+1) In the search bar type __Task Scheduler__ and open the app. From there you should see an image similar to the one below.
+2) Find the __Fan Control__ task in the list, right click on it, and select _delete_.
+
 ## Plugins
 
  The plugin system let you inject any type of sensor into FanControl, see [Plugins wiki](https://github.com/Rem0o/FanControl.Releases/wiki/Plugins)
