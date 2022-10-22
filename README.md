@@ -46,12 +46,10 @@ JayzTwoCents - Everyone NEEDS this FREE piece of software... You will thank me!
 3. Start FanControl.exe
 4. (Optional) -c or --config [json config file] command line arg 
 
-### Uninstall Instructions
-Since __Fan Control__ is a standalone app you can not use Windows to uninstall it. That being said the uninstall process is quite simple. Navigate to where you originally extracted the files for the program and delete them.
+## Uninstall Instructions
+Fan Control is a stand-alone app. You can leave the files there for use further down the line, or delete them.
 
-If you have __Fan Control__ set to automatically start when Windows starts up you also need to delete the startup task in task scheduler.
-1) In the search bar type __Task Scheduler__ and open the app. From there you should see an image similar to the one below.
-2) Find the __Fan Control__ task in the list, right click on it, and select _delete_.
+Note: If you have Fan Control set to automatically start with Windows, either untick the checkbox in Fan Control, or manually delete the "Fan Control" task in Windows Task Scheduler.
 
 ## Plugins
 
