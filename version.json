@@ -1,4 +1,4 @@
 {
-  "Number": 132,
-  "Message": "- Nvidia 0 RPM override option. "
+  "Number": 133,
+  "Message": "- Update LibreHardwareMonitorLib \r\n- Update Material Design version \r\n- Remember window maximized state \r\n- Save prompt now has a cancel button."
 }
