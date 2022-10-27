@@ -1,4 +1,4 @@
 {
-  "Number": 133,
-  "Message": "- Update LibreHardwareMonitorLib \r\n- Update Material Design version \r\n- Remember window maximized state \r\n- Save prompt now has a cancel button."
+  "Number": 134,
+  "Message": "- UI refinements \r\n- Sexier graph fan curve card \r\n- Failed initialization will now prompt the sensor settings"
 }

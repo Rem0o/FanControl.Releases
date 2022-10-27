@@ -35,7 +35,9 @@ JayzTwoCents - Everyone NEEDS this FREE piece of software... You will thank me!
 ![Fan Control](Images/MainUI.png)
 
 ## New
-* __(NEW) 0 RPM override for Nvidia cards__
+* __(NEW) When the app fail to start due to sensor initialization issue, the sensor settings window will open__
+* __(NEW) Refined UI__
+* 0 RPM override for Nvidia cards
 * Opt-out of update popup for a specific version
 * Configurable temperature range for graphs
 
