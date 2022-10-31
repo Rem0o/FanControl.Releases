@@ -61,7 +61,6 @@ From the community (notify me if I'm missing some):
 * https://github.com/fu-raz/FanControlThermaltake
 * https://github.com/jmarucha/FanControl.Liquidctl
 * https://github.com/Mourdraug/FanControl.AsusWMI to interface with ASUS motherboards through WMI methods
-* https://github.com/iJacks1980/FanControl.CommanderPRO to interface with Corsair commander devices
 * https://github.com/medevil84/FanControl.AquacomputerHighFlowNext to interface with aquacomputer HighFlowNext 
 * https://github.com/vision57/FanControl.GPU-Z
 
