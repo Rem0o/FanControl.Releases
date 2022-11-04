@@ -25,21 +25,22 @@ JayzTwoCents - Everyone NEEDS this FREE piece of software... You will thank me!
 
 * Guided __setup__ process on first launch
 * Save, edit and load multiple __profiles__
-* Change the __theme__ and __color__ to fit your setup
+* Change the __theme__ and __color__ of the application.
 * Multiple temperature __sources__ ( CPU, GPU, motherboard, hard drives... )
 * Multiple fan curve __[functions](#fan-curve-types)__, including a custom __[graph](#graph-fan-curve-editor)__
 * __Mix__ fan curves or sensor togethers (max, min, average)
 * Low resource usage
 * Advanced tuning with steps, start %, stop %, response time and hysteresis
 
-![Fan Control](Images/MainUI.png)
-
-## New
-* __(NEW) When the app fail to start due to sensor initialization issue, the sensor settings window will open__
-* __(NEW) Refined UI__
+## __New__
+* __(NEW)__ Use the -c or --config [json config file] command line argument while the app is open to switch config. Create shortcuts with predefined configs.
+* __(NEW)__ When the app fail to start due to sensor initialization issue, the sensor settings window will open
+* __(NEW)__ Refined UI
 * 0 RPM override for Nvidia cards
-* Opt-out of update popup for a specific version
-* Configurable temperature range for graphs
+<br/>
+<br/>
+
+![Fan Control](Images/MainUI.png)
 
 ## Installation
 
@@ -93,7 +94,7 @@ From Rem0o
 
 ## Fan curve types
 
-* (NEW) Auto: PI controller-ish type function. % will surf until temp is stable at load. 
+* Auto: PI controller-ish type function. % will surf until temp is stable at load. 
 * Linear : Temperature based linear function
 * Graph : Temperature based custom curve
 * Target: Temperature based that holds speed until target temperature is reached
@@ -103,7 +104,7 @@ From Rem0o
 
 ## Graph fan curve editor
 
-* (NEW) Change the temperature range for finer control over a small range
+* __(NEW)__ Change the temperature range for finer control over a small range
 * Add, remove and drag points arround the graph
 * Copy and paste points from a graph to another
 * Fine-tune the response with the hysteresis and response time parameters

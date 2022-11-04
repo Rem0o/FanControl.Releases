@@ -1,4 +1,4 @@
 {
-  "Number": 135,
-  "Message": "- Fixed initialization bug \r\n- UI refinements \r\n- Sexier graph fan curve card \r\n- Failed initialization will now prompt the sensor settings"
+  "Number": 136,
+  "Message": "- Use -c or --config [CONFIG FILE] argument to change config at runtime.\r\n- Create shortcuts, bind them to hotkeys with your favorite app, or automate as you please.\r\n- Small bug fixes"
 }
