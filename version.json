@@ -1,4 +1,4 @@
 {
-  "Number": 136,
-  "Message": "- Use -c or --config [CONFIG FILE] argument to change config at runtime.\r\n- Create shortcuts, bind them to hotkeys with your favorite app, or automate as you please.\r\n- Small bug fixes"
+  "Number": 137,
+  "Message": "- Updated LibreHardwareMonitorLib (NCT6799D, NCT6686D, Windows storage spaces) \r\n- Renamed target fan curve to trigger fan curve to better reflect its internal logic."
 }

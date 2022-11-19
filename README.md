@@ -97,7 +97,7 @@ From Rem0o
 * Auto: PI controller-ish type function. % will surf until temp is stable at load. 
 * Linear : Temperature based linear function
 * Graph : Temperature based custom curve
-* Target: Temperature based that holds speed until target temperature is reached
+* Trigger: Temperature based that holds speed until trigger temperatures are reached
 * Mix : Use two different curves and apply a mix function (Min, Max, Sum, Average, Subtract)
 * Sync : Sync to an existing control
 * Flat: Set a fixed %
