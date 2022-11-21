@@ -16,6 +16,13 @@
 [![Download](https://img.shields.io/badge/Download-FanControl-green.svg?style=flat&logo=download)](/FanControl.zip?raw=true)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat&logo=paypal)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=N4JPSTUQHRJM8&currency_code=USD&source=url&item_name=Fan+Control)
 
+
+# __\*Important\*__
+The updater.exe triggers a false-positive though Windows Defender. Waiting for the false-positive review by Microsoft.
+
+See this [issue](https://github.com/Rem0o/FanControl.Releases/issues/1297).
+
+
 ## Featured On
 JayzTwoCents - Everyone NEEDS this FREE piece of software... You will thank me!
 
