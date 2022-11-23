@@ -16,6 +16,9 @@
 [![Download](https://img.shields.io/badge/Download-FanControl-green.svg?style=flat&logo=download)](/FanControl.zip?raw=true)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat&logo=paypal)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=N4JPSTUQHRJM8&currency_code=USD&source=url&item_name=Fan+Control)
 
+# Documentation
+
+https://getfancontrol.com/docs/
 
 # __\*Important\*__
 The updater.exe triggers a false-positive though Windows Defender. Waiting for the false-positive review by Microsoft.
@@ -98,16 +101,6 @@ From Rem0o
 <br>__A__: Click on its card's icon at the top left, a dialog will tell you.
 * __Q__: Does it run on my OS?
 <br>__A__: If your OS is Windows 10 __Or 11__, yes.
-
-## Fan curve types
-
-* Auto: PI controller-ish type function. % will surf until temp is stable at load. 
-* Linear : Temperature based linear function
-* Graph : Temperature based custom curve
-* Trigger: Temperature based that holds speed until trigger temperatures are reached
-* Mix : Use two different curves and apply a mix function (Min, Max, Sum, Average, Subtract)
-* Sync : Sync to an existing control
-* Flat: Set a fixed %
 
 ## Graph fan curve editor
 
