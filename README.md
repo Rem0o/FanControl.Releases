@@ -20,12 +20,6 @@
 
 https://getfancontrol.com/docs/
 
-# __\*Important\*__
-The updater.exe triggers a false-positive though Windows Defender. Waiting for the false-positive review by Microsoft.
-
-See this [issue](https://github.com/Rem0o/FanControl.Releases/issues/1297).
-
-
 ## Featured On
 JayzTwoCents - Everyone NEEDS this FREE piece of software... You will thank me!
 
