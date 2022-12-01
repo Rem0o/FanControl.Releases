@@ -1,4 +1,4 @@
 {
-  "Number": 137,
-  "Message": "- Updated LibreHardwareMonitorLib (NCT6799D, NCT6686D, Windows storage spaces) \r\n- Renamed target fan curve to trigger fan curve to better reflect its internal logic."
+  "Number": 138,
+  "Message": "-Minimum % feature on control cards \r\n- Updated LibreHardwareMonitorLib \r\n- Add EULA to the program."
 }

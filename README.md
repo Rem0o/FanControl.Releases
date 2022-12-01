@@ -31,15 +31,16 @@ JayzTwoCents - Everyone NEEDS this FREE piece of software... You will thank me!
 * Save, edit and load multiple __profiles__
 * Change the __theme__ and __color__ of the application.
 * Multiple temperature __sources__ ( CPU, GPU, motherboard, hard drives... )
-* Multiple fan curve __[functions](#fan-curve-types)__, including a custom __[graph](#graph-fan-curve-editor)__
+* Multiple fan curve __[functions](https://getfancontrol.com/docs)__, including a custom __[graph](#graph-fan-curve-editor)__
 * __Mix__ fan curves or sensor togethers (max, min, average)
 * Low resource usage
 * Advanced tuning with steps, start %, stop %, response time and hysteresis
 
 ## __New__
-* __(NEW)__ Use the -c or --config [json config file] command line argument while the app is open to switch config. Create shortcuts with predefined configs.
-* __(NEW)__ When the app fail to start due to sensor initialization issue, the sensor settings window will open
-* __(NEW)__ Refined UI
+* __(NEW)__ Minimum % on control cards
+* Use the -c or --config [json config file] command line argument while the app is open to switch config. Create shortcuts with predefined configs.
+* When the app fail to start due to sensor initialization issue, the sensor settings window will open
+* Refined UI
 * 0 RPM override for Nvidia cards
 <br/>
 <br/>
