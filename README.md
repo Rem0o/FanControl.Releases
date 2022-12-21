@@ -54,15 +54,11 @@ JayzTwoCents - Everyone NEEDS this FREE piece of software... You will thank me!
 3. Start FanControl.exe
 4. (Optional) -c or --config [json config file] command line arg 
 
-**Install with [Scoop](https://scoop.sh/#/apps?s=2&d=1&o=true&p=1&q=fan+control)**
+** Install with [Scoop](https://scoop.sh/#/apps?s=2&d=1&o=true&p=1&q=fan+control)**
 
-_First_
 ```
 scoop bucket add extras
-```
-_Second_
-```
-scoop install fan-control
+scoop install fancontrol
 ```
 
 ## Uninstall
