@@ -75,6 +75,7 @@ From the community (notify me if I'm missing some):
 * https://github.com/jmarucha/FanControl.Liquidctl
 * https://github.com/Mourdraug/FanControl.AsusWMI to interface with ASUS motherboards through WMI methods
 * https://github.com/medevil84/FanControl.AquacomputerHighFlowNext to interface with aquacomputer HighFlowNext 
+* https://github.com/FoPzl/FanControl.AquacomputerQuadro to interface with aquacomputer Quadro 
 * https://github.com/vision57/FanControl.GPU-Z
 
 From Rem0o
