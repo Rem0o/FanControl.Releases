@@ -1,0 +1,134 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>FanControl.Plugins</name>
+    </assembly>
+    <members>
+        <member name="T:FanControl.Plugins.IPlugin">
+            <summary>
+            Interface to implement a plugin. The life-cycle of the plugin is as follow:
+            Initialize => Load => Close. These methods should be able to be called in this order any number of times
+            without any side-effect or undisposed resources.
+            </summary>
+        </member>
+        <member name="P:FanControl.Plugins.IPlugin.Name">
+            <summary>
+            Unique name of the plugin. Will be displayed in the UI.
+            </summary>
+        </member>
+        <member name="M:FanControl.Plugins.IPlugin.Initialize">
+            <summary>
+            Called whenever the program starts or a refresh (Close + Initialize) is executed.
+            </summary>
+        </member>
+        <member name="M:FanControl.Plugins.IPlugin.Load(FanControl.Plugins.IPluginSensorsContainer)">
+            <summary>
+            Provides a container to inject sensors into fan control.
+            </summary>
+            <param name="_container">Container</param>
+        </member>
+        <member name="M:FanControl.Plugins.IPlugin.Close">
+            <summary>
+            Called whenever the program closes or a refresh (Close + Initialize) is executed.
+            </summary>
+        </member>
+        <member name="T:FanControl.Plugins.IPlugin2">
+            <summary>
+            Newer version of the plugin interface. 
+            Adds a new "update hook" that can be used to update everything that is managed by the plugin in a single call
+            Instead of using each <see cref="T:FanControl.Plugins.IPluginSensor"/> update method
+            Update will be called periodically after <see cref="M:FanControl.Plugins.IPlugin.Load(FanControl.Plugins.IPluginSensorsContainer)"/>
+            </summary>
+        </member>
+        <member name="M:FanControl.Plugins.IPlugin2.Update">
+            <summary>
+            This method will be called periodically by FanControl during its internal update cycle.
+            Use it to update any sensor or any ressource managed by the plugin.
+            </summary>
+        </member>
+        <member name="T:FanControl.Plugins.IPluginControlSensor">
+            <summary>
+            Represents a control sensor in the application.
+            </summary>
+        </member>
+        <member name="M:FanControl.Plugins.IPluginControlSensor.Set(System.Single)">
+            <summary>
+            Set the fan speed the control in percent. Called when the corresponding control is enabled.
+            </summary>
+            <param name="val">Value between 0 and 100</param>
+        </member>
+        <member name="M:FanControl.Plugins.IPluginControlSensor.Reset">
+            <summary>
+            Reset the control to its default state. Called once when the corresponding control is disabled.
+            </summary>
+        </member>
+        <member name="T:FanControl.Plugins.IPluginDialog">
+            <summary>
+            Dialog component to be injected in the constructor of a <see cref="T:FanControl.Plugins.IPlugin"/>.
+            </summary>
+        </member>
+        <member name="M:FanControl.Plugins.IPluginDialog.ShowMessageDialog(System.String)">
+            <summary>
+            Prompt a message dialog to the user
+            </summary>
+            <param name="message">Message to be shown to the user</param>
+            <returns>A task that ends when the dialog is closed.</returns>
+        </member>
+        <member name="T:FanControl.Plugins.IPluginLogger">
+            <summary>
+            Logger component to be injected in the constructor of a <see cref="T:FanControl.Plugins.IPlugin"/>.
+            </summary>
+        </member>
+        <member name="M:FanControl.Plugins.IPluginLogger.Log(System.String)">
+            <summary>
+            Log a message to the application logger.
+            </summary>
+            <param name="message"></param>
+        </member>
+        <member name="T:FanControl.Plugins.IPluginSensor">
+            <summary>
+            Represents a sensor in the application.
+            </summary>
+        </member>
+        <member name="P:FanControl.Plugins.IPluginSensor.Id">
+            <summary>
+            Unique id for the sensor.
+            </summary>
+        </member>
+        <member name="P:FanControl.Plugins.IPluginSensor.Name">
+            <summary>
+            Name that will be displayed to the user
+            </summary>
+        </member>
+        <member name="P:FanControl.Plugins.IPluginSensor.Value">
+            <summary>
+            Current value of the sensor
+            </summary>
+        </member>
+        <member name="M:FanControl.Plugins.IPluginSensor.Update">
+            <summary>
+            Update hook. This method will be called periodically by FanControl during its internal update cycle.
+            </summary>
+        </member>
+        <member name="T:FanControl.Plugins.IPluginSensorsContainer">
+            <summary>
+            Container to inject your sensors into FanControl.
+            </summary>
+        </member>
+        <member name="P:FanControl.Plugins.IPluginSensorsContainer.ControlSensors">
+            <summary>
+            Injection point for control sensors.
+            </summary>
+        </member>
+        <member name="P:FanControl.Plugins.IPluginSensorsContainer.FanSensors">
+            <summary>
+            Injection point for fan (RPM) sensors.
+            </summary>
+        </member>
+        <member name="P:FanControl.Plugins.IPluginSensorsContainer.TempSensors">
+            <summary>
+            Injection point for temperature sensors.
+            </summary>
+        </member>
+    </members>
+</doc>

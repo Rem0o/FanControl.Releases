@@ -1,0 +1,26 @@
+﻿EULA and Privacy
+
+1) Responsibility
+
+By using Fan Control, the user holds responsibility for his computer and its components. The user has rights 
+and/or ownerships over the maintenance and the integrity of the computer and its components. Any damage or 
+overheating issue is the responsibility of the user. 
+
+2) Privacy
+
+Fan Control (the application) does not collect any data in its usage. 
+When an update is available, if downloaded through the built-in updater, a single post request will be sent 
+through Google Analytics* (GA4) with the version that is downloaded as its payload. This versioning data is 
+anonymous, and will not be used to identify any specific user by any first party. By using the built-in updater, 
+the user agrees to share the downloaded version number. This web request may be blocked and will not impact the 
+update process. The user can manually download any newer version without the built-in updater, if desired.
+
+*Google Analytics: https://policies.google.com/privacy?hl=en
+
+3) Open-source licenses
+
+LibreHardwareMonitor: https://github.com/LibreHardwareMonitor/LibreHardwareMonitor/blob/master/LICENSE
+MaterialDesignInXaml: https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/blob/master/LICENSE
+NvAPIWrapper.NET: https://github.com/falahati/NvAPIWrapper/blob/master/LICENSE
+gong-wpf-dragdrop: https://www.nuget.org/packages/gong-wpf-dragdrop/3.2.0/license
+Newtonsoft: https://licenses.nuget.org/MIT
