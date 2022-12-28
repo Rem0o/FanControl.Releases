@@ -16,6 +16,20 @@
 [![Download](https://img.shields.io/badge/Download-FanControl-green.svg?style=flat&logo=download)](/FanControl.zip?raw=true)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat&logo=paypal)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=N4JPSTUQHRJM8&currency_code=USD&source=url&item_name=Fan+Control)
 
+## Installation
+
+1. [Download the latest archive](/FanControl.zip?raw=true)
+2. Extract to the desired installation folder
+3. Start FanControl.exe
+4. (Optional) -c or --config [json config file] command line arg 
+
+### Install with [Scoop](https://scoop.sh/#/apps?s=2&d=1&o=true&p=1&q=fan+control)
+
+```
+scoop bucket add extras
+scoop install fancontrol
+```
+
 # Documentation
 
 https://getfancontrol.com/docs/
@@ -46,20 +60,6 @@ JayzTwoCents - Everyone NEEDS this FREE piece of software... You will thank me!
 <br/>
 
 ![Fan Control](Images/MainUI.png)
-
-## Installation
-
-1. [Download the latest archive](/FanControl.zip?raw=true)
-2. Extract to the desired installation folder
-3. Start FanControl.exe
-4. (Optional) -c or --config [json config file] command line arg 
-
-### Install with [Scoop](https://scoop.sh/#/apps?s=2&d=1&o=true&p=1&q=fan+control)
-
-```
-scoop bucket add extras
-scoop install fancontrol
-```
 
 ## Uninstall
 Fan Control is a stand-alone app. You can leave the files there for use further down the line, or delete them.
