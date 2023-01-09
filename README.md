@@ -77,6 +77,7 @@ From the community (notify me if I'm missing some):
 * https://github.com/medevil84/FanControl.AquacomputerHighFlowNext to interface with aquacomputer HighFlowNext 
 * https://github.com/FoPzl/FanControl.AquacomputerQuadro to interface with aquacomputer Quadro 
 * https://github.com/vision57/FanControl.GPU-Z
+* https://github.com/EvanMulawski/FanControl.CorsairLink to interface with Corsair Commander controllers
 
 From Rem0o
 * https://github.com/Rem0o/FanControl.HWInfo to import HWInfo sensor data
