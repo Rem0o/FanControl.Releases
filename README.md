@@ -39,6 +39,11 @@ JayzTwoCents - Everyone NEEDS this FREE piece of software... You will thank me!
 
 <a href="https://www.youtube.com/watch?v=uDPKVKBMQU8"><img alt="JayzTwoCents - Everyone NEEDS this FREE piece of software... You will thank me!" src="https://i.ytimg.com/vi/uDPKVKBMQU8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&amp;rs=AOn4CLDpjcuKgjSlSO8bZt8bcG4eKoRB4Q" width="350" /></a>
 
+Tonton Jo - Les Tools: No. 19: Fan control - L'outil ultime pour la gestion des ventilateurs de votre PC
+
+<a href="https://youtu.be/F-74iaJCgWQ"><img alt="Tonton Jo - Les Tools: No. 19: Fan control - L'outil ultime pour la gestion des ventilateurs de votre PC
+" src="https://i.ytimg.com/vi/F-74iaJCgWQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&amp;rs=AOn4CLDpjcuKgjSlSO8bZt8bcG4eKoRB4Q" width="350" /></a>
+
 ## Main features
 
 * Guided __setup__ process on first launch
