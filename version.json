@@ -1,4 +1,4 @@
 {
-  "Number": 143,
-  "Message": "- Change the color of any tray icon via the appearance dialog\r\n- Added the option to disable Asus EC in sensor settings"
+  "Number": 144,
+  "Message": "- Hold windows shutdown/restart until the app closes properly\r\n- Migrate user config files to Configuration folder."
 }
