@@ -1,4 +1,4 @@
 {
-  "Number": 144,
-  "Message": "- Hold windows shutdown/restart until the app closes properly\r\n- Migrate user config files to Configuration folder."
+  "Number": 145,
+  "Message": "- New plugin view that lists sensors provided by a plugin\r\n- Proportional offset option for Sync fan curve."
 }
