@@ -1,4 +1,4 @@
 {
-  "Number": 145,
-  "Message": "- New plugin view that lists sensors provided by a plugin\r\n- Proportional offset option for Sync fan curve."
+  "Number": 146,
+  "Message": "- You can now hide fan curves like controls and speeds\r\n- Bugfix: saving proportional option on sync fan curve"
 }
