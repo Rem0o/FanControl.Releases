@@ -1,4 +1,4 @@
 {
-  "Number": 146,
-  "Message": "- You can now hide fan curves like controls and speeds\r\n- Bugfix: saving proportional option on sync fan curve"
+  "Number": 147,
+  "Message": "- Main window will now be responsive at startup when initializing sensors\r\n- Fixed clicking onto graph points moving them\r\n- Curves and custom sensors that failed to restore due to a missing sensor will now be shown\r\n- Updated LibreHardwareMonitorLib"
 }
