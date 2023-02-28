@@ -1,4 +1,4 @@
 {
-  "Number": 147,
-  "Message": "- Main window will now be responsive at startup when initializing sensors\r\n- Fixed clicking onto graph points moving them\r\n- Curves and custom sensors that failed to restore due to a missing sensor will now be shown\r\n- Updated LibreHardwareMonitorLib"
+  "Number": 148,
+  "Message": "- Fixed a bug where dialogs would be invoked while the window is not visible.\r\n- Fixed a bug where the window would always be shown after sleep.\r\n- Updated LibreHardwareMonitorLib"
 }
