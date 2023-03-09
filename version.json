@@ -1,4 +1,4 @@
 {
-  "Number": 148,
-  "Message": "- Fixed a bug where dialogs would be invoked while the window is not visible.\r\n- Fixed a bug where the window would always be shown after sleep.\r\n- Updated LibreHardwareMonitorLib"
+  "Number": 149,
+  "Message": "- Update LibreHardwareMonitorLib"
 }
