@@ -1,4 +1,8 @@
 {
-  "Number": 149,
-  "Message": "- Update LibreHardwareMonitorLib"
+    "Number":  149,
+    "Message":  "- Update LibreHardwareMonitorLib",
+    "Checksums":  {
+                      "FanControl":  "1030FDB7F884311A7EF7D19EC7C58D32",
+                      "Updater":  "B43552FE7FCC5A33FEF7B25CA141CF04"
+                  }
 }
