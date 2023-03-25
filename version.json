@@ -1,8 +1,8 @@
 {
-    "Number":  151,
-    "Message":  "- Fix flat fan curve not applying %\r\n- New offset custom sensor\r\n- Fix tray icon bugs\r\n- Identification dialog will now also rename the corresponding speed sensor\r\n- Update LibreHardwareMonitorLib\r\n- Update process now has checksum validation",
+    "Number":  152,
+    "Message":  "- You can now hide custom sensors\r\n- Update LibreHardwareMonitorLib",
     "Checksums":  {
-                      "FanControl":  "26D178E6DC8ECB958FCA4AFCDBFCAE68",
+                      "FanControl":  "A1F65293533C5C0B6E6A88A5EB00038F",
                       "Updater":  "FC9035CE9F9C560ACB8863936E73A172"
                   }
 }
