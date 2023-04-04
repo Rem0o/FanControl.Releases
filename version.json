@@ -1,8 +1,8 @@
 {
-    "Number":  152,
-    "Message":  "- You can now hide custom sensors\r\n- Update LibreHardwareMonitorLib",
+    "Number":  153,
+    "Message":  "- InpOut is now activated by default (support for Gigabyte 2nd chips)\r\n- Update LibreHardwareMonitorLib\r\n- TieredPGO is now on for the NET 7.0 version",
     "Checksums":  {
-                      "FanControl":  "A1F65293533C5C0B6E6A88A5EB00038F",
+                      "FanControl":  "44FCE67D6DA0AB0282640C5D3CDC5349",
                       "Updater":  "FC9035CE9F9C560ACB8863936E73A172"
                   }
 }
