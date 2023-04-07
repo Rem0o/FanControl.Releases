@@ -78,6 +78,7 @@ From the community (notify me if I'm missing some):
 * https://github.com/FoPzl/FanControl.AquacomputerQuadro to interface with aquacomputer Quadro 
 * https://github.com/vision57/FanControl.GPU-Z
 * https://github.com/EvanMulawski/FanControl.CorsairLink to interface with Corsair Commander controllers and Hydro liquid coolers
+* https://github.com/hgross/FanControl.HomeAssistant to interface with [HomeAssistant](https://github.com/home-assistant) connected temperature sensors (i.e. ambient temperatures via Philips Hue, HomeMatic, HomeKit or many other brands & protocols)
 
 From Rem0o
 * (EXPERIMENTAL) https://github.com/Rem0o/FanControl.ADLX (AMD gpus)
