@@ -74,7 +74,7 @@ From the community (notify me if I'm missing some):
 * https://github.com/fu-raz/FanControlThermaltake
 * https://github.com/jmarucha/FanControl.Liquidctl
 * https://github.com/Mourdraug/FanControl.AsusWMI to interface with ASUS motherboards through WMI methods
-* https://github.com/medevil84/FanControl.AquacomputerHighFlowNext to interface with aquacomputer HighFlowNext 
+* https://github.com/medevil84/FanControl.AquacomputerDevices to interface with aquacomputer HighFlowNext, Quadro and Octo devices
 * https://github.com/FoPzl/FanControl.AquacomputerQuadro to interface with aquacomputer Quadro 
 * https://github.com/vision57/FanControl.GPU-Z
 * https://github.com/EvanMulawski/FanControl.CorsairLink to interface with Corsair Commander controllers and Hydro liquid coolers
