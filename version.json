@@ -1,8 +1,9 @@
 {
-    "Number":  153,
-    "Message":  "- InpOut is now activated by default (support for Gigabyte 2nd chips)\r\n- Update LibreHardwareMonitorLib\r\n- TieredPGO is now on for the NET 7.0 version",
+    "Number":  154,
+    "Message":  "- Updater now works properly for both NET 7.0 and NET 4.8 releases\r\n- Updated LibreHardwareMonitorLib\r\n- InpOut is now opt-in",
     "Checksums":  {
-                      "FanControl":  "44FCE67D6DA0AB0282640C5D3CDC5349",
-                      "Updater":  "FC9035CE9F9C560ACB8863936E73A172"
+                      "FanControl_4_8":  "F36C7C0648AF53B09A00580DFC7CDD71",
+                      "FanControl_7_0":  "D259A78D4AB1DBF04375D021703D3FFC",
+                      "Updater":  "9910E9F602F57D364ADCF7D2862B7C05"
                   }
 }
