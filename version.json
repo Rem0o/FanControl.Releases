@@ -1,9 +1,9 @@
 {
-    "Number":  154,
-    "Message":  "- Updater now works properly for both NET 7.0 and NET 4.8 releases\r\n- Updated LibreHardwareMonitorLib\r\n- InpOut is now opt-in",
+    "Number":  155,
+    "Message":  "- Fix time average sensor logic\r\n- Fix an instance where the main window would pop up on start\r\n- Added sponsor button",
     "Checksums":  {
-                      "FanControl_4_8":  "F36C7C0648AF53B09A00580DFC7CDD71",
-                      "FanControl_7_0":  "D259A78D4AB1DBF04375D021703D3FFC",
-                      "Updater":  "69838B0F5936A349814662D845000134"
+                      "FanControl_4_8":  "89138BA33B8E3ABBF764A6F03ADE5665",
+                      "FanControl_7_0":  "452859B152733A8C9356FDDD428B875F",
+                      "Updater":  "FE97B39DD8E0B69687592D591DA6DA94"
                   }
 }
