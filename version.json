@@ -1,9 +1,9 @@
 {
-    "Number":  155,
-    "Message":  "- Fix time average sensor logic\r\n- Fix an instance where the main window would pop up on start\r\n- Added sponsor button",
+    "Number":  156,
+    "Message":  "- New feature: Import from config\r\n- Fixed a bug in the graph editor\r\n- Fixed a bug where the main window would show after initialization sequence",
     "Checksums":  {
-                      "FanControl_4_8":  "89138BA33B8E3ABBF764A6F03ADE5665",
-                      "FanControl_7_0":  "452859B152733A8C9356FDDD428B875F",
+                      "FanControl_4_8":  "9D2EA1A4DE6F3AA0D7C81C0BA2A7B2F1",
+                      "FanControl_7_0":  "D2A61B57C230AAC55A52CB741D61FF84",
                       "Updater":  "FE97B39DD8E0B69687592D591DA6DA94"
                   }
 }
