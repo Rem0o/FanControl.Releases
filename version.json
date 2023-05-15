@@ -1,9 +1,9 @@
 {
-    "Number":  156,
-    "Message":  "- New feature: Import from config\r\n- Fixed a bug in the graph editor\r\n- Fixed a bug where the main window would show after initialization sequence",
+    "Number":  157,
+    "Message":  "- Add warning for InpOut\r\n- Update LibreHardwareMonitorLib\r\n- Small bug fixes",
     "Checksums":  {
-                      "FanControl_4_8":  "9D2EA1A4DE6F3AA0D7C81C0BA2A7B2F1",
-                      "FanControl_7_0":  "D2A61B57C230AAC55A52CB741D61FF84",
+                      "FanControl_4_8":  "F3A2405F95B7724BA1A983A865BA860E",
+                      "FanControl_7_0":  "8A6ABD944D807D501E5BACD76E62B414",
                       "Updater":  "FE97B39DD8E0B69687592D591DA6DA94"
                   }
 }
