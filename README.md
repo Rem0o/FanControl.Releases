@@ -78,6 +78,7 @@ From the community (notify me if I'm missing some):
 * https://github.com/FoPzl/FanControl.AquacomputerQuadro to interface with aquacomputer Quadro 
 * https://github.com/vision57/FanControl.GPU-Z
 * https://github.com/EvanMulawski/FanControl.CorsairLink to interface with Corsair Commander controllers and Hydro liquid coolers
+* https://github.com/EvanMulawski/FanControl.Razer to interface with Razer devices
 * https://github.com/hgross/FanControl.HomeAssistant to interface with [HomeAssistant](https://github.com/home-assistant) connected temperature sensors (i.e. ambient temperatures via Philips Hue, HomeMatic, HomeKit or many other brands & protocols)
 * https://github.com/brokenmass/Fancontrol.NzxtKraken to interface with NZXT Kraken AIO that are not yet supported by LibreHardwareMonitor for example `Kraken X2` and `Kraken X3 - new PID`. See [LHM PR](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor/pull/1078)
 
