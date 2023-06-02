@@ -1,9 +1,9 @@
 {
-    "Number":  158,
-    "Message":  "- File sensors now can be anywhere on your system (rooted path)\r\n- Updated LibreHardwareMonitorLib",
+    "Number":  159,
+    "Message":  "- File sensors now can be anywhere on your system (rooted path)\r\n- Updated LibreHardwareMonitorLib\r\n- Fixed a bug in V158 where sensors would be duplicated",
     "Checksums":  {
-                      "FanControl_4_8":  "32343E55C3422D353C4295FEA4495837",
-                      "FanControl_7_0":  "AA3AE0C22F9214794E38F07048324658",
+                      "FanControl_4_8":  "48DEF82FE8078A648483B8E2EB6D0651",
+                      "FanControl_7_0":  "3975C7D98D918FB78778E032314CDAF5",
                       "Updater":  "FE97B39DD8E0B69687592D591DA6DA94"
                   }
 }
