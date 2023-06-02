@@ -1,9 +1,9 @@
 {
-    "Number":  157,
-    "Message":  "- Add warning for InpOut\r\n- Update LibreHardwareMonitorLib\r\n- Small bug fixes",
+    "Number":  158,
+    "Message":  "- File sensors now can be anywhere on your system (rooted path)\r\n- Updated LibreHardwareMonitorLib",
     "Checksums":  {
-                      "FanControl_4_8":  "F3A2405F95B7724BA1A983A865BA860E",
-                      "FanControl_7_0":  "8A6ABD944D807D501E5BACD76E62B414",
+                      "FanControl_4_8":  "32343E55C3422D353C4295FEA4495837",
+                      "FanControl_7_0":  "AA3AE0C22F9214794E38F07048324658",
                       "Updater":  "FE97B39DD8E0B69687592D591DA6DA94"
                   }
 }
