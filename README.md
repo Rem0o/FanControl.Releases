@@ -81,6 +81,7 @@ From the community (notify me if I'm missing some):
 * https://github.com/EvanMulawski/FanControl.Razer to interface with Razer devices
 * https://github.com/hgross/FanControl.HomeAssistant to interface with [HomeAssistant](https://github.com/home-assistant) connected temperature sensors (i.e. ambient temperatures via Philips Hue, HomeMatic, HomeKit or many other brands & protocols)
 * https://github.com/brokenmass/Fancontrol.NzxtKraken to interface with NZXT Kraken AIO that are not yet supported by LibreHardwareMonitor for example `Kraken X2` and `Kraken X3 - new PID`. See [LHM PR](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor/pull/1078)
+* https://github.com/EightB1ts/FanControl.LianLi to interface with LianLi [L-Connect 3](https://lian-li.com/l-connect3/) fan controllers
 
 From Rem0o
 * (EXPERIMENTAL) https://github.com/Rem0o/FanControl.ADLX (AMD gpus)
