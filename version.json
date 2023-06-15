@@ -1,9 +1,9 @@
 {
-    "Number":  159,
-    "Message":  "- File sensors now can be anywhere on your system (rooted path)\r\n- Updated LibreHardwareMonitorLib\r\n- Fixed a bug in V158 where sensors would be duplicated",
+    "Number":  160,
+    "Message":  "- Create new configuration (blank) dialog\r\n- The background and foreground color now change slightly based on your primary coor\r\n- Updated LibreHardwareMonitorLib",
     "Checksums":  {
-                      "FanControl_4_8":  "48DEF82FE8078A648483B8E2EB6D0651",
-                      "FanControl_7_0":  "3975C7D98D918FB78778E032314CDAF5",
+                      "FanControl_4_8":  "8BA052877F854CD2E3699F8F59A8B841",
+                      "FanControl_7_0":  "17D77EDADD83BB88D8FBB2D5FE82E6A5",
                       "Updater":  "ADC10AD5948163A879C7309AB333D912"
                   }
 }
