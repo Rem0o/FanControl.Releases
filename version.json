@@ -1,6 +1,6 @@
 {
     "Number":  160,
-    "Message":  "- Create new configuration (blank) dialog\r\n- The background and foreground color now change slightly based on your primary coor\r\n- Updated LibreHardwareMonitorLib",
+    "Message":  "- Create new configuration (blank) dialog\r\n- The background and foreground color now change slightly based on your primary color\r\n- Updated LibreHardwareMonitorLib",
     "Checksums":  {
                       "FanControl_4_8":  "8BA052877F854CD2E3699F8F59A8B841",
                       "FanControl_7_0":  "17D77EDADD83BB88D8FBB2D5FE82E6A5",
