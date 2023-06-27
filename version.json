@@ -1,9 +1,9 @@
 {
-    "Number":  160,
-    "Message":  "- Create new configuration (blank) dialog\r\n- The background and foreground color now change slightly based on your primary color\r\n- Updated LibreHardwareMonitorLib",
+    "Number":  161,
+    "Message":  "- Goodbye to the hamburger menu.\r\n- Say hello the the sidebar menu.\r\n- Updated LibreHardwareMonitorLib.",
     "Checksums":  {
-                      "FanControl_4_8":  "8BA052877F854CD2E3699F8F59A8B841",
-                      "FanControl_7_0":  "17D77EDADD83BB88D8FBB2D5FE82E6A5",
-                      "Updater":  "ADC10AD5948163A879C7309AB333D912"
+                      "FanControl_4_8":  "830CC0C4DF9B95DD5568339D80D9353D",
+                      "FanControl_7_0":  "839301FB25415A19731BAEF08410FD31",
+                      "Updater":  "508DCD773CF19684359FAD757EBF480F"
                   }
 }
