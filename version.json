@@ -1,9 +1,9 @@
 {
-    "Number":  161,
-    "Message":  "- Goodbye to the hamburger menu.\r\n- Say hello the the sidebar menu.\r\n- Updated LibreHardwareMonitorLib.",
+    "Number":  162,
+    "Message":  "- Hamburger is back, sort off. It will now show/hide the column menu on the side.\r\n- You can now opt out of the update popup at startup in the settings page.\r\n- An icon will be displayed near the top right three dot menu when an update is available.\r\n- Updated LibreHardwareMonitorLib.",
     "Checksums":  {
-                      "FanControl_4_8":  "830CC0C4DF9B95DD5568339D80D9353D",
-                      "FanControl_7_0":  "839301FB25415A19731BAEF08410FD31",
+                      "FanControl_4_8":  "D226F33F1CB6AD67831D27D69FA82A6E",
+                      "FanControl_7_0":  "61A72F601DFBC276A699ADBBA486005E",
                       "Updater":  "508DCD773CF19684359FAD757EBF480F"
                   }
 }
