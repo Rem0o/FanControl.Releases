@@ -1,9 +1,9 @@
 {
-    "Number":  162,
-    "Message":  "- Hamburger is back, sort off. It will now show/hide the column menu on the side.\r\n- You can now opt out of the update popup at startup in the settings page.\r\n- An icon will be displayed near the top right three dot menu when an update is available.\r\n- Updated LibreHardwareMonitorLib.",
+    "Number":  163,
+    "Message":  "- Bug fixes\r\n- New interface to be injected in plugins to show main window\r\n- Updated LibreHardwareMonitorLib",
     "Checksums":  {
-                      "FanControl_4_8":  "D226F33F1CB6AD67831D27D69FA82A6E",
-                      "FanControl_7_0":  "61A72F601DFBC276A699ADBBA486005E",
+                      "FanControl_4_8":  "F16F1C5E5007392F0000E65D92AF43F6",
+                      "FanControl_7_0":  "FFAECC82A036E581E6ABE5BC288463B5",
                       "Updater":  "508DCD773CF19684359FAD757EBF480F"
                   }
 }
