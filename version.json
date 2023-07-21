@@ -1,9 +1,9 @@
 {
-    "Number":  163,
-    "Message":  "- Bug fixes\r\n- New interface to be injected in plugins to show main window\r\n- Updated LibreHardwareMonitorLib",
+    "Number":  164,
+    "Message":  "- Various bug fixes\r\n- Simplify scheduled task\r\n- Preview cards in theme page",
     "Checksums":  {
-                      "FanControl_4_8":  "F16F1C5E5007392F0000E65D92AF43F6",
-                      "FanControl_7_0":  "FFAECC82A036E581E6ABE5BC288463B5",
+                      "FanControl_4_8":  "DCD80C7E9B846A13E6FE85E72A32102F",
+                      "FanControl_7_0":  "0237602FC456A81808B6771DB8C06C60",
                       "Updater":  "508DCD773CF19684359FAD757EBF480F"
                   }
 }
