@@ -1,9 +1,9 @@
 {
-    "Number":  164,
-    "Message":  "- Various bug fixes\r\n- Simplify scheduled task\r\n- Preview cards in theme page",
+    "Number":  165,
+    "Message":  "- Improved tray icon tooltip text\r\n- Various bug fixes\r\n- Double click in load config dialog",
     "Checksums":  {
-                      "FanControl_4_8":  "DCD80C7E9B846A13E6FE85E72A32102F",
-                      "FanControl_7_0":  "0237602FC456A81808B6771DB8C06C60",
+                      "FanControl_4_8":  "895F1F6C96ED18BC47F74EA47230B9C5",
+                      "FanControl_7_0":  "9B1C93ADB08B79A2ADBE28CCCB7E5299",
                       "Updater":  "508DCD773CF19684359FAD757EBF480F"
                   }
 }
