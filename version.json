@@ -1,9 +1,9 @@
 {
-    "Number":  165,
-    "Message":  "- Improved tray icon tooltip text\r\n- Various bug fixes\r\n- Double click in load config dialog",
+    "Number":  166,
+    "Message":  "- Update LibreHardwareMonitorLib\r\n- Various bug fixes",
     "Checksums":  {
-                      "FanControl_4_8":  "895F1F6C96ED18BC47F74EA47230B9C5",
-                      "FanControl_7_0":  "9B1C93ADB08B79A2ADBE28CCCB7E5299",
+                      "FanControl_4_8":  "D42D171A9CFCE1583B62FC3533E4ECA4",
+                      "FanControl_7_0":  "DD4BFFE31CDA09A1AC1CD257AEE926CF",
                       "Updater":  "508DCD773CF19684359FAD757EBF480F"
                   }
 }
