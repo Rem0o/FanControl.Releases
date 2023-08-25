@@ -1,9 +1,9 @@
 {
-    "Number":  167,
-    "Message":  "- Fix a bug where the UI would become unresponsive.",
+    "Number":  168,
+    "Message":  "- Move view options to home page\r\n- Move sensor settings to settings page\r\n- Settings page overhaul\r\n- Update LibreHardwareMonitorLib",
     "Checksums":  {
-                      "FanControl_4_8":  "7B080DC0478F2891FB8D960D7649A63F",
-                      "FanControl_7_0":  "694CAF812899FFBE6B66A9F1AC719610",
+                      "FanControl_4_8":  "D194F0CA10AC46697DCBB0C490AAA5DF",
+                      "FanControl_7_0":  "0F031987F9279418A61B9686A11862EF",
                       "Updater":  "508DCD773CF19684359FAD757EBF480F"
                   }
 }
