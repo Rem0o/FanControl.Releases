@@ -1,9 +1,9 @@
 {
-    "Number":  169,
+    "Number":  170,
     "Message":  "- Simplify the manual pairing process for controls/speeds with a new dialog\r\n- UI tweaks\r\n- Serialization changes (will prompt for save)",
     "Checksums":  {
-                      "FanControl_4_8":  "FF5ED83ED380F80DB9845EAE96F5BD4C",
-                      "FanControl_7_0":  "0794ABFF1B22B935FEEC30A40FA30700",
+                      "FanControl_4_8":  "4130B3E1AE25E803C89543FCC5511D0C",
+                      "FanControl_7_0":  "2716ECDC696CA090BD504590E46899CE",
                       "Updater":  "508DCD773CF19684359FAD757EBF480F"
                   }
 }
