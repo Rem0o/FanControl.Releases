@@ -1,9 +1,9 @@
 {
-    "Number":  170,
-    "Message":  "- Simplify the manual pairing process for controls/speeds with a new dialog\r\n- UI tweaks\r\n- Serialization changes (will prompt for save)",
+    "Number":  171,
+    "Message":  "- Fixed a timeout issue with NZXT devices\r\n- New settings on Linear and Graph to ignore hysteresis at min and max temp (was enabled under the hood before, you can now disable it)",
     "Checksums":  {
-                      "FanControl_4_8":  "4130B3E1AE25E803C89543FCC5511D0C",
-                      "FanControl_7_0":  "2716ECDC696CA090BD504590E46899CE",
+                      "FanControl_4_8":  "D46E583358E3A1D974C44A9BF9F7598E",
+                      "FanControl_7_0":  "482AAE76EFFB2E11BAB3E19105BE9DF0",
                       "Updater":  "508DCD773CF19684359FAD757EBF480F"
                   }
 }
