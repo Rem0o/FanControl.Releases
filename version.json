@@ -1,9 +1,9 @@
 {
-    "Number":  172,
-    "Message":  "- Added keyboard shortcuts (see top right menu)\r\n- Fixed a bug with multi-instances scenarios\r\n- Settings page tweaks",
+    "Number":  173,
+    "Message":  "- Improve light mode contrast\r\n- Show message when using Windows 8.1 or below\r\n- Fix update order for complex fan curve/custom sensor scenarios\r\n- Fix hysteresis setting binding on graph triple dot menu\r\n- Better error handling when closing down/refreshing\r\n- Add Windows notification when an update is available and notifications are on",
     "Checksums":  {
-                      "FanControl_4_8":  "EBD9D1A1F1E468F118BF9FA4D378D258",
-                      "FanControl_7_0":  "6F8FE1E41D3FEC59D9A99CFBCFE7DAF9",
+                      "FanControl_4_8":  "65D0EBE33F4374D052204933D228EFC7",
+                      "FanControl_7_0":  "FB546F680C5CF81652C30204D57C2E80",
                       "Updater":  "508DCD773CF19684359FAD757EBF480F"
                   }
 }
