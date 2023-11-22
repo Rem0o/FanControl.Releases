@@ -1,9 +1,10 @@
 {
-    "Number":  173,
-    "Message":  "- Improve light mode contrast\r\n- Show message when using Windows 8.1 or below\r\n- Fix update order for complex fan curve/custom sensor scenarios\r\n- Fix hysteresis setting binding on graph triple dot menu\r\n- Better error handling when closing down/refreshing\r\n- Add Windows notification when an update is available and notifications are on",
+    "Number":  174,
+    "Message":  "- Add labels to \"+\" menu\r\n- UI tweaks\r\n- Update LibreHardwareMonitorLib and other dependencies",
     "Checksums":  {
-                      "FanControl_4_8":  "65D0EBE33F4374D052204933D228EFC7",
-                      "FanControl_7_0":  "FB546F680C5CF81652C30204D57C2E80",
-                      "Updater":  "508DCD773CF19684359FAD757EBF480F"
+                      "FanControl_4_8":  "08DD9D7F5B87362A96786070F3D44F29",
+                      "FanControl_7_0":  "27EB4E0CDD6E0A30D3AC36B2F13CA2CB",
+                      "Updater":  "EF1DC86F52FE7B0E52ACEC5030C4F866",
+                      "FanControl_8_0":  "D6F9416FB8A2699A5CFE8FB7EF5A3EE4"
                   }
 }
