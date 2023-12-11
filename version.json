@@ -1,11 +1,10 @@
 {
-    "Number":  174,
-    "Message":  "- Add labels to \"+\" menu\r\n- UI tweaks\r\n- Update LibreHardwareMonitorLib and other dependencies",
+    "Number":  175,
+    "Message":  "- Split the \"sync with windows\" setting for theme and tray icon color.\r\n- Fix the Load config window to have a maximum height + scrollbar.\r\n- Fix a bug with the update notification",
     "Checksums":  {
-        "FanControl_4_8":  "08DD9D7F5B87362A96786070F3D44F29",
-        "FanControl_7_0":  "27EB4E0CDD6E0A30D3AC36B2F13CA2CB",
-        "Updater":  "4998323B6A3AE40C420202EB773CF4A4",
-        "FanControl_8_0":  "D6F9416FB8A2699A5CFE8FB7EF5A3EE4"
-    }
+                      "FanControl_4_8":  "7224F12BC77D9CF21C453B2680E362BF",
+                      "FanControl_7_0":  "D42E79F26CC8FC051DFD27412767E784",
+                      "Updater":  "4998323B6A3AE40C420202EB773CF4A4",
+                      "FanControl_8_0":  "9B583F4B9595FB5132B315C484C1B9DE"
+                  }
 }
-
