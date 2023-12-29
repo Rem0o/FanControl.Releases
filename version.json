@@ -1,10 +1,10 @@
 {
-    "Number":  175,
-    "Message":  "- Split the \"sync with windows\" setting for theme and tray icon color.\r\n- Fix the Load config window to have a maximum height + scrollbar.\r\n- Fix a bug with the update notification",
+    "Number":  176,
+    "Message":  "- Bug fixes\r\n- Update LibreHardwareMonitorLib",
     "Checksums":  {
-                      "FanControl_4_8":  "7224F12BC77D9CF21C453B2680E362BF",
-                      "FanControl_7_0":  "D42E79F26CC8FC051DFD27412767E784",
+                      "FanControl_4_8":  "0D486C9717E038C2D2D5B1A4CA55C049",
+                      "FanControl_7_0":  "EBD0FDD2ABD0C89870B09633DE9F5413",
                       "Updater":  "4998323B6A3AE40C420202EB773CF4A4",
-                      "FanControl_8_0":  "9B583F4B9595FB5132B315C484C1B9DE"
+                      "FanControl_8_0":  "5393C1252ED9A969CDE9D244BA52EFEB"
                   }
 }
