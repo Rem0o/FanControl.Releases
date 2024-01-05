@@ -1,10 +1,10 @@
 {
-    "Number":  176,
+    "Number":  177,
     "Message":  "- Bug fixes\r\n- Update LibreHardwareMonitorLib",
     "Checksums":  {
-                      "FanControl_4_8":  "0D486C9717E038C2D2D5B1A4CA55C049",
-                      "FanControl_7_0":  "EBD0FDD2ABD0C89870B09633DE9F5413",
+                      "FanControl_4_8":  "7D0FE8504584ABC2A10FACD0D0408E1A",
+                      "FanControl_7_0":  "CB3B04E1B505E6D40FBFED427AEBBE5D",
                       "Updater":  "4998323B6A3AE40C420202EB773CF4A4",
-                      "FanControl_8_0":  "5393C1252ED9A969CDE9D244BA52EFEB"
+                      "FanControl_8_0":  "03B890C7EE65F7D76343FDB274EC3CDD"
                   }
 }
