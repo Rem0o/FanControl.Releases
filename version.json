@@ -1,10 +1,10 @@
 {
-    "Number":  177,
-    "Message":  "- Bug fixes\r\n- Update LibreHardwareMonitorLib",
+    "Number":  178,
+    "Message":  "- Fix a bug where sensor settings wouldn\u0027t be saved using the assisted setup.\r\n- Disable LHM if no sensor source is checked.\r\n- Change the title bar color based on current theme.\r\n- Update LibreHardwareMonitorLib",
     "Checksums":  {
-                      "FanControl_4_8":  "7D0FE8504584ABC2A10FACD0D0408E1A",
-                      "FanControl_7_0":  "CB3B04E1B505E6D40FBFED427AEBBE5D",
+                      "FanControl_4_8":  "5A60187ED804A3014AA4733205F11A0B",
+                      "FanControl_7_0":  "32D8415901DB2AAE64DBEA318C0068AB",
                       "Updater":  "4998323B6A3AE40C420202EB773CF4A4",
-                      "FanControl_8_0":  "03B890C7EE65F7D76343FDB274EC3CDD"
+                      "FanControl_8_0":  "04D2B8792EB3C753E6B5BA67D4375416"
                   }
 }
