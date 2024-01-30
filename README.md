@@ -78,6 +78,7 @@ From the community (notify me if I'm missing some):
 * https://github.com/brokenmass/Fancontrol.NzxtKraken to interface with NZXT Kraken AIO that are not yet supported by LibreHardwareMonitor for example `Kraken X2` and `Kraken X3 - new PID`. See [LHM PR](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor/pull/1078)
 * https://github.com/EightB1ts/FanControl.LianLi to interface with LianLi [L-Connect 3](https://lian-li.com/l-connect3/) fan controllers
 * https://github.com/TimSirmovics/FanControl.NvThermalSensors to get GPU Hot Spot and Memory Junction temperature for Nvidia GPUs
+* https://github.com/SasaKaranovic/FanControl.OpenFan to interface with [OpenFAN](https://github.com/SasaKaranovic/OpenFanController) controller
 
 From Rem0o
 * (EXPERIMENTAL) https://github.com/Rem0o/FanControl.ADLX (AMD gpus)
