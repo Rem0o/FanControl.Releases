@@ -1,10 +1,10 @@
 {
-    "Number":  179,
-    "Message":  "- Fix a bug where sensor settings wouldn\u0027t be saved using the assisted setup.\r\n- Disable LHM if no sensor source is checked.\r\n- Change the title bar color based on current theme.\r\n- Update LibreHardwareMonitorLib",
+    "Number":  180,
+    "Message":  "- Better NvAPI error handling\r\n- Fixed serialization issue\r\n- Added tooltip on textbox to show original sensor name\r\n- Small bug fixes",
     "Checksums":  {
-                      "FanControl_4_8":  "D659870343CFBEF7EBABA94FFD962A28",
-                      "FanControl_7_0":  "D91234516DFD374ECCBE3C74EBF3BC4C",
+                      "FanControl_4_8":  "AF1B862041DC363CA226BFDE0A2D6DA8",
+                      "FanControl_7_0":  "A286BCECB3C0D3F1DA08F8CE173E3D2B",
                       "Updater":  "4998323B6A3AE40C420202EB773CF4A4",
-                      "FanControl_8_0":  "D6186053B4C4EB69169166262AB9CFEC"
+                      "FanControl_8_0":  "93D85D91B5B3299A5DAA3C70904515EE"
                   }
 }
