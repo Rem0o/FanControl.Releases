@@ -99,6 +99,8 @@ From Rem0o
 <br>__A__: You want to avoid any "smart" control from your BIOS. Setting a fixed default speed, like 50%, works great for most people. Also keep an eye if your BIOS has PWM or DC mode on. One could work better for you depending on your setup.
 * __Q__: My Nvidia cards has X fans, but only two cards show up, why?
 <br>__A__: Your card only has 2 channels, more than 1 fan are plugged to the same channel.
+* __Q__: My Nvidia cards won't go below 30% and doesn't go to 0 RPM, why?
+<br>__A__: [See here](https://github.com/Rem0o/FanControl.Releases/wiki/Nvidia-30%25-and-0-RPM)
 * __Q__: My new AMD card can't be controlled, why?
 <br>__A__: Newer AMD cards are not supported. If you can provide a working sample of code that works with these newer cards, please share!
 * __Q__: There is no control cards / control cards are missing / control cards are not changing my fan speeds, what's the issue?
