@@ -22,8 +22,8 @@
 
 ## Installation
 
-1. [Download the latest archive](/FanControl.zip?raw=true)
-2. Extract to the desired installation folder
+1. [Download the latest archive](/FanControl.zip?raw=true) <i>or</i> [an installer from the release page](https://github.com/Rem0o/FanControl.Releases/releases). 
+2. Extract to the desired installation folder <i>or</i> run the installer
 3. Start FanControl.exe
 4. (Optional) -c or --config [json config file] command line arg 
 
@@ -57,9 +57,13 @@ JayzTwoCents - Everyone NEEDS this FREE piece of software... You will thank me!
 ![Fan Control](Images/MainUI.png)
 
 ## Uninstall
-Fan Control is a stand-alone app. You can leave the files there for use further down the line, or delete them.
 
+### Portable
+You can leave the files there for use further down the line, or delete them.
 Note: If you have Fan Control set to automatically start with Windows, either untick the checkbox in Fan Control, or manually delete the "Fan Control" task in Windows Task Scheduler.
+
+### Installer
+Uninstall like any other windows program through the programs list
 
 ## Plugins
 
