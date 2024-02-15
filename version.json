@@ -1,10 +1,12 @@
 {
-    "Number":  180,
-    "Message":  "- Better NvAPI error handling\r\n- Fixed serialization issue\r\n- Added tooltip on textbox to show original sensor name\r\n- Small bug fixes",
+    "Number":  181,
+    "Message":  "- Max response time increased from 60 to 300 seconds\r\n- Fixed a bug where a fan would stay stuck on its default %\r\n- Increased the set control % when pairing with the assisted setup\r\n- Software now available with an installer (portable still available)",
     "Checksums":  {
-                      "FanControl_4_8":  "AF1B862041DC363CA226BFDE0A2D6DA8",
-                      "FanControl_7_0":  "A286BCECB3C0D3F1DA08F8CE173E3D2B",
-                      "Updater":  "4998323B6A3AE40C420202EB773CF4A4",
-                      "FanControl_8_0":  "93D85D91B5B3299A5DAA3C70904515EE"
+                      "FanControl_4_8":  "BC0EB9699B7D333E13F198B406DB4944",
+                      "FanControl_7_0":  "C1AD1BE1F277CCDEC356947D710CFB73",
+                      "FanControl_8_0":  "4491189AFB075298B37B0375D15713B2",
+                      "FanControl_4_8_Installer":  "1B83CD70E35753F90912E4B147734B9C",
+                      "FanControl_8_0_Installer":  "4DA40EB6F6681AFB8E85F0F796537599",
+                      "Updater":  "4998323B6A3AE40C420202EB773CF4A4"
                   }
 }
