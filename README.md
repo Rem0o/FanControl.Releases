@@ -18,7 +18,7 @@
 
 ## New
 
-.NET 8 version now available. Had to update the Updater.exe to support the new version, might take some time for the usual Microsoft Defender false positive submission to go through.
+Installer now available in addition to the portable version of the application. Both .NET 4.8 and 8.0 versions of the application are available as such [here](https://github.com/Rem0o/FanControl.Releases/releases).
 
 ## Installation
 
