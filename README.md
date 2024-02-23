@@ -34,6 +34,12 @@ scoop bucket add extras
 scoop install fancontrol
 ```
 
+### Install with [Winget](https://apps.microsoft.com/detail/9nblggh4nns1?rtc=1&hl=en-us&gl=US#activetab=pivot:overviewtab)
+
+```
+winget install Rem0o.FanControl
+```
+
 # Documentation
 
 https://getfancontrol.com/docs/
