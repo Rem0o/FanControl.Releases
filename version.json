@@ -1,12 +1,11 @@
 {
-    "Number":  181,
-    "Message":  "- Max response time increased from 60 to 300 seconds\r\n- Fixed a bug where a fan would stay stuck on its default %\r\n- Increased the set control % when pairing with the assisted setup\r\n- Software now available with an installer (portable still available)",
+    "Number":  182,
+    "Message":  "- Controls can now be RPM calibrated.\r\n- Calibration can be done through the assisted setup or edited manually.\r\n- All fan curves can now be switched to RPM mode.\r\n- Controls now show their configuration status through a label.\r\n- .NET 7 version is now deprecated in favor of .NET 8.\r\n- Updated LibreHardwareMonitorLib.",
     "Checksums":  {
-                      "FanControl_4_8":  "BC0EB9699B7D333E13F198B406DB4944",
-                      "FanControl_7_0":  "C1AD1BE1F277CCDEC356947D710CFB73",
-                      "FanControl_8_0":  "4491189AFB075298B37B0375D15713B2",
-                      "FanControl_4_8_Installer":  "1B83CD70E35753F90912E4B147734B9C",
-                      "FanControl_8_0_Installer":  "4DA40EB6F6681AFB8E85F0F796537599",
+                      "FanControl_4_8":  "5F5F15B7D2DAEDB783DCABEAFD281FEE",
+                      "FanControl_8_0":  "D3E46E813C63155BDA628B2D33B9DB36",
+                      "FanControl_4_8_Installer":  "817CA74EC68DD9E9D37DBFB84BD37C44",
+                      "FanControl_8_0_Installer":  "D38F57675C35A4A3E1A73B86BC6B619F",
                       "Updater":  "3979183BCC2ED8463198F0197BC97F18"
                   }
 }
