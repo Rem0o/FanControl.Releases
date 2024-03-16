@@ -1,11 +1,11 @@
 {
-    "Number":  183,
-    "Message":  "- Controls can now be RPM calibrated.\r\n- Calibration can be done through the assisted setup or edited manually.\r\n- All fan curves can now be switched to RPM mode.\r\n- Controls now show their configuration status through a label.\r\n- .NET 7 version is now deprecated in favor of .NET 8.\r\n- Updated LibreHardwareMonitorLib.",
+    "Number":  184,
+    "Message":  "- Various calibration improvements\r\n- Fixed some UI bugs\r\n- Fixed capped RPM values out of mix fan curve",
     "Checksums":  {
-                      "FanControl_4_8":  "53A518163DA6B689586AF83783C3D045",
-                      "FanControl_8_0":  "AC05F309F6616E3F15E65F1BF5A6491B",
-                      "FanControl_4_8_Installer":  "21F9556BF9602AE8E234D444FF2F652C",
-                      "FanControl_8_0_Installer":  "E11BBF704A1522C6A2B5A3185F118FB4",
+                      "FanControl_4_8":  "3D13A26D80D075836A1088F01ECC04F5",
+                      "FanControl_8_0":  "B52FF32BE8E82338F8CCCEFCEB254C99",
+                      "FanControl_4_8_Installer":  "F81CBAD045C9C7807C0D4B6E9B3752BF",
+                      "FanControl_8_0_Installer":  "72D7CE93B3D9FC137D3F4709E2E4B215",
                       "Updater":  "3979183BCC2ED8463198F0197BC97F18"
                   }
 }
