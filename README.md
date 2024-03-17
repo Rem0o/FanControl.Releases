@@ -90,6 +90,7 @@ From the community (notify me if I'm missing some):
 * https://github.com/EightB1ts/FanControl.LianLi to interface with LianLi [L-Connect 3](https://lian-li.com/l-connect3/) fan controllers
 * https://github.com/TimSirmovics/FanControl.NvThermalSensors to get GPU Hot Spot and Memory Junction temperature for Nvidia GPUs
 * https://github.com/SasaKaranovic/FanControl.OpenFan to interface with [OpenFAN](https://github.com/SasaKaranovic/OpenFanController) controller
+* https://github.com/Brian-E-Taylor/FanControl.AIDA64 to get readings out of AIDA64
 
 From Rem0o
 * (EXPERIMENTAL) https://github.com/Rem0o/FanControl.ADLX (AMD gpus)
