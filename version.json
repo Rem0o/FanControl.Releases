@@ -1,11 +1,11 @@
 {
-    "Number":  185,
-    "Message":  "- Fix calibration bug when scanning for maximum RPM value\r\n- Add RPM range tooltip on RPM label\r\n- Add view option to hide calibration label at the bottom of control cards.",
+    "Number":  186,
+    "Message":  "- UI/UX tweaks\r\n- Bug fixes\r\n- Updated LibreHardwareMonitorLib",
     "Checksums":  {
-                      "FanControl_4_8":  "3A198D52324D42A8A8FB92731D9E8D14",
-                      "FanControl_8_0":  "39B478F5C6C8B28A97876BEECBF66BB6",
-                      "FanControl_4_8_Installer":  "D437FF865D58845E1730545D5A98B697",
-                      "FanControl_8_0_Installer":  "773B2224F1112FD629FB62D5F76F6B68",
+                      "FanControl_4_8":  "3B7AC38AAA57CDE6C57D8B731DCB2D6A",
+                      "FanControl_8_0":  "E61D35750F7D9A4F04071D5CAD4B2352",
+                      "FanControl_4_8_Installer":  "85455051C241B461EA5DF3A6C508AF39",
+                      "FanControl_8_0_Installer":  "DE1AB08726CB360A3DFE6804F2FDBD3E",
                       "Updater":  "3979183BCC2ED8463198F0197BC97F18"
                   }
 }
