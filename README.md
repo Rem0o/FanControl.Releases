@@ -93,6 +93,7 @@ From the community (notify me if I'm missing some):
 * https://github.com/Brian-E-Taylor/FanControl.AIDA64 to get readings out of AIDA64
 
 From Rem0o
+* (EXPERIMENTATAL) https://github.com/Rem0o/FanControl.IntelCtlLibrary (Intel ARC gpus)
 * (EXPERIMENTAL) https://github.com/Rem0o/FanControl.ADLX (AMD gpus)
 * https://github.com/Rem0o/FanControl.HWInfo to import HWInfo sensor data
 * https://github.com/Rem0o/FanControl.DellPlugin for dell laptops and some towers
