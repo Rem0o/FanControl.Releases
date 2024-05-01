@@ -1,11 +1,11 @@
 {
-    "Number":  187,
-    "Message":  "- Update LibreHardwareMonitorLib\r\n- Fix some auto-calibration issues\r\n- Do not queue snack messages when window is not visible\r\n- Detect control discrepancy with calibration",
+    "Number":  188,
+    "Message":  "- Allow decimals in Auto fan curve\r\n- Fix a bug where a config wouldn\u0027t be reloaded properly\r\n- Fix various mix sensors bug\r\n- Update LibreHardwareMonitorLib",
     "Checksums":  {
-                      "FanControl_4_8":  "07D98BDD62C93C3C4FB7B7432B21F436",
-                      "FanControl_8_0":  "A3023580F56791D26CBB3D9133E925E8",
-                      "FanControl_4_8_Installer":  "EA21215B5E208FAEF3F62C8B4F1B87D1",
-                      "FanControl_8_0_Installer":  "418E7EADB186F8D0AAF1835B0526D435",
+                      "FanControl_4_8":  "283D3B4F74CFFE932C59BF9ECC7BE526",
+                      "FanControl_8_0":  "5352505FB65F93A18FB610CC896311E5",
+                      "FanControl_4_8_Installer":  "018EC68D43171C42E282D421020F37F3",
+                      "FanControl_8_0_Installer":  "390904B6122DD8B2A768CC538AA96BD3",
                       "Updater":  "3979183BCC2ED8463198F0197BC97F18"
                   }
 }
