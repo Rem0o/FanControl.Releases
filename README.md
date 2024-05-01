@@ -17,7 +17,7 @@
 [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat&logo=paypal)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=N4JPSTUQHRJM8&currency_code=USD&source=url&item_name=Fan+Control)
 
 ## New
-
+* AMD Navi3 GPU support through the [ADLX plugin](https://github.com/Rem0o/FanControl.ADLX). Now actively tested and developped by Rem0o.
 * Fan calibration and RPM mode for fan curves. See [discussion](https://github.com/Rem0o/FanControl.Releases/discussions/2333).
 * Installer now available in addition to the portable version of the application. Both .NET 4.8 and 8.0 versions of the application are available as such [here](https://github.com/Rem0o/FanControl.Releases/releases).
 
@@ -115,7 +115,7 @@ From Rem0o
 * __Q__: My Nvidia cards won't go below 30% and doesn't go to 0 RPM, why?
 <br>__A__: [See here](https://github.com/Rem0o/FanControl.Releases/wiki/Nvidia-30%25-and-0-RPM)
 * __Q__: My new AMD card can't be controlled, why?
-<br>__A__: Newer AMD cards are not supported. If you can provide a working sample of code that works with these newer cards, please share!
+<br>__A__: Newer AMD cards are not supported by LHM, but support is available through [ADLX plugin](https://github.com/Rem0o/FanControl.ADLX). This plugin will be ported to the main application at some point, either through LHM or directly like NvAPIWrapper.
 * __Q__: There is no control cards / control cards are missing / control cards are not changing my fan speeds, what's the issue?
 <br>__A__: See __[ Issues and hardware compatibility](#issues-and-hardware-compatibility)__.
 * __Q__: How does __[FAN CURVE TYPE]__ works and what does its parameters do?
