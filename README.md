@@ -76,6 +76,8 @@ Uninstall like any other windows program through the programs list
 
  The plugin system let you inject any type of sensor into FanControl, see [Plugins wiki](https://github.com/Rem0o/FanControl.Releases/wiki/Plugins)
 
+![Plugin Installation](Images/PluginInstallation.png)
+
 From the community (notify me if I'm missing some):
 * https://github.com/fu-raz/FanControlThermaltake
 * https://github.com/jmarucha/FanControl.Liquidctl
