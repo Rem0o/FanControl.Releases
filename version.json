@@ -1,11 +1,11 @@
 {
-    "Number":  190,
-    "Message":  "- Update LibreHardwareMonitorLib\r\n- Fix bug when waking from sleep",
+    "Number":  191,
+    "Message":  "- Update LibreHardwareMonitorLib (AMD RX 400/500 fix)\r\n- Allow tray icons reordering",
     "Checksums":  {
-                      "FanControl_4_8":  "23BF93DFE431D58A483110924D85F68F",
-                      "FanControl_8_0":  "9768A73097906E4FF4A5EBCE38FF9281",
-                      "FanControl_4_8_Installer":  "AB13B4C1AA1B7D5650DA96992513CB45",
-                      "FanControl_8_0_Installer":  "7D53753E1CD4208F83FEF1235DC427CD",
+                      "FanControl_4_8":  "EA1B53CBD46A25117F769D8266237A46",
+                      "FanControl_8_0":  "A49526DA7D177919BECD9D5467299F45",
+                      "FanControl_4_8_Installer":  "43DB8FF90A8754BD31A9FA4CB066095B",
+                      "FanControl_8_0_Installer":  "55B86BACD1FD5C5F7C2253D7C0ED0FE6",
                       "Updater":  "8BC3FB11C955E99E2EC5863884140484"
                   }
 }
