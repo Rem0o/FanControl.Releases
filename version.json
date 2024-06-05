@@ -1,11 +1,11 @@
 {
-    "Number":  191,
-    "Message":  "- Update LibreHardwareMonitorLib (AMD RX 400/500 fix)\r\n- Allow tray icons reordering",
+    "Number":  192,
+    "Message":  "- Fahrenheit display option\r\n- Fan speed % tray icons\r\n- Tray icon now support for 3 digits\r\n- Fixed a bug when changing sensor sources\r\n- See current temp. while editing a graph",
     "Checksums":  {
-                      "FanControl_4_8":  "EA1B53CBD46A25117F769D8266237A46",
-                      "FanControl_8_0":  "A49526DA7D177919BECD9D5467299F45",
-                      "FanControl_4_8_Installer":  "43DB8FF90A8754BD31A9FA4CB066095B",
-                      "FanControl_8_0_Installer":  "55B86BACD1FD5C5F7C2253D7C0ED0FE6",
+                      "FanControl_4_8":  "9DD6788BE4A2D0103788313D3EA44FED",
+                      "FanControl_8_0":  "17E229B875390EF7A306DA040B91A1AD",
+                      "FanControl_4_8_Installer":  "B4C446A1AE506E217D00491357CE44F4",
+                      "FanControl_8_0_Installer":  "756FE5D21BB44F467B0C271491C30197",
                       "Updater":  "8BC3FB11C955E99E2EC5863884140484"
                   }
 }
