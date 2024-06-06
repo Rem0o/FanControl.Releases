@@ -1,11 +1,11 @@
 {
-    "Number":  192,
-    "Message":  "- Fahrenheit display option\r\n- Fan speed % tray icons\r\n- Tray icon now support for 3 digits\r\n- Fixed a bug when changing sensor sources\r\n- See current temp. while editing a graph",
+    "Number":  193,
+    "Message":  "- Fix tray icon bugs\r\n- Add cleartype smoothing to high resolution tray icons\r\n- (From 192)\r\n- Fahrenheit display option\r\n- Fan speed % tray icons\r\n- Tray icon now support for 3 digits\r\n- Fixed a bug when changing sensor sources\r\n- See current temp. while editing a graph",
     "Checksums":  {
-                      "FanControl_4_8":  "9DD6788BE4A2D0103788313D3EA44FED",
-                      "FanControl_8_0":  "17E229B875390EF7A306DA040B91A1AD",
-                      "FanControl_4_8_Installer":  "B4C446A1AE506E217D00491357CE44F4",
-                      "FanControl_8_0_Installer":  "756FE5D21BB44F467B0C271491C30197",
+                      "FanControl_4_8":  "EF81D4E7CCBE1EAEC991BC862BB9A27F",
+                      "FanControl_8_0":  "65C4FAB05E2DC87F028D1F244EE6D8CA",
+                      "FanControl_4_8_Installer":  "BB9F6CA02E92F35306565377DAB78981",
+                      "FanControl_8_0_Installer":  "287079832C0D4A7966A0D35EE03A9689",
                       "Updater":  "8BC3FB11C955E99E2EC5863884140484"
                   }
 }
