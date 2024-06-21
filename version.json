@@ -1,11 +1,11 @@
 {
-    "Number":  193,
-    "Message":  "- Fix tray icon bugs\r\n- Add cleartype smoothing to high resolution tray icons\r\n- (From 192)\r\n- Fahrenheit display option\r\n- Fan speed % tray icons\r\n- Tray icon now support for 3 digits\r\n- Fixed a bug when changing sensor sources\r\n- See current temp. while editing a graph",
+    "Number":  194,
+    "Message":  "- Add outline to application icon\r\n- Remove duplicated log entries\r\n- Update LibreHardwareMonitorLib",
     "Checksums":  {
-                      "FanControl_4_8":  "EF81D4E7CCBE1EAEC991BC862BB9A27F",
-                      "FanControl_8_0":  "65C4FAB05E2DC87F028D1F244EE6D8CA",
-                      "FanControl_4_8_Installer":  "BB9F6CA02E92F35306565377DAB78981",
-                      "FanControl_8_0_Installer":  "287079832C0D4A7966A0D35EE03A9689",
+                      "FanControl_4_8":  "BAE361A34DFBB0D391717D4D59172861",
+                      "FanControl_8_0":  "F7587B82EC048BA90B7C358C41D4340C",
+                      "FanControl_4_8_Installer":  "22A98359AECA5A5BE5D3A7F6ABE69DE6",
+                      "FanControl_8_0_Installer":  "C241EAC2A823A4DE227176DD457DB0BB",
                       "Updater":  "8BC3FB11C955E99E2EC5863884140484"
                   }
 }
