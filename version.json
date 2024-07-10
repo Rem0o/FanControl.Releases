@@ -1,6 +1,6 @@
 {
     "Number":  195,
-    "Message":  "- New bult-in AMD GPU (ADLX) support\r\n- Improved calibration check\r\n- Tooltips and label changes in control card\r\n- Better naming for NvAPIWrapper sensors with multiple gpus\r\n- Unhide valid controls on automatic pairing individual step",
+    "Message":  "- New built-in AMD GPU (ADLX) support\r\n- Improved calibration check\r\n- Tooltips and label changes in control card\r\n- Better naming for NvAPIWrapper sensors with multiple gpus\r\n- Unhide valid controls on automatic pairing individual step",
     "Checksums":  {
                       "FanControl_4_8":  "93C387542FF1BD98C11AB3CC36C98237",
                       "FanControl_8_0":  "D961585C84FEAA530E8C7B93F9A6C9CA",
