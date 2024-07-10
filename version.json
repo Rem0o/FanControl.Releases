@@ -1,11 +1,11 @@
 {
-    "Number":  194,
-    "Message":  "- Add outline to application icon\r\n- Remove duplicated log entries\r\n- Update LibreHardwareMonitorLib",
+    "Number":  195,
+    "Message":  "- New bult-in AMD GPU (ADLX) support\r\n- Improved calibration check\r\n- Tooltips and label changes in control card\r\n- Better naming for NvAPIWrapper sensors with multiple gpus\r\n- Unhide valid controls on automatic pairing individual step",
     "Checksums":  {
-                      "FanControl_4_8":  "BAE361A34DFBB0D391717D4D59172861",
-                      "FanControl_8_0":  "F7587B82EC048BA90B7C358C41D4340C",
-                      "FanControl_4_8_Installer":  "22A98359AECA5A5BE5D3A7F6ABE69DE6",
-                      "FanControl_8_0_Installer":  "C241EAC2A823A4DE227176DD457DB0BB",
+                      "FanControl_4_8":  "93C387542FF1BD98C11AB3CC36C98237",
+                      "FanControl_8_0":  "D961585C84FEAA530E8C7B93F9A6C9CA",
+                      "FanControl_4_8_Installer":  "926ADBA62041C32488D930AF12A3824F",
+                      "FanControl_8_0_Installer":  "DE0E3A25C61CCFBD13701572500D1627",
                       "Updater":  "8BC3FB11C955E99E2EC5863884140484"
                   }
 }
