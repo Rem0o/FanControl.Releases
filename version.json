@@ -1,11 +1,11 @@
 {
-    "Number":  195,
-    "Message":  "- New built-in AMD GPU (ADLX) support\r\n- Improved calibration check\r\n- Tooltips and label changes in control card\r\n- Better naming for NvAPIWrapper sensors with multiple gpus\r\n- Unhide valid controls on automatic pairing individual step",
+    "Number":  196,
+    "Message":  "- Fix various ADLX bugs\r\n- Fix initial state of time average sensor\r\n- Fix tray icon color serialization with sync with windows",
     "Checksums":  {
-                      "FanControl_4_8":  "93C387542FF1BD98C11AB3CC36C98237",
-                      "FanControl_8_0":  "D961585C84FEAA530E8C7B93F9A6C9CA",
-                      "FanControl_4_8_Installer":  "926ADBA62041C32488D930AF12A3824F",
-                      "FanControl_8_0_Installer":  "DE0E3A25C61CCFBD13701572500D1627",
+                      "FanControl_4_8":  "668D761616BA89A6A499D5989F42A916",
+                      "FanControl_8_0":  "CC3F48FCFFF1BDB22A8393CAD95B6E13",
+                      "FanControl_4_8_Installer":  "ABDAAE114A98C2A8EDD4DA22A2892B01",
+                      "FanControl_8_0_Installer":  "CD9CD75ECBDEF20463D362A4BD42356D",
                       "Updater":  "8BC3FB11C955E99E2EC5863884140484"
                   }
 }
