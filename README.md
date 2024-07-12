@@ -116,8 +116,6 @@ From Rem0o
 <br>__A__: Your card only has 2 channels, more than 1 fan are plugged to the same channel.
 * __Q__: My Nvidia cards won't go below 30% and doesn't go to 0 RPM, why?
 <br>__A__: [See here](https://github.com/Rem0o/FanControl.Releases/wiki/Nvidia-30%25-and-0-RPM)
-* __Q__: My new AMD card can't be controlled, why?
-<br>__A__: Newer AMD cards are not supported by LHM, but support is available through [ADLX plugin](https://github.com/Rem0o/FanControl.ADLX). This plugin will be ported to the main application at some point, either through LHM or directly like NvAPIWrapper.
 * __Q__: There is no control cards / control cards are missing / control cards are not changing my fan speeds, what's the issue?
 <br>__A__: See __[ Issues and hardware compatibility](#issues-and-hardware-compatibility)__.
 * __Q__: How does __[FAN CURVE TYPE]__ works and what does its parameters do?
