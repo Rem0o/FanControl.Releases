@@ -1,11 +1,11 @@
 {
-    "Number":  197,
-    "Message":  "- Improved sensor restoring routine\r\n- Fixed a small graph bug with the current temperature marker\r\n- Show missing errors when restoring tray temperature icons\r\n- Hide fan speed cards by default\r\n- Remove deprecated start and stop% detection, use auto-calibration instead\r\n- Update LibreHardwareMonitorLib",
+    "Number":  198,
+    "Message":  "- Fix a bug where ADLX would get called when disabled",
     "Checksums":  {
-                      "FanControl_4_8":  "F80B5CEF89A119FE3A3CDD988CB63744",
-                      "FanControl_8_0":  "63F2854A933721D4E75F1EC1810E7DDF",
-                      "FanControl_4_8_Installer":  "F476E86968BC6C8889369C2B80FB0B1B",
-                      "FanControl_8_0_Installer":  "9DD7B3BD39AA79B57ACD4335C63B8773",
+                      "FanControl_4_8":  "5FDFA8C96A75839AFA1797DC9AD7AB29",
+                      "FanControl_8_0":  "273A37F50744F870D7CB12A31D5167E1",
+                      "FanControl_4_8_Installer":  "2AFFAE1AEC2B39DCDD5EA5FD83653B76",
+                      "FanControl_8_0_Installer":  "5987BE89F6287E0678C88EB78E97EA56",
                       "Updater":  "8BC3FB11C955E99E2EC5863884140484"
                   }
 }
