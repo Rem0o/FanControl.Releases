@@ -1,11 +1,11 @@
 {
-    "Number":  198,
-    "Message":  "- Fix a bug where ADLX would get called when disabled",
+    "Number":  199,
+    "Message":  "- Fix a bug when restoring configuration\r\n- Fix a bug when restoring sync fan curves in RPM mode\r\n- Do not reset control if disabled on restore",
     "Checksums":  {
-                      "FanControl_4_8":  "5FDFA8C96A75839AFA1797DC9AD7AB29",
-                      "FanControl_8_0":  "273A37F50744F870D7CB12A31D5167E1",
-                      "FanControl_4_8_Installer":  "2AFFAE1AEC2B39DCDD5EA5FD83653B76",
-                      "FanControl_8_0_Installer":  "5987BE89F6287E0678C88EB78E97EA56",
+                      "FanControl_4_8":  "5A91E8BE0F76658955B567C2E855B653",
+                      "FanControl_8_0":  "8D707B80F3CBAED53D8D986164DFBBBB",
+                      "FanControl_4_8_Installer":  "F90C536039DC254FB1F5D1DD9772BECF",
+                      "FanControl_8_0_Installer":  "26E1F8D383CA295D38BA7BA38FD4F146",
                       "Updater":  "8BC3FB11C955E99E2EC5863884140484"
                   }
 }
