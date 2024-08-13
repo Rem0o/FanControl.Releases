@@ -1,6 +1,6 @@
 {
     "Number":  199,
-    "Message":  "- Fix a bug when restoring configuration\r\n- Fix a bug when restoring sync fan curves in RPM mode\r\n- Do not reset control if disabled on restore",
+    "Message":  "- Fix a bug when restoring configuration\r\n- Fix a bug when restoring sync fan curves in RPM mode\r\n- Do not reset control if disabled on restore\r\n- Update LibreHardwareMonitorLib",
     "Checksums":  {
                       "FanControl_4_8":  "5A91E8BE0F76658955B567C2E855B653",
                       "FanControl_8_0":  "8D707B80F3CBAED53D8D986164DFBBBB",
