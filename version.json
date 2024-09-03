@@ -1,11 +1,11 @@
 {
-    "Number":  199,
-    "Message":  "- Fix a bug when restoring configuration\r\n- Fix a bug when restoring sync fan curves in RPM mode\r\n- Do not reset control if disabled on restore\r\n- Update LibreHardwareMonitorLib",
+    "Number":  200,
+    "Message":  "- Fix a bug where controls would get temporarily enabled during refresh\r\n- Exclude Ryzen iGPU from ADLX\r\n- Translation work (coming soon)\r\n- Update LibreHardwareMonitorLib",
     "Checksums":  {
-                      "FanControl_4_8":  "5A91E8BE0F76658955B567C2E855B653",
-                      "FanControl_8_0":  "8D707B80F3CBAED53D8D986164DFBBBB",
-                      "FanControl_4_8_Installer":  "F90C536039DC254FB1F5D1DD9772BECF",
-                      "FanControl_8_0_Installer":  "26E1F8D383CA295D38BA7BA38FD4F146",
+                      "FanControl_4_8":  "6FB3EE100F042ECD126BED5031A6BCC6",
+                      "FanControl_8_0":  "670BC1F8661A6A5EDA4856817BCC80C8",
+                      "FanControl_4_8_Installer":  "9F103CAE2AA0BDD6C6F69417EDE85FF6",
+                      "FanControl_8_0_Installer":  "9B2013674A935A61602E19D908A39FA1",
                       "Updater":  "8BC3FB11C955E99E2EC5863884140484"
                   }
 }
