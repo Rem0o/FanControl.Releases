@@ -7,6 +7,9 @@ assignees: ''
 
 ---
 
+**If you are experiencing a crash**
+Link the relevant/associated Windows EventViewer logs, and also FanControl's own log.txt.
+
 **Describe the bug**
 [A clear and concise description of what the bug is.  Screenshots are worth a thousand words. Hardware support requests do NOT count as a bug. See https://github.com/Rem0o/FanControl.Releases#issues-and-hardware-compatibility.]
 
