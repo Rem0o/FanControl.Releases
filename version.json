@@ -1,11 +1,11 @@
 {
-    "Number":  200,
-    "Message":  "- Fix a bug where controls would get temporarily enabled during refresh\r\n- Exclude Ryzen iGPU from ADLX\r\n- Translation work (coming soon)\r\n- Update LibreHardwareMonitorLib",
+    "Number":  201,
+    "Message":  "- Full French translation available.\r\n- Other translations soon open for contribution\r\n- Fix a sensor refresh bug",
     "Checksums":  {
-                      "FanControl_4_8":  "6FB3EE100F042ECD126BED5031A6BCC6",
-                      "FanControl_8_0":  "670BC1F8661A6A5EDA4856817BCC80C8",
-                      "FanControl_4_8_Installer":  "9F103CAE2AA0BDD6C6F69417EDE85FF6",
-                      "FanControl_8_0_Installer":  "9B2013674A935A61602E19D908A39FA1",
+                      "FanControl_4_8":  "A2339D33D780FC786E7947163DEC1E28",
+                      "FanControl_8_0":  "D179C84A1649AAA434CDFE0D481F51C8",
+                      "FanControl_4_8_Installer":  "855F10AD487444442934623C6AC2602E",
+                      "FanControl_8_0_Installer":  "C4FA799E900B27249BAD37F672D982A0",
                       "Updater":  "8BC3FB11C955E99E2EC5863884140484"
                   }
 }
