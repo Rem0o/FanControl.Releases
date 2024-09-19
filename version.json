@@ -1,11 +1,11 @@
 {
-    "Number":  202,
-    "Message":  "-it and de translations\r\n-Translation contribution link available in About page\r\n- New command line option -e --exit\r\n- More robust ADLX error handling\r\n- Update LibreHardwareMonitorLib (fixes controllers identifier bug)",
+    "Number":  203,
+    "Message":  "- New translations: el, es, hu, pl, ru, zh-CN\r\n- Fix a bug initializing ADLX",
     "Checksums":  {
-                      "FanControl_4_8":  "CE42C69C72E88D6034B951BF52ACF761",
-                      "FanControl_8_0":  "A79A7353AF7CC442D1BA4DB619AE10D5",
-                      "FanControl_4_8_Installer":  "82900B14DA70DA81E3468200F49430D3",
-                      "FanControl_8_0_Installer":  "3A98B0F913DF56BA69525211798847A4",
+                      "FanControl_4_8":  "35D84CE7A9432922B0B75D99E4FCA540",
+                      "FanControl_8_0":  "A78AF8938B9842D302A18A5FA4F8CB18",
+                      "FanControl_4_8_Installer":  "B471343143DE4DC172C4A9BB7BC9AC1C",
+                      "FanControl_8_0_Installer":  "CDBAA22F82C820AC61D68ACA9F385A82",
                       "Updater":  "8BC3FB11C955E99E2EC5863884140484"
                   }
 }
