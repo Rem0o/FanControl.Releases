@@ -1,11 +1,11 @@
 {
-    "Number":  203,
-    "Message":  "- New translations: el, es, hu, pl, ru, zh-CN\r\n- Fix a bug initializing ADLX",
+    "Number":  204,
+    "Message":  "- Update LibreHardwareMonitor (Ryzen 9000 support)\r\n- New language: pt-BR\r\n- Various translation fixes",
     "Checksums":  {
-                      "FanControl_4_8":  "35D84CE7A9432922B0B75D99E4FCA540",
-                      "FanControl_8_0":  "A78AF8938B9842D302A18A5FA4F8CB18",
-                      "FanControl_4_8_Installer":  "B471343143DE4DC172C4A9BB7BC9AC1C",
-                      "FanControl_8_0_Installer":  "CDBAA22F82C820AC61D68ACA9F385A82",
+                      "FanControl_4_8":  "328F94AAFA61D85ABBB88BA9DA906B60",
+                      "FanControl_8_0":  "062955ACC1EDA1BAD024189A2C57626F",
+                      "FanControl_4_8_Installer":  "55B903B87CADA954A692E2959F16C6BD",
+                      "FanControl_8_0_Installer":  "C6BD035504E4CC122A09555BAD349D58",
                       "Updater":  "8BC3FB11C955E99E2EC5863884140484"
                   }
 }
