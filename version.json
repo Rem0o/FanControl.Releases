@@ -1,11 +1,11 @@
 {
-    "Number":  204,
-    "Message":  "- Update LibreHardwareMonitor (Ryzen 9000 support)\r\n- New language: pt-BR\r\n- Various translation fixes",
+    "Number":  205,
+    "Message":  "- Fixed a sensor initialization bug\r\n- Added/improved translations\r\n- Update LibreHardwareMonitorLib\r\n- Changed left side menu layout to better accomodate various languages",
     "Checksums":  {
-                      "FanControl_4_8":  "328F94AAFA61D85ABBB88BA9DA906B60",
-                      "FanControl_8_0":  "062955ACC1EDA1BAD024189A2C57626F",
-                      "FanControl_4_8_Installer":  "55B903B87CADA954A692E2959F16C6BD",
-                      "FanControl_8_0_Installer":  "C6BD035504E4CC122A09555BAD349D58",
+                      "FanControl_4_8":  "0FA9422A857A1D9E02A89F861F0E3728",
+                      "FanControl_8_0":  "E6D553A79D44ED0CAD9EC91284B8CE44",
+                      "FanControl_4_8_Installer":  "8E5EF50A63AB550CE1F82F2E84FDA0D6",
+                      "FanControl_8_0_Installer":  "8B5BE6B372A2D2F3CAFEDE000F45E34A",
                       "Updater":  "8BC3FB11C955E99E2EC5863884140484"
                   }
 }
