@@ -1,11 +1,11 @@
 {
-    "Number":  205,
-    "Message":  "- Fixed a sensor initialization bug\r\n- Added/improved translations\r\n- Update LibreHardwareMonitorLib\r\n- Changed left side menu layout to better accomodate various languages",
+    "Number":  206,
+    "Message":  "- Update LibrehardwareMonitorLib (IT8665E missing fans)\r\n- Translations update\r\n- Increase offset limits for sync fan curve and offset sensor",
     "Checksums":  {
-                      "FanControl_4_8":  "0FA9422A857A1D9E02A89F861F0E3728",
-                      "FanControl_8_0":  "E6D553A79D44ED0CAD9EC91284B8CE44",
-                      "FanControl_4_8_Installer":  "8E5EF50A63AB550CE1F82F2E84FDA0D6",
-                      "FanControl_8_0_Installer":  "8B5BE6B372A2D2F3CAFEDE000F45E34A",
+                      "FanControl_4_8":  "08B954CE472C3AF0248B8E89B8561F4B",
+                      "FanControl_8_0":  "B24C6173E765E8E49A06D552C510BFAE",
+                      "FanControl_4_8_Installer":  "821980FF242C17339CE1ECDEDA6E6FEE",
+                      "FanControl_8_0_Installer":  "3313848972890B5910AFB2B24B85C5C2",
                       "Updater":  "8BC3FB11C955E99E2EC5863884140484"
                   }
 }
