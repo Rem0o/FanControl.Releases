@@ -1,11 +1,11 @@
 {
-    "Number":  206,
-    "Message":  "- Update LibrehardwareMonitorLib (IT8665E missing fans)\r\n- Translations update\r\n- Increase offset limits for sync fan curve and offset sensor",
+    "Number":  207,
+    "Message":  "- Update LibreHardwareMonitorLib (Intel Arrow Lake 200 support)\r\n- Belarus + Portugual language support\r\n- Fix a bug where the window would appear out of bounds",
     "Checksums":  {
-                      "FanControl_4_8":  "08B954CE472C3AF0248B8E89B8561F4B",
-                      "FanControl_8_0":  "B24C6173E765E8E49A06D552C510BFAE",
-                      "FanControl_4_8_Installer":  "821980FF242C17339CE1ECDEDA6E6FEE",
-                      "FanControl_8_0_Installer":  "3313848972890B5910AFB2B24B85C5C2",
+                      "FanControl_4_8":  "15E0B8B609F5B88F03CC03D145282BBE",
+                      "FanControl_8_0":  "1B66EAA49C63FEC57250948EDDBFABB3",
+                      "FanControl_4_8_Installer":  "029B06243B80C637BD37C8BB9D4F476D",
+                      "FanControl_8_0_Installer":  "490458FADAD889C08F0014E0C32196AB",
                       "Updater":  "8BC3FB11C955E99E2EC5863884140484"
                   }
 }
