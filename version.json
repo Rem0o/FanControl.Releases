@@ -1,6 +1,6 @@
 {
     "Number":  207,
-    "Message":  "- Update LibreHardwareMonitorLib (Intel Arrow Lake 200 support)\r\n- Belarus + Portugual language support\r\n- Fix a bug where the window would appear out of bounds",
+    "Message":  "- Update LibreHardwareMonitorLib (Intel Arrow Lake 200 support)\r\n- Belarus + Portugal language support\r\n- Fix a bug where the window would appear out of bounds",
     "Checksums":  {
                       "FanControl_4_8":  "15E0B8B609F5B88F03CC03D145282BBE",
                       "FanControl_8_0":  "1B66EAA49C63FEC57250948EDDBFABB3",
