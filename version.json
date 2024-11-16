@@ -1,11 +1,11 @@
 {
-    "Number":  207,
-    "Message":  "- Update LibreHardwareMonitorLib (Intel Arrow Lake 200 support)\r\n- Belarus + Portugal language support\r\n- Fix a bug where the window would appear out of bounds",
+    "Number":  208,
+    "Message":  "- Update LibreHardwareMonitorLib (Lunar Lake)\r\n- Allow 1 sensor provider to fail without error looping the whole app\r\n- Better ADLX error handling",
     "Checksums":  {
-                      "FanControl_4_8":  "15E0B8B609F5B88F03CC03D145282BBE",
-                      "FanControl_8_0":  "1B66EAA49C63FEC57250948EDDBFABB3",
-                      "FanControl_4_8_Installer":  "029B06243B80C637BD37C8BB9D4F476D",
-                      "FanControl_8_0_Installer":  "490458FADAD889C08F0014E0C32196AB",
+                      "FanControl_4_8":  "9B94D3F94FAE042147CBE5DC8009370F",
+                      "FanControl_8_0":  "AECF7C0C3A3E627A4B423EF18DAD3666",
+                      "FanControl_4_8_Installer":  "70AD9A1CF03082C85D30EDDE4AC0AF19",
+                      "FanControl_8_0_Installer":  "85CCE758BD556CD3C0EA00C38A3D4C1F",
                       "Updater":  "8BC3FB11C955E99E2EC5863884140484"
                   }
 }
