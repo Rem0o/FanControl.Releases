@@ -127,7 +127,7 @@ From Rem0o
 ## Graph fan curve editor
 
 * __(NEW)__ Change the temperature range for finer control over a small range
-* Add, remove and drag points arround the graph
+* Add, remove and drag points around the graph
 * Copy and paste points from a graph to another
 * Fine-tune the response with the hysteresis and response time parameters
 
