@@ -1,11 +1,11 @@
 {
-    "Number":  208,
-    "Message":  "- Update LibreHardwareMonitorLib (Lunar Lake)\r\n- Allow 1 sensor provider to fail without error looping the whole app\r\n- Better ADLX error handling",
+    "Number":  209,
+    "Message":  "- Update LibreHardwareMonitorLib (some X870 support + various other motherboards)\r\n- Fix negative value support with Mix custom sensor\r\n- Small fixes\r\n- Korean lang. support",
     "Checksums":  {
-                      "FanControl_4_8":  "9B94D3F94FAE042147CBE5DC8009370F",
-                      "FanControl_8_0":  "AECF7C0C3A3E627A4B423EF18DAD3666",
-                      "FanControl_4_8_Installer":  "70AD9A1CF03082C85D30EDDE4AC0AF19",
-                      "FanControl_8_0_Installer":  "85CCE758BD556CD3C0EA00C38A3D4C1F",
+                      "FanControl_4_8":  "6852BC0AD7E5CF2C07911EF0DFB05AC6",
+                      "FanControl_8_0":  "89964E7084A8227777D9F1720B7040D4",
+                      "FanControl_4_8_Installer":  "ED4C5A26BC5ABCD94CE05415C3AFD4A4",
+                      "FanControl_8_0_Installer":  "88F7298E1BBFFC2F6E8BA2448DBF2DBF",
                       "Updater":  "8BC3FB11C955E99E2EC5863884140484"
                   }
 }
