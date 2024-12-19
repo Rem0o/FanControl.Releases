@@ -27,7 +27,6 @@
 1. [Download the latest archive](/FanControl.zip?raw=true) <i>or</i> [an installer from the release page](https://github.com/Rem0o/FanControl.Releases/releases). 
 2. Extract to the desired installation folder <i>or</i> run the installer
 3. Start FanControl.exe
-4. (Optional) -c or --config [json config file] command line arg 
 
 ### Install with [Scoop](https://scoop.sh/#/apps?s=2&d=1&o=true&p=1&q=fan+control)
 
@@ -124,16 +123,12 @@ From Rem0o
 * __Q__: Does it run on my OS?
 <br>__A__: If your OS is Windows 10 __Or 11__, yes.
 
-## Graph fan curve editor
-
-* __(NEW)__ Change the temperature range for finer control over a small range
-* Add, remove and drag points around the graph
-* Copy and paste points from a graph to another
-* Fine-tune the response with the hysteresis and response time parameters
-
-![Fan Control](Images/GraphDialog.png)
-
 ## Libraries used:
-* https://github.com/LibreHardwareMonitor/LibreHardwareMonitor
-* https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit
-* https://github.com/falahati/NvAPIWrapper
+* https://github.com/LibreHardwareMonitor/LibreHardwareMonitor (main sensor source)
+* https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit (UI)
+* https://github.com/falahati/NvAPIWrapper (Nvidia gpu fan control and sensor reading)
+* https://github.com/Rem0o/ADLXWrapper (AMD gpu fan control and sensor reading)
+* https://github.com/punker76/gong-wpf-dragdrop (various drag and drop actions)
+
+## GitHub Sponsors 
+The GitHub Sponsor button on this page is intended for the related open-source work surrounding FanControl. This includes contributions to the open-source libraries used, mainly [LHM](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor), the plugin system and the various open-source plugins I contribute to, the AMD gpu driver support through [ADLXWrapper](https://github.com/Rem0o/ADLXWrapper), and more.  Your sponsorship helps me continue to contribute to the community, maintain existing projects, and develop new ones. It does not apply to the main program (FanControl) itself. Use the [Paypal](https://www.paypal.com/donate/?cmd=_donations&business=N4JPSTUQHRJM8&currency_code=USD&source=url&item_name=Fan+Control) donation button if your intent is to support the FanControl software itself. 
