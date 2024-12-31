@@ -1,11 +1,11 @@
 {
-    "Number":  209,
-    "Message":  "- Update LibreHardwareMonitorLib (some X870 support + various other motherboards)\r\n- Fix negative value support with Mix custom sensor\r\n- Small fixes\r\n- Korean lang. support",
+    "Number":  210,
+    "Message":  "- New languages: Slovak, Ukranian and Turkish\r\n- Fix the --exit command line argument\r\n- Update EULA file to include all the required open-source licenses",
     "Checksums":  {
-                      "FanControl_4_8":  "6852BC0AD7E5CF2C07911EF0DFB05AC6",
-                      "FanControl_8_0":  "89964E7084A8227777D9F1720B7040D4",
-                      "FanControl_4_8_Installer":  "ED4C5A26BC5ABCD94CE05415C3AFD4A4",
-                      "FanControl_8_0_Installer":  "88F7298E1BBFFC2F6E8BA2448DBF2DBF",
+                      "FanControl_4_8":  "117747B7669F55FFE1F410C2B9A1509F",
+                      "FanControl_8_0":  "8726372C94EA6F0BBB5BF92B7435C9FD",
+                      "FanControl_4_8_Installer":  "6BBAD32DF2EA9305C2748658722A2B34",
+                      "FanControl_8_0_Installer":  "5406FA6C3FBFBC2181A33CB73108D554",
                       "Updater":  "8BC3FB11C955E99E2EC5863884140484"
                   }
 }
