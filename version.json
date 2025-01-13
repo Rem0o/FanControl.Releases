@@ -1,11 +1,11 @@
 {
-    "Number":  210,
-    "Message":  "- New languages: Slovak, Ukranian and Turkish\r\n- Fix the --exit command line argument\r\n- Update EULA file to include all the required open-source licenses",
+    "Number":  211,
+    "Message":  "- New languages: Danish, Arabic, Hebrew\r\n- UI tweaks\r\n- Optimize memory when closing the UI window",
     "Checksums":  {
-                      "FanControl_4_8":  "117747B7669F55FFE1F410C2B9A1509F",
-                      "FanControl_8_0":  "8726372C94EA6F0BBB5BF92B7435C9FD",
-                      "FanControl_4_8_Installer":  "6BBAD32DF2EA9305C2748658722A2B34",
-                      "FanControl_8_0_Installer":  "5406FA6C3FBFBC2181A33CB73108D554",
+                      "FanControl_4_8":  "6175A797218B28CAF5AAFAE02EF3BCCA",
+                      "FanControl_8_0":  "E27086D4A8BB29504C79BECAA81599F8",
+                      "FanControl_4_8_Installer":  "B068C495ADDB24D50E4434D6687ACFB1",
+                      "FanControl_8_0_Installer":  "40FA83057E68292131B8983F979A96BD",
                       "Updater":  "8BC3FB11C955E99E2EC5863884140484"
                   }
 }
