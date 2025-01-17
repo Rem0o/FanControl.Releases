@@ -1,11 +1,11 @@
 {
-    "Number":  211,
-    "Message":  "- New languages: Danish, Arabic, Hebrew\r\n- UI tweaks\r\n- Optimize memory when closing the UI window",
+    "Number":  212,
+    "Message":  "- Fix AMD gpu (ADLX) zero rpm state\r\n- Update LibreHardwareMonitorLib (NCT6701D support)\r\n- Hebrew lang. support",
     "Checksums":  {
-                      "FanControl_4_8":  "6175A797218B28CAF5AAFAE02EF3BCCA",
-                      "FanControl_8_0":  "E27086D4A8BB29504C79BECAA81599F8",
-                      "FanControl_4_8_Installer":  "B068C495ADDB24D50E4434D6687ACFB1",
-                      "FanControl_8_0_Installer":  "40FA83057E68292131B8983F979A96BD",
+                      "FanControl_4_8":  "4B10DB887813C42EEA028F522F9D2E3C",
+                      "FanControl_8_0":  "D8D21C81383C9DE35F2F0FA7CBD638DA",
+                      "FanControl_4_8_Installer":  "EA4B41934317B65C78F9CE6F560A879B",
+                      "FanControl_8_0_Installer":  "4C26CE4E5CA1E3C2CF997EB4913BFBC2",
                       "Updater":  "8BC3FB11C955E99E2EC5863884140484"
                   }
 }
