@@ -1,11 +1,11 @@
 {
-    "Number":  213,
+    "Number":  214,
     "Message":  "- Update LibreHardwareMonitorLib\r\n- Install Plugin dialog now works with .dll or .zip \r\n- Welcome dialog now allow to change language immediately",
     "Checksums":  {
-                      "FanControl_4_8":  "F0BA14E98ED37D62B0039D5556929688",
-                      "FanControl_8_0":  "7931F85C1DC1EBA7FC6EA6A38EB78D33",
-                      "FanControl_4_8_Installer":  "B4A8750437F1B3D82D94D04C23981037",
-                      "FanControl_8_0_Installer":  "A13C944E1AACF9B182E8FEC41778FCF9",
+                      "FanControl_4_8":  "DC783BDEF199D2DAF3D459E95ED47649",
+                      "FanControl_8_0":  "8BA06D998A193CD951B8C13D41AFDFA0",
+                      "FanControl_4_8_Installer":  "2A8DB74C5A1776A592F32A2CA720C961",
+                      "FanControl_8_0_Installer":  "129F4979CB1FA7A27C31A52DCC9A4D7F",
                       "Updater":  "8BC3FB11C955E99E2EC5863884140484"
                   }
 }
