@@ -1,11 +1,11 @@
 {
-    "Number":  214,
-    "Message":  "- Update LibreHardwareMonitorLib\r\n- Install Plugin dialog now works with .dll or .zip \r\n- Welcome dialog now allow to change language immediately",
+    "Number":  215,
+    "Message":  "- Dutch translation\r\n- Improved assisted setup steps, leading to a more reliable pairing process and more accurate calibrations. Improves compatibility for slow to react fans.  ",
     "Checksums":  {
-                      "FanControl_4_8":  "DC783BDEF199D2DAF3D459E95ED47649",
-                      "FanControl_8_0":  "8BA06D998A193CD951B8C13D41AFDFA0",
-                      "FanControl_4_8_Installer":  "2A8DB74C5A1776A592F32A2CA720C961",
-                      "FanControl_8_0_Installer":  "129F4979CB1FA7A27C31A52DCC9A4D7F",
+                      "FanControl_4_8":  "96827684045EBE1D34E329C6D09B22F8",
+                      "FanControl_8_0":  "B7100CEDC23B7C8F2D5E1D34EBCD6781",
+                      "FanControl_4_8_Installer":  "997AEDD5BB84C865266AD0B974272977",
+                      "FanControl_8_0_Installer":  "86EB33D486FD00A2083B482EF389A3E1",
                       "Updater":  "8BC3FB11C955E99E2EC5863884140484"
                   }
 }
