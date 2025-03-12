@@ -2,10 +2,10 @@
     "Number":  217,
     "Message":  "- Many of you reported that Defender started to flag the LibreHardwareMonitorLib driver (WinRing0x64.sys), you do not need to report it furthermore, I\u0027m aware of it. This kernel driver always had a known vulnerability that could be theoritically be exploited on an infected machine. The driver or the program itself are not malicious and are not more or less secure than before it got flagged. It is good practice to review the risk before any action is taken with Defender.\r\n- Japanese translation\r\n- Better ADLX compatibility\r\n- Various small bug fixes",
     "Checksums":  {
-                      "FanControl_4_8":  "0BB24EAF0CC5F84D9F1656D3637D5B1E",
-                      "FanControl_8_0":  "679A938E9276F45EC651C5788A149098",
-                      "FanControl_4_8_Installer":  "B939F919B3EC26881D5DDEE1CCB1F1D6",
-                      "FanControl_8_0_Installer":  "B105E642528047F8BBF1372E928824B5",
+                      "FanControl_4_8":  "856FAD371A03199F18D119DCB1A0D1C4",
+                      "FanControl_8_0":  "72F2506C9C809FFB50D241CE97524104",
+                      "FanControl_4_8_Installer":  "7F76FA2DAE5602BDE43F3B6A7E17251B",
+                      "FanControl_8_0_Installer":  "58DDAFB6EDEE72282C01AB17799E008B",
                       "Updater":  "8BC3FB11C955E99E2EC5863884140484"
                   }
 }
