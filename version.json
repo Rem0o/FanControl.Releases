@@ -1,11 +1,11 @@
 {
-    "Number":  215,
-    "Message":  "- Dutch translation\r\n- Improved assisted setup steps, leading to a more reliable pairing process and more accurate calibrations. Improves compatibility for slow to react fans.  ",
+    "Number":  216,
+    "Message":  "- Many of you reported that Defender started to flag the LibreHardwareMonitorLib driver (WinRing0x64.sys), you do not need to report it furthermore, I\u0027m aware of it. This kernel driver always had a known vulnerability that could be theoritically be exploited on an infected machine. The driver or the program itself are not malicious and are not more or less secure than before it got flagged. It is good practice to review the risk before any action is taken with Defender.\r\n- Japanese translation\r\n- Better ADLX compatibility\r\n- Various small bug fixes",
     "Checksums":  {
-                      "FanControl_4_8":  "96827684045EBE1D34E329C6D09B22F8",
-                      "FanControl_8_0":  "B7100CEDC23B7C8F2D5E1D34EBCD6781",
-                      "FanControl_4_8_Installer":  "997AEDD5BB84C865266AD0B974272977",
-                      "FanControl_8_0_Installer":  "86EB33D486FD00A2083B482EF389A3E1",
+                      "FanControl_4_8":  "095012BF43BB4AC455BE1F3156425C41",
+                      "FanControl_8_0":  "81CE0EDCDDC517B511A25F20BE2CD2CC",
+                      "FanControl_4_8_Installer":  "7172DF5BF3090E1CDA209DE2525F1E47",
+                      "FanControl_8_0_Installer":  "CF18F717B0ECA331FAEE535292A32D17",
                       "Updater":  "8BC3FB11C955E99E2EC5863884140484"
                   }
 }
