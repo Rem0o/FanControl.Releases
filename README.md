@@ -16,6 +16,11 @@
 [![Download](https://img.shields.io/badge/Download-FanControl-green.svg?style=flat&logo=download)](/FanControl.zip?raw=true)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat&logo=paypal)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=N4JPSTUQHRJM8&currency_code=USD&source=url&item_name=Fan+Control)
 
+## WARNING
+
+WingRing0x64, the driver used via [LHM](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) started to be flagged by Windows Defender as of March 11th 2025. This will prevent the program from loading all motherboard sensors and will result in an error upon loading. 
+Corresponding [issue](https://github.com/Rem0o/FanControl.Releases/issues/3016).
+
 ## New
 * The software is now open for translations. Contributions are welcomed here [FanControl.i18n](https://github.com/Rem0o/FanControl.i18n)
 * AMD GPU support through [ADLXWrapper](https://github.com/Rem0o/ADLXWrapper).
