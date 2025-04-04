@@ -1,11 +1,11 @@
 {
-    "Number":  218,
-    "Message":  "- Update LibreHardwareMonitorLib\r\n- Update translations\r\n- Fix a bug during automatic fan pairing\r\n- Update ADLXWrapper",
+    "Number":  219,
+    "Message":  "- Reset fans properly after automatic calibration process.\r\n- Update translations \r\n- Add missing parameter descriptions in fan curves help dialogs.",
     "Checksums":  {
-                      "FanControl_4_8":  "5563DD083D3942DA660FB14328CFE936",
-                      "FanControl_8_0":  "DCC7F6513993397BF290B90EE38A4AAD",
-                      "FanControl_4_8_Installer":  "5492697455DEF50E7B9042D6562E481A",
-                      "FanControl_8_0_Installer":  "2D9BA6790B5B1CFA85A991FFB1C94793",
+                      "FanControl_4_8":  "9B77F7508E587D93127D7867250BEE90",
+                      "FanControl_8_0":  "AB3186FE61B3E5093E0881CF7D359D4B",
+                      "FanControl_4_8_Installer":  "2C986B36778DB0AFE0902FE31AD417BC",
+                      "FanControl_8_0_Installer":  "F27B638A02CCBA54CC2E9FA7CB8954DF",
                       "Updater":  "8BC3FB11C955E99E2EC5863884140484"
                   }
 }
