@@ -1,11 +1,11 @@
 {
-    "Number":  219,
-    "Message":  "- Reset fans properly after automatic calibration process.\r\n- Update translations \r\n- Add missing parameter descriptions in fan curves help dialogs.",
+    "Number":  220,
+    "Message":  "- Tidy up all dialogs\r\n- Add \"auto\" fan pairing and calibration suggestion when missing\r\n- Increase time average sensor maximum time to 3600s.\r\n- Fix \"CalibrateCalibrate\" label",
     "Checksums":  {
-                      "FanControl_4_8":  "9B77F7508E587D93127D7867250BEE90",
-                      "FanControl_8_0":  "AB3186FE61B3E5093E0881CF7D359D4B",
-                      "FanControl_4_8_Installer":  "2C986B36778DB0AFE0902FE31AD417BC",
-                      "FanControl_8_0_Installer":  "F27B638A02CCBA54CC2E9FA7CB8954DF",
+                      "FanControl_4_8":  "9DA24269F8E5E1DEFAB74D3EBDCD26A6",
+                      "FanControl_8_0":  "DC12E536ECF87E3A6C2A649E72EE0A8A",
+                      "FanControl_4_8_Installer":  "9EBB387382511D6072E4DDB9AB31F6D1",
+                      "FanControl_8_0_Installer":  "91CB76C47B06D6835026583FDA77E7F6",
                       "Updater":  "8BC3FB11C955E99E2EC5863884140484"
                   }
 }
