@@ -108,7 +108,6 @@ From Rem0o
 
 * I am not the main developer for the driver/backend portion of this software. Fan Control is basically a UI on top of existing hardware libraries. Any issue regarding hardware compatibility entirely depends on the following projects. If you can't contribute meaningfully with a branch/PR, don't pollute their issue page with "XXXXX doesn't work". The hardware is needed for testing. If a dev has interest in that project, is browsing it, has your specific hardware AND the knowledge to make it work, that dev won't be looking for your issue, he'll just raise a PR.
   * https://github.com/LibreHardwareMonitor/LibreHardwareMonitor
-  * https://github.com/falahati/NvAPIWrapper
   
 * Please only open issues on this repository for the software itself, UI, feature request and so on. If it's a "make this work please" hardware support request, I will link this section of the README and close your issue.
 * If you do have a special hardware compatibility request and you can provide a __working__ sample of code that can be used in .NET, like with a [Plugin](https://github.com/Rem0o/FanControl.Releases/wiki/Plugins), then feel free to submit that.
