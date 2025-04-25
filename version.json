@@ -1,11 +1,11 @@
 {
-    "Number":  220,
-    "Message":  "- Tidy up all dialogs\r\n- Add \"auto\" fan pairing and calibration suggestion when missing\r\n- Increase time average sensor maximum time to 3600s.\r\n- Fix \"CalibrateCalibrate\" label",
+    "Number":  221,
+    "Message":  "- Update LibreHardwareMonitorLib (X870 MSI support)\r\n- UI performance optimization\r\n- Allow the .NET 8 version to run on .NET 9 (or newer) by default\r\n- Fix a serialization bug causing floating point numbers to be inconsistent from save to save\r\n- Add Traditional Chinese (TW) translation",
     "Checksums":  {
-                      "FanControl_4_8":  "9DA24269F8E5E1DEFAB74D3EBDCD26A6",
-                      "FanControl_8_0":  "DC12E536ECF87E3A6C2A649E72EE0A8A",
-                      "FanControl_4_8_Installer":  "9EBB387382511D6072E4DDB9AB31F6D1",
-                      "FanControl_8_0_Installer":  "91CB76C47B06D6835026583FDA77E7F6",
+                      "FanControl_4_8":  "0F512287422714345EED874A483F3307",
+                      "FanControl_8_0":  "2A03F3CB899233BC9725A85864F86744",
+                      "FanControl_4_8_Installer":  "04110EB7B005C9008804750C4010E276",
+                      "FanControl_8_0_Installer":  "40764A380E9CF3BCE23AFB9D033CD973",
                       "Updater":  "8BC3FB11C955E99E2EC5863884140484"
                   }
 }
