@@ -1,11 +1,11 @@
 {
-    "Number":  221,
-    "Message":  "- Update LibreHardwareMonitorLib (X870 MSI support)\r\n- UI performance optimization\r\n- Allow the .NET 8 version to run on .NET 9 (or newer) by default\r\n- Fix a serialization bug causing floating point numbers to be inconsistent from save to save\r\n- Add Traditional Chinese (TW) translation",
+    "Number":  222,
+    "Message":  "- Increase polling interval for spinning hard drives\r\n- Use performance tracking for ADLX\r\n- Fix a ALT+F4 bug with dialogs\r\n- Fix a bug where % values in the graph dialog were multiplied with Fahrenheit enabled",
     "Checksums":  {
-                      "FanControl_4_8":  "0F512287422714345EED874A483F3307",
-                      "FanControl_8_0":  "2A03F3CB899233BC9725A85864F86744",
-                      "FanControl_4_8_Installer":  "04110EB7B005C9008804750C4010E276",
-                      "FanControl_8_0_Installer":  "40764A380E9CF3BCE23AFB9D033CD973",
+                      "FanControl_4_8":  "72425FDE2F2796C8020513124E613F8B",
+                      "FanControl_8_0":  "8D323C53624A91965702881838A76B97",
+                      "FanControl_4_8_Installer":  "39528238618BFD61D41973474C3E4546",
+                      "FanControl_8_0_Installer":  "BBCFBC203F1498C6DA218C45134F5E27",
                       "Updater":  "8BC3FB11C955E99E2EC5863884140484"
                   }
 }
