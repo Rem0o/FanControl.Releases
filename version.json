@@ -1,11 +1,11 @@
 {
-    "Number":  224,
-    "Message":  "- Update LibrehardwareMonitorLib\r\n- Fix cropped dialogs\r\n- Fix a bug when completely disabling LHM\r\n- Allow empty named file sensors\r\n- Fix an updating bug when running .NET 9 or + ",
+    "Number":  225,
+    "Message":  "- Update LibreHardwareMonitorLib\r\n- Fix display issue with plugins\r\n- Add buttons to 100%  each fan in fan identification dialog",
     "Checksums":  {
-                      "FanControl_4_8":  "F317DF179D4BD5E34F1CC2E76AFC9ECF",
-                      "FanControl_8_0":  "721059CDB4EA0D3596347C447AA68DF3",
-                      "FanControl_4_8_Installer":  "90B12306761810BC5C48F888E1B216BA",
-                      "FanControl_8_0_Installer":  "94CEE0A3E48E2D3AFED9A34ACC7FF805",
+                      "FanControl_4_8":  "494738D28CD46385EA298D76207EB606",
+                      "FanControl_8_0":  "9270DE0C2744C861345EC0E16265B99F",
+                      "FanControl_4_8_Installer":  "228923CBD7568F7E9CE74F7DD3AAFA44",
+                      "FanControl_8_0_Installer":  "78B23C768B80C71100BE6F07970F5841",
                       "Updater":  "82745C6CC3D8598898AA2CE81A8DFF2E"
                   }
 }
