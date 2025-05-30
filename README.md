@@ -22,6 +22,8 @@ WingRing0x64, the driver used via [LHM](https://github.com/LibreHardwareMonitor/
 Corresponding [issue](https://github.com/Rem0o/FanControl.Releases/issues/3016).
 
 ## New
+* New seperate "Up" and "Down" hysteresis for graph and linear fan curves
+![Fan Control](Images/Hysteresis.png)
 * The software is now open for translations. Contributions are welcomed here [FanControl.i18n](https://github.com/Rem0o/FanControl.i18n)
 * AMD GPU support through [ADLXWrapper](https://github.com/Rem0o/ADLXWrapper).
 * Fan calibration and RPM mode for fan curves. See [discussion](https://github.com/Rem0o/FanControl.Releases/discussions/2333).
