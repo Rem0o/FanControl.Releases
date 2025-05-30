@@ -1,11 +1,11 @@
 {
-    "Number":  225,
-    "Message":  "- Update LibreHardwareMonitorLib\r\n- Fix display issue with plugins\r\n- Add buttons to 100%  each fan in fan identification dialog",
+    "Number":  226,
+    "Message":  "- New hysteresis settings (up and down)\r\n- Do not poke the update server if update notification disabled\r\n- Change popup message to notification for multi-users\r\n- Add missing translations",
     "Checksums":  {
-                      "FanControl_4_8":  "494738D28CD46385EA298D76207EB606",
-                      "FanControl_8_0":  "9270DE0C2744C861345EC0E16265B99F",
-                      "FanControl_4_8_Installer":  "228923CBD7568F7E9CE74F7DD3AAFA44",
-                      "FanControl_8_0_Installer":  "78B23C768B80C71100BE6F07970F5841",
+                      "FanControl_4_8":  "ABD91D15A4E7BC6F5A12C4C4BCCE15A5",
+                      "FanControl_8_0":  "6F14D0927D1D623E4BB8481C81F6937A",
+                      "FanControl_4_8_Installer":  "45B83FEA7EBEED5F6088B0759C90F87F",
+                      "FanControl_8_0_Installer":  "E72564ADCC86CF966B476C68A89B8260",
                       "Updater":  "82745C6CC3D8598898AA2CE81A8DFF2E"
                   }
 }
