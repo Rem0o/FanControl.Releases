@@ -1,11 +1,11 @@
 {
-    "Number":  226,
-    "Message":  "- New hysteresis settings (up and down)\r\n- Do not poke the update server if update notification disabled\r\n- Change popup message to notification for multi-users\r\n- Add missing translations",
+    "Number":  227,
+    "Message":  "- Allow decimal with hysteresis values\r\n- Radeon Pro support through ADLX\r\n- Fix a bug when cancelling the graph editing dialog\r\n- Update LibreHardwareMonitorLib",
     "Checksums":  {
-                      "FanControl_4_8":  "ABD91D15A4E7BC6F5A12C4C4BCCE15A5",
-                      "FanControl_8_0":  "6F14D0927D1D623E4BB8481C81F6937A",
-                      "FanControl_4_8_Installer":  "45B83FEA7EBEED5F6088B0759C90F87F",
-                      "FanControl_8_0_Installer":  "E72564ADCC86CF966B476C68A89B8260",
+                      "FanControl_4_8":  "EEB7BBCD7E7561343E2EA1B5B1A4D7AA",
+                      "FanControl_8_0":  "8F160653B0470934F158FAFF1E333753",
+                      "FanControl_4_8_Installer":  "E656AF2AD9479A5FBF820B0028A2065C",
+                      "FanControl_8_0_Installer":  "B27AD2481A6583B9F8B1069B9FCC967F",
                       "Updater":  "82745C6CC3D8598898AA2CE81A8DFF2E"
                   }
 }
