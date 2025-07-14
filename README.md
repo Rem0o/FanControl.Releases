@@ -86,7 +86,7 @@ Uninstall like any other windows program through the programs list
 ![Plugin Installation](Images/PluginInstallation.png)
 
 From the community (notify me if I'm missing some):
-* https://github.com/fu-raz/FanControlThermaltake
+* https://github.com/AMoo-Miki/FanControlThermaltake updated fork of https://github.com/fu-raz/FanControlThermaltake
 * https://github.com/jmarucha/FanControl.Liquidctl
 * https://github.com/Mourdraug/FanControl.AsusWMI to interface with ASUS motherboards through WMI methods
 * https://github.com/medevil84/FanControl.AquacomputerDevices to interface with aquacomputer HighFlowNext, Quadro and Octo devices
