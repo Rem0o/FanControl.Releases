@@ -1,11 +1,11 @@
 {
-    "Number":  227,
-    "Message":  "- Allow decimal with hysteresis values\r\n- Radeon Pro support through ADLX\r\n- Fix a bug when cancelling the graph editing dialog\r\n- Update LibreHardwareMonitorLib",
+    "Number":  228,
+    "Message":  "- UI fixes\r\n- Update LibreHardwareMonitorLib\r\n- Add documentation button in about page\r\n- Show hidden card now unchecked by default",
     "Checksums":  {
-                      "FanControl_4_8":  "EEB7BBCD7E7561343E2EA1B5B1A4D7AA",
-                      "FanControl_8_0":  "8F160653B0470934F158FAFF1E333753",
-                      "FanControl_4_8_Installer":  "E656AF2AD9479A5FBF820B0028A2065C",
-                      "FanControl_8_0_Installer":  "B27AD2481A6583B9F8B1069B9FCC967F",
+                      "FanControl_4_8":  "63C7CD4779F41165B8E0F7A6946CFB06",
+                      "FanControl_8_0":  "8511DAAABBAE965AB876038F0EBA141E",
+                      "FanControl_4_8_Installer":  "883DA98123DB8D6BE1BA430F8E7B47D1",
+                      "FanControl_8_0_Installer":  "29D710DCBF851C4BCE5877242843103A",
                       "Updater":  "82745C6CC3D8598898AA2CE81A8DFF2E"
                   }
 }
