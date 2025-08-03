@@ -1,11 +1,11 @@
 {
-    "Number":  228,
-    "Message":  "- UI fixes\r\n- Update LibreHardwareMonitorLib\r\n- Add documentation button in about page\r\n- Show hidden card now unchecked by default",
+    "Number":  229,
+    "Message":  "- UI tweaks\r\n- rollback to 4.8 requirement from 4.8.1\r\n- ADLX (AMD GPU) memory temp support\r\n- Option to allow missing sensor in Mix custom sensor\r\n- Update LibreHardwareMonitorLib",
     "Checksums":  {
-                      "FanControl_4_8":  "63C7CD4779F41165B8E0F7A6946CFB06",
-                      "FanControl_8_0":  "8511DAAABBAE965AB876038F0EBA141E",
-                      "FanControl_4_8_Installer":  "883DA98123DB8D6BE1BA430F8E7B47D1",
-                      "FanControl_8_0_Installer":  "29D710DCBF851C4BCE5877242843103A",
+                      "FanControl_4_8":  "F223C5E980A1840FC2B428E59A43E125",
+                      "FanControl_8_0":  "069C87982AFC84B58355B7D5C5D86B25",
+                      "FanControl_4_8_Installer":  "0BD262CB6C0D0501DA0EDFCC5EF6794F",
+                      "FanControl_8_0_Installer":  "3E73FFDEB58538CB9489D703852F2185",
                       "Updater":  "82745C6CC3D8598898AA2CE81A8DFF2E"
                   }
 }
