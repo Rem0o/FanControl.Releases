@@ -1,11 +1,11 @@
 {
-    "Number":  229,
-    "Message":  "- UI tweaks\r\n- rollback to 4.8 requirement from 4.8.1\r\n- ADLX (AMD GPU) memory temp support\r\n- Option to allow missing sensor in Mix custom sensor\r\n- Update LibreHardwareMonitorLib",
+    "Number":  230,
+    "Message":  "- Update LibreHardwareMonitorLib (ITE IT8696E lost controls)\r\n- Update translations",
     "Checksums":  {
-                      "FanControl_4_8":  "F223C5E980A1840FC2B428E59A43E125",
-                      "FanControl_8_0":  "069C87982AFC84B58355B7D5C5D86B25",
-                      "FanControl_4_8_Installer":  "0BD262CB6C0D0501DA0EDFCC5EF6794F",
-                      "FanControl_8_0_Installer":  "3E73FFDEB58538CB9489D703852F2185",
+                      "FanControl_4_8":  "069BE0EF7D6C2E7E43593F0A35BDA74F",
+                      "FanControl_8_0":  "425A42FBAB4A81489C26EF0E1B27F560",
+                      "FanControl_4_8_Installer":  "FF5711837CF9B2DC5FF08534ADCDB5DC",
+                      "FanControl_8_0_Installer":  "770A1ACC93D5109541DBD1FFCD9647D9",
                       "Updater":  "82745C6CC3D8598898AA2CE81A8DFF2E"
                   }
 }
