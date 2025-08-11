@@ -118,8 +118,8 @@ From Rem0o
 ## FAQ
 * __Q__: What settings should I set in my BIOS to play along nicely with FanControl?
 <br>__A__: You want to avoid any "smart" control from your BIOS. Setting a fixed default speed, like 50%, works great for most people. Also keep an eye if your BIOS has PWM or DC mode on. One could work better for you depending on your setup.
-* __Q__: My Nvidia cards has X fans, but only two cards show up, why?
-<br>__A__: Your card only has 2 channels, more than 1 fan are plugged to the same channel.
+* __Q__: My graphics card has X fans, but only one fan shows up, why?
+<br>__A__: Your card only has 1 channel, more than 1 fan are plugged into the same channel.
 * __Q__: My Nvidia cards won't go below 30% and doesn't go to 0 RPM, why?
 <br>__A__: [See here](https://github.com/Rem0o/FanControl.Releases/wiki/Nvidia-30%25-and-0-RPM)
 * __Q__: There is no control cards / control cards are missing / control cards are not changing my fan speeds, what's the issue?
