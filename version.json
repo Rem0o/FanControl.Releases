@@ -1,11 +1,11 @@
 {
-    "Number":  230,
-    "Message":  "- Update LibreHardwareMonitorLib (ITE IT8696E lost controls)\r\n- Update translations",
+    "Number":  231,
+    "Message":  "- ADLX bugfix\r\n- UI/Labels adjustments\r\n- Fix a bug where sleep would wipe current config changes",
     "Checksums":  {
-                      "FanControl_4_8":  "069BE0EF7D6C2E7E43593F0A35BDA74F",
-                      "FanControl_8_0":  "425A42FBAB4A81489C26EF0E1B27F560",
-                      "FanControl_4_8_Installer":  "FF5711837CF9B2DC5FF08534ADCDB5DC",
-                      "FanControl_8_0_Installer":  "770A1ACC93D5109541DBD1FFCD9647D9",
+                      "FanControl_4_8":  "982E9B8A40CEB74FBF4C12733BF02590",
+                      "FanControl_8_0":  "210FE65D0546D85603B88C661D24F4CE",
+                      "FanControl_4_8_Installer":  "37A9FE3A0A4C81D1FAFA54AC2CAECA43",
+                      "FanControl_8_0_Installer":  "69D686A6704C527C5F80A080994F971B",
                       "Updater":  "82745C6CC3D8598898AA2CE81A8DFF2E"
                   }
 }
