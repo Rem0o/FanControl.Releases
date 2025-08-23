@@ -1,11 +1,11 @@
 {
-    "Number":  231,
-    "Message":  "- ADLX bugfix\r\n- UI/Labels adjustments\r\n- Fix a bug where sleep would wipe current config changes",
+    "Number":  232,
+    "Message":  "- ADLX bugfix\r\n- Updated tray icon page\r\n- Improved refresh mechanism showing what sensors are missing",
     "Checksums":  {
-                      "FanControl_4_8":  "982E9B8A40CEB74FBF4C12733BF02590",
-                      "FanControl_8_0":  "210FE65D0546D85603B88C661D24F4CE",
-                      "FanControl_4_8_Installer":  "37A9FE3A0A4C81D1FAFA54AC2CAECA43",
-                      "FanControl_8_0_Installer":  "69D686A6704C527C5F80A080994F971B",
+                      "FanControl_4_8":  "6952CAC53C885B23D68EF8FB154970C6",
+                      "FanControl_8_0":  "B7632BF836E6D0AEB00465F226F12997",
+                      "FanControl_4_8_Installer":  "E34FA7AF045C30CD85E2C3613CD7BCFC",
+                      "FanControl_8_0_Installer":  "232212F08421AF9846BAA72C20A6A43F",
                       "Updater":  "82745C6CC3D8598898AA2CE81A8DFF2E"
                   }
 }
