@@ -18,6 +18,8 @@
 
 ## WARNING
 
+As of 09/04/2025, Winring0 (FanControl.sys) flagged as [Trojan:Win32/Vigorf.A](https://github.com/Rem0o/FanControl.Releases/issues/3410#issuecomment-3254057373) by Windows Defender
+
 WingRing0x64, the driver used via [LHM](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) started to be flagged by Windows Defender as of March 11th 2025. This will prevent the program from loading all motherboard sensors and will result in an error upon loading. 
 Corresponding [issue](https://github.com/Rem0o/FanControl.Releases/issues/3016).
 
