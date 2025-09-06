@@ -1,11 +1,11 @@
 {
-    "Number":  234,
-    "Message":  "- ADLX bugfix\r\n- Updated tray icon page\r\n- Improved refresh mechanism showing what sensors are missing",
+    "Number":  235,
+    "Message":  "- Allow side-loading a different version of LibreHardwareMonitorLib placed in the Plugins folder\r\n- Trigger fan curve now has response time \"up\" and \"down\"\r\n- Trim serialization for json config files to make them smaller. ***WILL TRIGGER SAVE PROMPT, HIT SAVE***\r\n- Tray icons nickname update bugfix\r\n- Update LibreHardwareMonitorLib",
     "Checksums":  {
-                      "FanControl_4_8":  "B14C454B1D07810456DCBE157461E049",
-                      "FanControl_8_0":  "465CB987F821FA7E6F0FA8ABC82BCE88",
-                      "FanControl_4_8_Installer":  "9D0FF805F7ED60B56EEB4990285057C7",
-                      "FanControl_8_0_Installer":  "58E2E2DBF2A5A325598BC6CC9270600F",
+                      "FanControl_4_8":  "70D180F8A244CF0B5AB26548517B0A03",
+                      "FanControl_8_0":  "C46358726EE9CBF007E43AC6F5F75EBF",
+                      "FanControl_4_8_Installer":  "643FE3ACAE019F610D7C20C1848EE09D",
+                      "FanControl_8_0_Installer":  "7283D1FF8250D84DF037BA916C8CFF5D",
                       "Updater":  "82745C6CC3D8598898AA2CE81A8DFF2E"
                   }
 }
