@@ -23,10 +23,10 @@ You do not need to open an issue on the subject. Any new issues with this exact 
 
 If you experience this issue, you may:
 
-* (Can't officialy recommend) whitelist/exclude the detection in Windows Security/Defender. Do so at your own risks. 
+* (Can't officialy recommend) whitelist/exclude the detection in Windows Security/Defender. Read the [official microsoft article](https://support.microsoft.com/en-us/windows/microsoft-defender-antivirus-alert-vulnerabledriver-winnt-winring0-eb057830-d77b-41a2-9a34-015a5d203c42) carefully. 
 * Since V235, you can easily [use an alternative LHM branch](https://github.com/Rem0o/FanControl.Releases/issues/3410#issuecomment-3258597822) that doesn't use WinRing0. Consider this a Beta, as it hasn't been widely tested yet. 
 
-To use the alternate branch (PawnIO):
+To use the alternate branch (PawnIO, thanks to [@namazso](https://github.com/namazso)) :
 1. Update to at least __V235__, and close FanControl completely (EXIT).
 2. (Optional but recommended) Backup your Configuration folder
 3. Download the [net4.8](https://github.com/user-attachments/files/22138855/net472.zip) or [net8.0](https://github.com/user-attachments/files/22138861/net8.0.zip) version of LibreHardwareMonitorLib.dll depending on your existing installation
