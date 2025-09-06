@@ -19,14 +19,23 @@
 ## WARNING
 
 As of 09/04/2025, Winring0 (FanControl.sys) flagged as [Trojan:Win32/Vigorf.A](https://github.com/Rem0o/FanControl.Releases/issues/3410#issuecomment-3254057373) by Windows Defender
+You do not need to open an issue on the subject. Any new issues with this exact problem will be closed as duplicate.
 
-Since V235, you can easily [use an alternative LHM branch](https://github.com/Rem0o/FanControl.Releases/issues/3410#issuecomment-3258597822) that doesn't use WinRing0.
+If you experience this issue, you may:
 
-WingRing0x64, the driver used via [LHM](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) started to be flagged by Windows Defender as of March 11th 2025. This will prevent the program from loading all motherboard sensors and will result in an error upon loading. 
-Corresponding [issue](https://github.com/Rem0o/FanControl.Releases/issues/3016).
+* (Can't officialy recommend) whitelist/exclude the detection in Windows Security/Defender. Do so at your own risks. 
+* Since V235, you can easily [use an alternative LHM branch](https://github.com/Rem0o/FanControl.Releases/issues/3410#issuecomment-3258597822) that doesn't use WinRing0. Consider this a Beta, as it hasn't been widely tested yet. 
+
+To use the alternate branch (PawnIO):
+1. Update to at least __V235__, and close FanControl completely (EXIT).
+2. (Optional but recommended) Backup your Configuration folder
+3. Download the [net4.8](https://github.com/user-attachments/files/22138855/net472.zip) or [net8.0](https://github.com/user-attachments/files/22138861/net8.0.zip) version of LibreHardwareMonitorLib.dll depending on your existing installation
+4. Install the [PawnIO driver](https://pawnio.eu/)
+5. Place the LibreHardwareMonitorLib.dll inside your existing Plugins folder, or create a Plugins/ folder and place it in there
+6. Launch FanControl 
 
 ## New
-* New seperate "Up" and "Down" hysteresis for graph and linear fan curves
+* New seperate "Up" and "Down" hysteresis for graph, linear and trigger fan curves
 ![Fan Control](Images/Hysteresis.png)
 * The software is now open for translations. Contributions are welcomed here [FanControl.i18n](https://github.com/Rem0o/FanControl.i18n)
 * AMD GPU support through [ADLXWrapper](https://github.com/Rem0o/ADLXWrapper).
