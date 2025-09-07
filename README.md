@@ -18,12 +18,12 @@
 
 ## WARNING
 
-As of 09/04/2025, Winring0 (FanControl.sys) flagged as [Trojan:Win32/Vigorf.A](https://github.com/Rem0o/FanControl.Releases/issues/3410#issuecomment-3254057373) by Windows Defender
+As of 09/04/2025, Winring0 (FanControl.sys) is flagged as [Trojan:Win32/Vigorf.A](https://github.com/Rem0o/FanControl.Releases/issues/3410#issuecomment-3254057373) by Windows Defender.
 You do not need to open an issue on the subject. Any new issues with this exact problem will be closed as duplicate.
 
 If you experience this issue, you may:
 
-* (Can't officialy recommend) whitelist/exclude the detection in Windows Security/Defender. Read the [official microsoft article](https://support.microsoft.com/en-us/windows/microsoft-defender-antivirus-alert-vulnerabledriver-winnt-winring0-eb057830-d77b-41a2-9a34-015a5d203c42) carefully. 
+* (Can't officialy recommend) whitelist/exclude the detection in Windows Security/Defender. Read the [official microsoft response/article](https://support.microsoft.com/en-us/windows/microsoft-defender-antivirus-alert-vulnerabledriver-winnt-winring0-eb057830-d77b-41a2-9a34-015a5d203c42) carefully. 
 * Since V235, you can easily [use an alternative LHM branch](https://github.com/Rem0o/FanControl.Releases/issues/3410#issuecomment-3258597822) that doesn't use WinRing0. Consider this a Beta, as it hasn't been widely tested yet. 
 
 To use the alternate branch (PawnIO, thanks to [@namazso](https://github.com/namazso)) :
