@@ -32,7 +32,8 @@ To use the alternate branch (PawnIO, thanks to [@namazso](https://github.com/nam
 3. Download the [net4.8](https://github.com/user-attachments/files/22138855/net472.zip) or [net8.0](https://github.com/user-attachments/files/22138861/net8.0.zip) version of LibreHardwareMonitorLib.dll depending on your existing installation
 4. Install the [PawnIO driver](https://pawnio.eu/)
 5. Place the LibreHardwareMonitorLib.dll inside your existing Plugins folder, or create a Plugins/ folder and place it in there
-6. Launch FanControl 
+6. Launch FanControl
+7. If successful, in the About tab, you should see the relative path to the LibreHardwareMonitorLib.dll being used (\Plugins\...)
 
 ## New
 * New seperate "Up" and "Down" hysteresis for graph, linear and trigger fan curves
