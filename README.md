@@ -18,7 +18,7 @@
 
 ## WARNING
 
-As of 09/04/2025, Winring0 (FanControl.sys) is flagged as [Trojan:Win32/Vigorf.A](https://github.com/Rem0o/FanControl.Releases/issues/3410#issuecomment-3254057373) by Windows Defender.
+As of 09/04/2025, Winring0 (FanControl.sys) is flagged as [Trojan:Win32/Vigorf.A](https://github.com/Rem0o/FanControl.Releases/issues/3410#issuecomment-3254057373) by Windows Defender. This will cause sensors to not be detected.
 You do not need to open an issue on the subject. Any new issues with this exact problem will be closed as duplicate.
 
 If you experience this issue, you may:
