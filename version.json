@@ -1,11 +1,11 @@
 {
-    "Number":  236,
-    "Message":  "- Allow side-loading a different version of LibreHardwareMonitorLib. This offers an alternative if you experience Windows Security/Defender issue.  See the warning section of the Github README page, available in the About tab.\r\n- Fix a Trigger fan curve deserialization issue.\r\n- Fix a bug when loading plugins",
+    "Number":  237,
+    "Message":  "- Add PawnIO or Winring0 indicator whichever is loaded\r\n- Fix a bug if plugins folder isn\u0027t created",
     "Checksums":  {
-                      "FanControl_4_8":  "41465ADED74BC32FADA48FBC0DAD95EF",
-                      "FanControl_8_0":  "FD08ACDD67931F098BE364A6D9C81629",
-                      "FanControl_4_8_Installer":  "F7D9083BF7343ACCCEEDF160A62D29DF",
-                      "FanControl_8_0_Installer":  "C5D2D82F3C9D204D828164FA1794D7D2",
+                      "FanControl_4_8":  "55B29B51BB3838621387A71B258FCF12",
+                      "FanControl_8_0":  "5B0B4AEEFB637BF2427B82E8D0D7612C",
+                      "FanControl_4_8_Installer":  "530F0366BE13AF203E4AB4965D4CE656",
+                      "FanControl_8_0_Installer":  "8C6A716D8FBBBBC15E23C03BD5A871CF",
                       "Updater":  "82745C6CC3D8598898AA2CE81A8DFF2E"
                   }
 }
