@@ -33,7 +33,7 @@ To use the alternate branch (PawnIO, thanks to [@namazso](https://github.com/nam
 4. Install the [PawnIO driver](https://pawnio.eu/)
 5. Place the LibreHardwareMonitorLib.dll inside your existing Plugins folder, or create a Plugins/ folder and place it in there
 6. Launch FanControl
-7. If successful, in the About tab, you should see the relative path to the LibreHardwareMonitorLib.dll being used (\Plugins\...)
+7. If successful, in the About tab, you should see (PawnIO) next to the LHM version.
 
 ## New
 * New seperate "Up" and "Down" hysteresis for graph, linear and trigger fan curves
