@@ -1,11 +1,11 @@
 {
-    "Number":  239,
-    "Message":  "- Migrated to the PawnIO version of LHM, Winring0 is no longer shipped with FanControl. This will prompt for the installation of the PawnIO driver. You may use the software without, but you will not  get any motherboard sensors.  Other sensor sources will still work as usual. This is a whole new driver implementation, it will contain bugs and require community efforts to iron them out.  If you are happy with your current situation, I recommend you do not update for now.\r\n- Fixed a cache bug",
+    "Number":  240,
+    "Message":  "- Migrated to the PawnIO version of LHM, Winring0 is no longer shipped with FanControl. This will prompt for the installation of the PawnIO driver. You may use the software without, but you will not  get any motherboard sensors.  Other sensor sources will still work as usual. This is a whole new driver implementation, it will contain bugs and require community efforts to iron them out.  If you are happy with your current situation, I recommend you do not update for now.\r\n- Fix a plugin list display bug in the settings page",
     "Checksums":  {
-                      "FanControl_4_8":  "76639812E6DC40DF363C143D552B06C9",
-                      "FanControl_8_0":  "6AC784E9AE2E8E228327E4C7BAB8EFFF",
-                      "FanControl_4_8_Installer":  "A981E8949BFD42266E6419EDA2B2BA3A",
-                      "FanControl_8_0_Installer":  "DFAC60E2D60121436DB992DC8A698197",
+                      "FanControl_4_8":  "99776EE51F4E567BFFD576EFEE5FAB15",
+                      "FanControl_8_0":  "AA1AECEDD44906D661E5485463A06AA6",
+                      "FanControl_4_8_Installer":  "AA2FA1FF4BBA8D1845EB7E355D85D003",
+                      "FanControl_8_0_Installer":  "16A349B364CD73DCE1159124C85A5E5A",
                       "Updater":  "82745C6CC3D8598898AA2CE81A8DFF2E"
                   }
 }
