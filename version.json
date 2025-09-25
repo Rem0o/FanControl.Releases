@@ -1,11 +1,11 @@
 {
-    "Number":  240,
-    "Message":  "- Migrated to the PawnIO version of LHM, Winring0 is no longer shipped with FanControl. This will prompt for the installation of the PawnIO driver. You may use the software without, but you will not  get any motherboard sensors.  Other sensor sources will still work as usual. This is a whole new driver implementation, it will contain bugs and require community efforts to iron them out.  If you are happy with your current situation, I recommend you do not update for now.\r\n- Fix a plugin list display bug in the settings page",
+    "Number":  241,
+    "Message":  "- Fix an ADLX incompatibility bug\r\n- Update LibreHardwareMonitorLib\r\n- Fix a bug when refreshing sensors after sleep",
     "Checksums":  {
-                      "FanControl_4_8":  "99776EE51F4E567BFFD576EFEE5FAB15",
-                      "FanControl_8_0":  "AA1AECEDD44906D661E5485463A06AA6",
-                      "FanControl_4_8_Installer":  "AA2FA1FF4BBA8D1845EB7E355D85D003",
-                      "FanControl_8_0_Installer":  "16A349B364CD73DCE1159124C85A5E5A",
+                      "FanControl_4_8":  "86C7F42530C3BE6D643BBA1EEAEB0897",
+                      "FanControl_8_0":  "5F312543F0877C0DA7BE775376525B36",
+                      "FanControl_4_8_Installer":  "3C94FBEC1BE0F46A82D53DDEEE357670",
+                      "FanControl_8_0_Installer":  "A0C4BE46E87EEFC7FBA6444F55431C9C",
                       "Updater":  "82745C6CC3D8598898AA2CE81A8DFF2E"
                   }
 }
