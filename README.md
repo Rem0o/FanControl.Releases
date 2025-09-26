@@ -121,6 +121,7 @@ From the community (notify me if I'm missing some):
 * https://github.com/SasaKaranovic/FanControl.OpenFan to interface with [OpenFAN](https://github.com/SasaKaranovic/OpenFanController) controller
 * https://github.com/Brian-E-Taylor/FanControl.AIDA64 to get readings out of AIDA64
 * https://github.com/Benson5650/FanControl.RazerCoolingPadPlugin to interface with Razer Laptop Cooling Pad.
+* https://github.com/chenx-dust/FanControl.GPDPlugin to interface with GPD devices
 
 From Rem0o
 * https://github.com/Rem0o/FanControl.IntelCtlLibrary (Intel ARC gpus)
