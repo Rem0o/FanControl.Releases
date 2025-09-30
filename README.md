@@ -29,17 +29,10 @@ You do not need to open an issue on the subject. Any new issues with this exact 
 
 If you experience this issue, you may:
 
+* Update to the latest version
 * (Can't officialy recommend) whitelist/exclude the detection in Windows Security/Defender. Read the [official microsoft response/article](https://support.microsoft.com/en-us/windows/microsoft-defender-antivirus-alert-vulnerabledriver-winnt-winring0-eb057830-d77b-41a2-9a34-015a5d203c42) carefully. 
 * With [V235 to V237](https://github.com/Rem0o/FanControl.Releases/releases), you can easily [use an alternative LHM branch](https://github.com/Rem0o/FanControl.Releases/issues/3410#issuecomment-3258597822) that doesn't use WinRing0. Consider this a Beta, as it hasn't been widely tested yet. It may not work, be unstable, not be reliable, you get the idea. 
 
-To use the alternate branch (PawnIO, thanks to [@namazso](https://github.com/namazso)) :
-1. Update to at least [__V235__](https://github.com/Rem0o/FanControl.Releases/releases), and close FanControl completely (EXIT).
-2. (Optional but recommended) Backup your Configuration folder
-3. Download the [net4.8](https://github.com/user-attachments/files/22304072/net472.zip) or [net8.0](https://github.com/user-attachments/files/22304071/net8.0.zip) version of LibreHardwareMonitorLib.dll depending on your existing installation
-4. Install the [PawnIO driver](https://pawnio.eu/)
-5. Place the LibreHardwareMonitorLib.dll inside your existing Plugins folder, or create a Plugins/ folder and place it in there
-6. Launch FanControl
-7. If successful, in the About tab, you should see (PawnIO) next to the LHM version.
 
 ## New
 * New seperate "Up" and "Down" hysteresis for graph, linear and trigger fan curves
