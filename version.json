@@ -1,11 +1,11 @@
 {
-    "Number":  241,
-    "Message":  "- Fix an ADLX incompatibility bug\r\n- Update LibreHardwareMonitorLib\r\n- Fix a bug when refreshing sensors after sleep",
+    "Number":  242,
+    "Message":  "- Bug fixes\r\n- Update LibreHardwareMonitorLib",
     "Checksums":  {
-                      "FanControl_4_8":  "86C7F42530C3BE6D643BBA1EEAEB0897",
-                      "FanControl_8_0":  "5F312543F0877C0DA7BE775376525B36",
-                      "FanControl_4_8_Installer":  "3C94FBEC1BE0F46A82D53DDEEE357670",
-                      "FanControl_8_0_Installer":  "A0C4BE46E87EEFC7FBA6444F55431C9C",
+                      "FanControl_4_8":  "ECF2B5018990D8A126BAF24AB3EFFD44",
+                      "FanControl_8_0":  "C86DB8B8BC83DB13F6ED814CB0BE47A3",
+                      "FanControl_4_8_Installer":  "50C68F6C43CA5B186FCF8A8FA7C4552A",
+                      "FanControl_8_0_Installer":  "D562FBA0255A7B58A0D752C022464457",
                       "Updater":  "82745C6CC3D8598898AA2CE81A8DFF2E"
                   }
 }
