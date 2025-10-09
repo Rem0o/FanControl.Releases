@@ -1,11 +1,11 @@
 {
-    "Number":  242,
-    "Message":  "- Bug fixes\r\n- Update LibreHardwareMonitorLib",
+    "Number":  243,
+    "Message":  "- Update LibreHardwareMonitorLib (Fix ATAStorage bug)\r\n- Move refresh and view options to the top bar\r\n- Allow sensor sources to refresh automatically if an exception or problem is detected at runtime",
     "Checksums":  {
-                      "FanControl_4_8":  "ECF2B5018990D8A126BAF24AB3EFFD44",
-                      "FanControl_8_0":  "C86DB8B8BC83DB13F6ED814CB0BE47A3",
-                      "FanControl_4_8_Installer":  "50C68F6C43CA5B186FCF8A8FA7C4552A",
-                      "FanControl_8_0_Installer":  "D562FBA0255A7B58A0D752C022464457",
+                      "FanControl_4_8":  "F66CFE99BD849B2F6687ACD47D06BDA2",
+                      "FanControl_8_0":  "EFC738658F2B4C174FD1D09E1B7A04BA",
+                      "FanControl_4_8_Installer":  "DED9CBD682F66A1DB7ED583EBD5269AD",
+                      "FanControl_8_0_Installer":  "31BC0DA653EF72FF54D4A7B5D7F9E683",
                       "Updater":  "82745C6CC3D8598898AA2CE81A8DFF2E"
                   }
 }
