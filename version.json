@@ -1,11 +1,11 @@
 {
-    "Number":  243,
-    "Message":  "- Update LibreHardwareMonitorLib (Fix ATAStorage bug)\r\n- Move refresh and view options to the top bar\r\n- Allow sensor sources to refresh automatically if an exception or problem is detected at runtime",
+    "Number":  244,
+    "Message":  "- IPlugin3 interface for a  plugin to request a full refresh\r\n- Log internal refresh reason\r\n- Allow LHM to have sensors be added at runtime\r\n- Fix the nickname combobox that was not refreshed\r\n- Fix the fancontrol logo not changing colors when changing theme\r\n- Update LibreHardwareMonitorLib",
     "Checksums":  {
-                      "FanControl_4_8":  "F66CFE99BD849B2F6687ACD47D06BDA2",
-                      "FanControl_8_0":  "EFC738658F2B4C174FD1D09E1B7A04BA",
-                      "FanControl_4_8_Installer":  "DED9CBD682F66A1DB7ED583EBD5269AD",
-                      "FanControl_8_0_Installer":  "31BC0DA653EF72FF54D4A7B5D7F9E683",
+                      "FanControl_4_8":  "F286824DA3C057F19F567F2B74F8D7DE",
+                      "FanControl_8_0":  "ABBA238F5E916994E8AA5E5AD2952F75",
+                      "FanControl_4_8_Installer":  "159BCBB958C00EEDFBC098FFD1B2FF94",
+                      "FanControl_8_0_Installer":  "D656B93161BFD7678050C6283959F95C",
                       "Updater":  "82745C6CC3D8598898AA2CE81A8DFF2E"
                   }
 }
