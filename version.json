@@ -1,11 +1,11 @@
 {
-    "Number":  244,
-    "Message":  "- IPlugin3 interface for a  plugin to request a full refresh\r\n- Log internal refresh reason\r\n- Allow LHM to have sensors be added at runtime\r\n- Fix the nickname combobox that was not refreshed\r\n- Fix the fancontrol logo not changing colors when changing theme\r\n- Update LibreHardwareMonitorLib",
+    "Number":  245,
+    "Message":  "- Some control/speed sensors are now be paired by default. Can be done in plugins too. \r\n- Fixed a timeout issue in assisted setup\r\n- Refined calibration to handle cases where a fan has a flat response in its lower % range.\r\n- Update LibreHardwareMonitorLib",
     "Checksums":  {
-                      "FanControl_4_8":  "F286824DA3C057F19F567F2B74F8D7DE",
-                      "FanControl_8_0":  "ABBA238F5E916994E8AA5E5AD2952F75",
-                      "FanControl_4_8_Installer":  "159BCBB958C00EEDFBC098FFD1B2FF94",
-                      "FanControl_8_0_Installer":  "D656B93161BFD7678050C6283959F95C",
+                      "FanControl_4_8":  "3D19FD0EAEFC52D5FD3A349327425908",
+                      "FanControl_8_0":  "8085E5867E56F24D8B92CDF1E696E113",
+                      "FanControl_4_8_Installer":  "25D8A890CA3606493E3D6307987C599B",
+                      "FanControl_8_0_Installer":  "55E535324F11DA74E392B3338B9116C8",
                       "Updater":  "82745C6CC3D8598898AA2CE81A8DFF2E"
                   }
 }
