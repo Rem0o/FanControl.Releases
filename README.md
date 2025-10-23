@@ -30,8 +30,8 @@ You do not need to open an issue on the subject. Any new issues with this exact 
 If you experience this issue, you may:
 
 * Update to the latest version
-* (Can't officialy recommend) whitelist/exclude the detection in Windows Security/Defender. Read the [official microsoft response/article](https://support.microsoft.com/en-us/windows/microsoft-defender-antivirus-alert-vulnerabledriver-winnt-winring0-eb057830-d77b-41a2-9a34-015a5d203c42) carefully. 
-* With [V235 to V237](https://github.com/Rem0o/FanControl.Releases/releases), you can easily [use an alternative LHM branch](https://github.com/Rem0o/FanControl.Releases/issues/3410#issuecomment-3258597822) that doesn't use WinRing0. Consider this a Beta, as it hasn't been widely tested yet. It may not work, be unstable, not be reliable, you get the idea. 
+* (Can't officialy recommend) whitelist/exclude the detection in Windows Security/Defender. Read the [official microsoft response/article](https://support.microsoft.com/en-us/windows/microsoft-defender-antivirus-alert-vulnerabledriver-winnt-winring0-eb057830-d77b-41a2-9a34-015a5d203c42) carefully.
+* With [V235 to V237](https://github.com/Rem0o/FanControl.Releases/releases), you can easily [use an alternative LHM branch](https://github.com/Rem0o/FanControl.Releases/issues/3410#issuecomment-3258597822) that doesn't use WinRing0. Consider this a Beta, as it hasn't been widely tested yet. It may not work, be unstable, not be reliable, you get the idea.
 
 
 ## New
@@ -44,7 +44,7 @@ If you experience this issue, you may:
 
 ## Installation
 
-1. [Download the latest archive](/FanControl.zip?raw=true) <i>or</i> [an installer from the release page](https://github.com/Rem0o/FanControl.Releases/releases). 
+1. [Download the latest archive](/FanControl.zip?raw=true) <i>or</i> [an installer from the release page](https://github.com/Rem0o/FanControl.Releases/releases).
 2. Extract to the desired installation folder <i>or</i> run the installer
 3. Start FanControl.exe
 
@@ -100,10 +100,10 @@ Uninstall like any other windows program through the programs list
 
 From the community (notify me if I'm missing some):
 * https://github.com/AMoo-Miki/FanControlThermaltake updated fork of https://github.com/fu-raz/FanControlThermaltake
-* https://github.com/jmarucha/FanControl.Liquidctl
+* https://github.com/antoine-bouteiller/FanControl.LiquidCtl to interface with AIO devices (see compatible devices here https://github.com/liquidctl/liquidctl). Updated version of https://github.com/jmarucha/FanControl.Liquidctl with support for controller which returns multiples fan entries
 * https://github.com/Mourdraug/FanControl.AsusWMI to interface with ASUS motherboards through WMI methods
 * https://github.com/medevil84/FanControl.AquacomputerDevices to interface with aquacomputer HighFlowNext, Quadro and Octo devices
-* https://github.com/FoPzl/FanControl.AquacomputerQuadro to interface with aquacomputer Quadro 
+* https://github.com/FoPzl/FanControl.AquacomputerQuadro to interface with aquacomputer Quadro
 * https://github.com/vision57/FanControl.GPU-Z
 * https://github.com/EvanMulawski/FanControl.CorsairLink to interface with Corsair Commander controllers and Hydro liquid coolers
 * https://github.com/EvanMulawski/FanControl.Razer to interface with Razer devices
@@ -125,7 +125,7 @@ From Rem0o
 
 * I am not the main developer for the driver/backend portion of this software. Fan Control is basically a UI on top of existing hardware libraries. Any issue regarding hardware compatibility entirely depends on the following projects. If you can't contribute meaningfully with a branch/PR, don't pollute their issue page with "XXXXX doesn't work". The hardware is needed for testing. If a dev has interest in that project, is browsing it, has your specific hardware AND the knowledge to make it work, that dev won't be looking for your issue, he'll just raise a PR.
   * https://github.com/LibreHardwareMonitor/LibreHardwareMonitor
-  
+
 * Please only open issues on this repository for the software itself, UI, feature request and so on. If it's a "make this work please" hardware support request, I will link this section of the README and close your issue.
 * If you do have a special hardware compatibility request and you can provide a __working__ sample of code that can be used in .NET, like with a [Plugin](https://github.com/Rem0o/FanControl.Releases/wiki/Plugins), then feel free to submit that.
 
@@ -150,5 +150,5 @@ From Rem0o
 * https://github.com/Rem0o/ADLXWrapper (AMD gpu fan control and sensor reading)
 * https://github.com/punker76/gong-wpf-dragdrop (various drag and drop actions)
 
-## GitHub Sponsors 
-The GitHub Sponsor button on this page is intended for the related open-source work surrounding FanControl. This includes contributions to the open-source libraries used, mainly [LHM](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor), the plugin system and the various open-source plugins I contribute to, the AMD gpu driver support through [ADLXWrapper](https://github.com/Rem0o/ADLXWrapper), and more.  Your sponsorship helps me continue to contribute to the community, maintain existing projects, and develop new ones. It does not apply to the main program (FanControl) itself. Use the [Paypal](https://www.paypal.com/donate/?cmd=_donations&business=N4JPSTUQHRJM8&currency_code=USD&source=url&item_name=Fan+Control) donation button if your intent is to support the FanControl software itself. 
+## GitHub Sponsors
+The GitHub Sponsor button on this page is intended for the related open-source work surrounding FanControl. This includes contributions to the open-source libraries used, mainly [LHM](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor), the plugin system and the various open-source plugins I contribute to, the AMD gpu driver support through [ADLXWrapper](https://github.com/Rem0o/ADLXWrapper), and more.  Your sponsorship helps me continue to contribute to the community, maintain existing projects, and develop new ones. It does not apply to the main program (FanControl) itself. Use the [Paypal](https://www.paypal.com/donate/?cmd=_donations&business=N4JPSTUQHRJM8&currency_code=USD&source=url&item_name=Fan+Control) donation button if your intent is to support the FanControl software itself.
