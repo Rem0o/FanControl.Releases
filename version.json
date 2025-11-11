@@ -1,11 +1,11 @@
 {
-    "Number":  245,
-    "Message":  "- Some control/speed sensors are now be paired by default. Can be done in plugins too. \r\n- Fixed a timeout issue in assisted setup\r\n- Refined calibration to handle cases where a fan has a flat response in its lower % range.\r\n- Update LibreHardwareMonitorLib",
+    "Number":  246,
+    "Message":  "- Fix a bug where the app window would open unintentionally at startup\r\n- Cleanup memory usage after startup\r\n- Control offset now supports decimal values\r\n- Make sleep/resume routine more robust\r\n- Update LibreHardwareMonitorLib",
     "Checksums":  {
-                      "FanControl_4_8":  "3D19FD0EAEFC52D5FD3A349327425908",
-                      "FanControl_8_0":  "8085E5867E56F24D8B92CDF1E696E113",
-                      "FanControl_4_8_Installer":  "25D8A890CA3606493E3D6307987C599B",
-                      "FanControl_8_0_Installer":  "55E535324F11DA74E392B3338B9116C8",
+                      "FanControl_4_8":  "1E0A5908835F61C8ADB093AF627A5768",
+                      "FanControl_8_0":  "A03E1C0065AFE315BF947CB4BDA849AD",
+                      "FanControl_4_8_Installer":  "E1DF25BA31FF4EAAD0EC43E9D101FF1F",
+                      "FanControl_8_0_Installer":  "31F9CBF3C33BDAB871492BFA805069C2",
                       "Updater":  "82745C6CC3D8598898AA2CE81A8DFF2E"
                   }
 }
