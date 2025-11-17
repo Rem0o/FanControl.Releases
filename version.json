@@ -1,11 +1,13 @@
 {
-    "Number":  247,
-    "Message":  "- Fix a bug where the app window would open unintentionally at startup\r\n- Cleanup memory usage after startup\r\n- Control offset now supports decimal values\r\n- Make sleep/resume routine more robust\r\n- Update LibreHardwareMonitorLib",
+    "Number":  248,
+    "Message":  "- Update LibreHardwareMonitorLib\r\n- Update .NET 8 to .NET 10",
     "Checksums":  {
-                      "FanControl_4_8":  "832864D87D9505F01A6432BBDA152AC2",
-                      "FanControl_8_0":  "2A907FDCC94310EAE8F2478A01567043",
-                      "FanControl_4_8_Installer":  "0A957A0349DA23672E01998BB3DCC3B1",
-                      "FanControl_8_0_Installer":  "C75C187456FF05831080FD61FC0754BD",
-                      "Updater":  "82745C6CC3D8598898AA2CE81A8DFF2E"
+                      "FanControl_4_8":  "EAB1DB47BAAB76CA4352C9DF4E00BD42",
+                      "FanControl_8_0":  "50FA855D6565175FC468ED28017B77E6",
+                      "FanControl_10_0":  "AE6CE964823C7C23F6417D87B247373F",
+                      "FanControl_4_8_Installer":  "B629F5ED245061636F603AB94CBD20B1",
+                      "FanControl_8_0_Installer":  "63A5C2D43C10836A29947E3675841853",
+                      "FanControl_10_0_Installer":  "AF5F7763BE81951F8F4A8AD4D0831145",
+                      "Updater":  "C0EC1816821686BFB1A16D163EBD7266"
                   }
 }
