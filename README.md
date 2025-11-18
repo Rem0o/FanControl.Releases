@@ -115,6 +115,7 @@ From the community (notify me if I'm missing some):
 * https://github.com/Brian-E-Taylor/FanControl.AIDA64 to get readings out of AIDA64
 * https://github.com/Benson5650/FanControl.RazerCoolingPadPlugin to interface with Razer Laptop Cooling Pad.
 * https://github.com/chenx-dust/FanControl.GPDPlugin to interface with GPD devices
+* https://github.com/jiarandiana0307/FanControl.LenovoPlugin to control fans of Lenovo laptops with `Lenovo ACPI-Compliant Virtual Power Controller` installed
 
 From Rem0o
 * https://github.com/Rem0o/FanControl.IntelCtlLibrary (Intel ARC gpus)
