@@ -1,13 +1,11 @@
 {
-    "Number":  248,
-    "Message":  "- Update LibreHardwareMonitorLib\r\n- Update .NET 8 to .NET 10",
+    "Number":  249,
+    "Message":  "- Fix the uninstaller\r\n- Update LibreHardwareMonitorLib",
     "Checksums":  {
-                      "FanControl_4_8":  "EAB1DB47BAAB76CA4352C9DF4E00BD42",
-                      "FanControl_8_0":  "50FA855D6565175FC468ED28017B77E6",
-                      "FanControl_10_0":  "AE6CE964823C7C23F6417D87B247373F",
-                      "FanControl_4_8_Installer":  "B629F5ED245061636F603AB94CBD20B1",
-                      "FanControl_8_0_Installer":  "63A5C2D43C10836A29947E3675841853",
-                      "FanControl_10_0_Installer":  "AF5F7763BE81951F8F4A8AD4D0831145",
+                      "FanControl_4_8":  "7D3856D0DA81415903DE9959BF316DD6",
+                      "FanControl_10_0":  "56DE9178E844708EF1F070E53623C1A2",
+                      "FanControl_4_8_Installer":  "EFB51FECC59B1EEC3ED7895C2CD9F17C",
+                      "FanControl_10_0_Installer":  "B8D83C79DDA002F65C47C5FA3AF2D620",
                       "Updater":  "C0EC1816821686BFB1A16D163EBD7266"
                   }
 }
