@@ -1,11 +1,11 @@
 {
-    "Number":  249,
-    "Message":  "- Fix the uninstaller\r\n- Update LibreHardwareMonitorLib",
+    "Number":  250,
+    "Message":  "- Update LibreHardwareMonitorLib (compatibility improvement for various gigabyte and msi motherboards)\r\n- Available Romanian translation\r\n- Font options for languages where the default font do not look good",
     "Checksums":  {
-                      "FanControl_4_8":  "7D3856D0DA81415903DE9959BF316DD6",
-                      "FanControl_10_0":  "56DE9178E844708EF1F070E53623C1A2",
-                      "FanControl_4_8_Installer":  "EFB51FECC59B1EEC3ED7895C2CD9F17C",
-                      "FanControl_10_0_Installer":  "B8D83C79DDA002F65C47C5FA3AF2D620",
+                      "FanControl_4_8":  "F49CBC715C3427FC66DEC0EC5C78328C",
+                      "FanControl_10_0":  "D57E741C385934692933B679D5BC6015",
+                      "FanControl_4_8_Installer":  "F0D618FC816C6ABFF559B902AD846252",
+                      "FanControl_10_0_Installer":  "5072C3F7EE412A77C1DBCCF4502D0CFA",
                       "Updater":  "504D0568993011A6F4BC8CF81AFC611C"
                   }
 }
