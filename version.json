@@ -1,11 +1,11 @@
 {
-    "Number":  250,
-    "Message":  "- Update LibreHardwareMonitorLib (compatibility improvement for various gigabyte and msi motherboards)\r\n- Available Romanian translation\r\n- Font options for languages where the default font do not look good",
+    "Number":  251,
+    "Message":  "- Update LibreHardwareMonitorLib (DiskInfoToolKit)\r\n- Add storage update interval parameter\r\n- Handle live hardware removed\r\n- FanControl is now a signed app",
     "Checksums":  {
-                      "FanControl_4_8":  "F49CBC715C3427FC66DEC0EC5C78328C",
-                      "FanControl_10_0":  "D57E741C385934692933B679D5BC6015",
-                      "FanControl_4_8_Installer":  "F0D618FC816C6ABFF559B902AD846252",
-                      "FanControl_10_0_Installer":  "5072C3F7EE412A77C1DBCCF4502D0CFA",
-                      "Updater":  "504D0568993011A6F4BC8CF81AFC611C"
+                      "FanControl_4_8":  "CE88AB721CD8683FF8DED4D94629D665",
+                      "FanControl_10_0":  "5161B541BE82A64BC981475DC8C3F895",
+                      "FanControl_4_8_Installer":  "023B62107AA2788C598017CF2258AA27",
+                      "FanControl_10_0_Installer":  "F4544D7FC632CB8FD8839D9C1BF8157A",
+                      "Updater":  "8445CA16D4EC4D0791F71C025B56FF0C"
                   }
 }
