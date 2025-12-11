@@ -32,15 +32,6 @@ If you experience this issue, you may:
 * (Can't officialy recommend) whitelist/exclude the detection in Windows Security/Defender. Read the [official microsoft response/article](https://support.microsoft.com/en-us/windows/microsoft-defender-antivirus-alert-vulnerabledriver-winnt-winring0-eb057830-d77b-41a2-9a34-015a5d203c42) carefully.
 * With [V235 to V237](https://github.com/Rem0o/FanControl.Releases/releases), you can easily [use an alternative LHM branch](https://github.com/Rem0o/FanControl.Releases/issues/3410#issuecomment-3258597822) that doesn't use WinRing0. Consider this a Beta, as it hasn't been widely tested yet. It may not work, be unstable, not be reliable, you get the idea.
 
-
-## New
-* New seperate "Up" and "Down" hysteresis for graph, linear and trigger fan curves
-![Fan Control](Images/Hysteresis.png)
-* The software is now open for translations. Contributions are welcomed here [FanControl.i18n](https://github.com/Rem0o/FanControl.i18n)
-* AMD GPU support through [ADLXWrapper](https://github.com/Rem0o/ADLXWrapper).
-* Fan calibration and RPM mode for fan curves. See [discussion](https://github.com/Rem0o/FanControl.Releases/discussions/2333).
-* Installer now available in addition to the portable version of the application. Both .NET 4.8 and 8.0 versions of the application are available as such [here](https://github.com/Rem0o/FanControl.Releases/releases).
-
 ## Installation
 
 1. [Download the latest archive](/FanControl.zip?raw=true) <i>or</i> [an installer from the release page](https://github.com/Rem0o/FanControl.Releases/releases).
