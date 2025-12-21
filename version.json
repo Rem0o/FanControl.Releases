@@ -1,11 +1,11 @@
 {
-    "Number":  251,
-    "Message":  "- Update LibreHardwareMonitorLib (DiskInfoToolKit)\r\n- Add storage update interval parameter\r\n- Handle live hardware removed\r\n- FanControl is now a signed app",
+    "Number":  252,
+    "Message":  "- Clicking the notification now opens up the main window\r\n- Update LibreHardwareMonitorLib\r\n- Improve hardware added/removed handling",
     "Checksums":  {
-                      "FanControl_4_8":  "CE88AB721CD8683FF8DED4D94629D665",
-                      "FanControl_10_0":  "5161B541BE82A64BC981475DC8C3F895",
-                      "FanControl_4_8_Installer":  "023B62107AA2788C598017CF2258AA27",
-                      "FanControl_10_0_Installer":  "F4544D7FC632CB8FD8839D9C1BF8157A",
+                      "FanControl_4_8":  "177569DB68C4CDAC326644A19CAC0E61",
+                      "FanControl_10_0":  "7E913B1CF16F03EF2CEDEC804675BCEB",
+                      "FanControl_4_8_Installer":  "EBB3B57B14482372E8460F7803EF84FA",
+                      "FanControl_10_0_Installer":  "62C44049BE01A789AE4546E6F0107658",
                       "Updater":  "8445CA16D4EC4D0791F71C025B56FF0C"
                   }
 }
