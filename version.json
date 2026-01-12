@@ -1,11 +1,11 @@
 {
-    "Number":  252,
-    "Message":  "- Clicking the notification now opens up the main window\r\n- Update LibreHardwareMonitorLib\r\n- Improve hardware added/removed handling",
+    "Number":  253,
+    "Message":  "- Update LibreHardwareMonitorLib\r\n- Internal bug fixes",
     "Checksums":  {
-                      "FanControl_4_8":  "177569DB68C4CDAC326644A19CAC0E61",
-                      "FanControl_10_0":  "7E913B1CF16F03EF2CEDEC804675BCEB",
-                      "FanControl_4_8_Installer":  "EBB3B57B14482372E8460F7803EF84FA",
-                      "FanControl_10_0_Installer":  "62C44049BE01A789AE4546E6F0107658",
+                      "FanControl_4_8":  "DFA1ED5B7BECF10EDDA4C8A5F9A4828B",
+                      "FanControl_10_0":  "C6E5BB33BF816556057121F886839A1C",
+                      "FanControl_4_8_Installer":  "24FAE8F5E3DDE95259AC417610882FAA",
+                      "FanControl_10_0_Installer":  "54E57FD330FA7E108A0839EA200CD9D1",
                       "Updater":  "8445CA16D4EC4D0791F71C025B56FF0C"
                   }
 }
