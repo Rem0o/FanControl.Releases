@@ -1,11 +1,11 @@
 {
-    "Number":  253,
+    "Number":  254,
     "Message":  "- Update LibreHardwareMonitorLib\r\n- Internal bug fixes",
     "Checksums":  {
-                      "FanControl_4_8":  "DFA1ED5B7BECF10EDDA4C8A5F9A4828B",
-                      "FanControl_10_0":  "C6E5BB33BF816556057121F886839A1C",
-                      "FanControl_4_8_Installer":  "24FAE8F5E3DDE95259AC417610882FAA",
-                      "FanControl_10_0_Installer":  "54E57FD330FA7E108A0839EA200CD9D1",
+                      "FanControl_4_8":  "54CF39376EEB886FCE5A38CD5816DFE5",
+                      "FanControl_10_0":  "C1559360D7FAC83DBE84DF05DBAA34DC",
+                      "FanControl_4_8_Installer":  "E91A668BEA3CF14F7B7C08AF75F01353",
+                      "FanControl_10_0_Installer":  "B7DB8514E70B1BCC63036C24FAE12A78",
                       "Updater":  "8445CA16D4EC4D0791F71C025B56FF0C"
                   }
 }
