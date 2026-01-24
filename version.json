@@ -1,11 +1,11 @@
 {
-    "Number":  254,
-    "Message":  "- Update LibreHardwareMonitorLib\r\n- Internal bug fixes",
+    "Number":  255,
+    "Message":  "- Pre-pairing some LHM control/fan sensors\r\n- Update LibreHardwareMonitorLib",
     "Checksums":  {
-                      "FanControl_4_8":  "54CF39376EEB886FCE5A38CD5816DFE5",
-                      "FanControl_10_0":  "C1559360D7FAC83DBE84DF05DBAA34DC",
-                      "FanControl_4_8_Installer":  "E91A668BEA3CF14F7B7C08AF75F01353",
-                      "FanControl_10_0_Installer":  "B7DB8514E70B1BCC63036C24FAE12A78",
+                      "FanControl_4_8":  "E7416CFC51034DDA8A11A6679EA4E6FE",
+                      "FanControl_10_0":  "E7AB0CFC771AB3967A30957215AC3F14",
+                      "FanControl_4_8_Installer":  "EEB881863D356CF2542F5EE5426C82C5",
+                      "FanControl_10_0_Installer":  "85EC57630690C453D4EAEDDE77E3CA74",
                       "Updater":  "8445CA16D4EC4D0791F71C025B56FF0C"
                   }
 }
