@@ -1,11 +1,11 @@
 {
-    "Number":  256,
+    "Number":  257,
     "Message":  "- UpdateLibreHardwareMonitorLib\r\n- Bug fixes\r\n- Missing localized labels and tooltips",
     "Checksums":  {
-                      "FanControl_4_8":  "5FA688AF2D783A0BE10A2D65EC7FA011",
-                      "FanControl_10_0":  "C87CA73146E9753181211A1E54467A5E",
-                      "FanControl_4_8_Installer":  "54A019196BD20DC9285C73311AC7760F",
-                      "FanControl_10_0_Installer":  "AC4589754A8F87398E331165F562C2F1",
+                      "FanControl_4_8":  "E37A4482074B04BD6DAEA6DA491E1511",
+                      "FanControl_10_0":  "9A83DFC2696D3BBD56248E8D6C2BF5D5",
+                      "FanControl_4_8_Installer":  "4FA292B4D11CB326D9044DFF2D6CC48F",
+                      "FanControl_10_0_Installer":  "A4F66D4D47C90284F159EE3472FA0F31",
                       "Updater":  "8445CA16D4EC4D0791F71C025B56FF0C"
                   }
 }
