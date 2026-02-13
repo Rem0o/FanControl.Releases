@@ -19,7 +19,7 @@
 ## Announcement
 * FanControl, its installer and the updater now have a signed executable, which should help with AVs false flagging.
 * [V238](https://github.com/Rem0o/FanControl.Releases/releases/tag/V238) and above now ships with a [PawnIO](https://pawnio.eu/) build of [LHM](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor). This will fix the anti-virus problems encountered with WinRing0, as it is no longer shipped with FanControl.  You may still use V237 or any version before if you want to keep the WinRing0 version.
-There is a known issue where FACEIT will block the new driver. See this [issue](https://github.com/namazso/PawnIO.Setup/issues/1).
+The FaceIT issue was fixed with the [2.1.0 PawnIO version](https://github.com/namazso/PawnIO.Setup/releases/tag/2.1.0).
 
 ## WARNING ( V237 and below )
 
