@@ -1,11 +1,11 @@
 {
-    "Number":  258,
-    "Message":  "- Fix a bug where custom sensors used in tray icons would throw an error at launch",
+    "Number":  259,
+    "Message":  "- Support for PawnIO 2.1.0 driver\r\n- Progressive increase in % if fan fails to start at start%\r\n- Fixed a bug causing a refresh loop\r\n- Fixed a bug causing tray icons to not use the windows theme\r\n- Fixed a bug causing disabled controls in manual mode to enable upon refresh",
     "Checksums":  {
-                      "FanControl_4_8":  "D4AD4BEE54824623D6F7232106464241",
-                      "FanControl_10_0":  "F6B4A0C3A164C5D2440E6D1B2ADBFF6C",
-                      "FanControl_4_8_Installer":  "A363F272E2908D0BF5CD83DE535B7899",
-                      "FanControl_10_0_Installer":  "837106A43A01F4E6DEB899A708A800E8",
+                      "FanControl_4_8":  "74BED805162BAA54B620DC173DCD7065",
+                      "FanControl_10_0":  "0FEC836F07EB7DC5B5922AF497D5D87C",
+                      "FanControl_4_8_Installer":  "9F318B97AEDD378BF96B3A981933A024",
+                      "FanControl_10_0_Installer":  "3BE8BCC6E95E7805A6D80C34418D8A73",
                       "Updater":  "8445CA16D4EC4D0791F71C025B56FF0C"
                   }
 }
