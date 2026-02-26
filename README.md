@@ -16,6 +16,10 @@
 [![Download](https://img.shields.io/badge/Download-FanControl-green.svg?style=flat&logo=download)](/FanControl.zip?raw=true)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat&logo=paypal)](https://www.paypal.com/donate/?business=N4JPSTUQHRJM8&no_recurring=0&item_name=Fan%20Control%20software%20creator%20and%20maintainer.%20Donations%20allow%20me%20to%20continue%20working%20on%20this%20project%20while%20keeping%20it%20free%20to%20use.%20Thank%20you%20for%20contributing%21&currency_code=USD)
 
+## Laptop/Notebook users take note
+
+<ins>FanControl does not support laptops/notebooks</ins> (unless a specific plugin is [offered below](#plugins)), because their fan control systems are designed in such a way that they cannot be controlled. For more, see [this discussion](https://github.com/Rem0o/FanControl.Releases/discussions/2533#discussioncomment-9574063). To be clear, you will find that you can INSTALL this software but it will likely fail, such as with an error "could not initialize or has no sensors", or in the logs "NVAPI_NOT_SUPPORTED". 
+
 ## Announcement
 * FanControl, its installer and the updater now have a signed executable, which should help with AVs false flagging.
 * [V238](https://github.com/Rem0o/FanControl.Releases/releases/tag/V238) and above now ships with a [PawnIO](https://pawnio.eu/) build of [LHM](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor). This will fix the anti-virus problems encountered with WinRing0, as it is no longer shipped with FanControl.  You may still use V237 or any version before if you want to keep the WinRing0 version.
