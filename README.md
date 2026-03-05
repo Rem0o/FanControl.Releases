@@ -18,19 +18,8 @@
 
 ## Announcement
 * FanControl, its installer and the updater now have a signed executable, which should help with AVs false flagging.
-* [V238](https://github.com/Rem0o/FanControl.Releases/releases/tag/V238) and above now ships with a [PawnIO](https://pawnio.eu/) build of [LHM](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor). This will fix the anti-virus problems encountered with WinRing0, as it is no longer shipped with FanControl.  You may still use V237 or any version before if you want to keep the WinRing0 version.
+* [V238](https://github.com/Rem0o/FanControl.Releases/releases/tag/V238) and above now ships with a [PawnIO](https://pawnio.eu/) build of [LHM](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor). This fixes the anti-virus problems encountered with WinRing0, as it is no longer shipped with FanControl. Note that as of 09/04/2025, WinRing0 (FanControl.sys) used in V237 and below is flagged as [Trojan:Win32/Vigorf.A](https://github.com/Rem0o/FanControl.Releases/issues/3410#issuecomment-3254057373) by Windows Defender, causing sensors to not be detected — updating to V238 or later is the recommended fix.
 The FaceIT issue was fixed with the [2.1.0 PawnIO version](https://github.com/namazso/PawnIO.Setup/releases/tag/2.1.0).
-
-## WARNING ( V237 and below )
-
-As of 09/04/2025, Winring0 (FanControl.sys) is flagged as [Trojan:Win32/Vigorf.A](https://github.com/Rem0o/FanControl.Releases/issues/3410#issuecomment-3254057373) by Windows Defender. This will cause sensors to not be detected.
-You do not need to open an issue on the subject. Any new issues with this exact problem will be closed as duplicate.
-
-If you experience this issue, you may:
-
-* Update to the latest version
-* (Can't officialy recommend) whitelist/exclude the detection in Windows Security/Defender. Read the [official microsoft response/article](https://support.microsoft.com/en-us/windows/microsoft-defender-antivirus-alert-vulnerabledriver-winnt-winring0-eb057830-d77b-41a2-9a34-015a5d203c42) carefully.
-* With [V235 to V237](https://github.com/Rem0o/FanControl.Releases/releases), you can easily [use an alternative LHM branch](https://github.com/Rem0o/FanControl.Releases/issues/3410#issuecomment-3258597822) that doesn't use WinRing0. Consider this a Beta, as it hasn't been widely tested yet. It may not work, be unstable, not be reliable, you get the idea.
 
 ## Installation
 
