@@ -1,6 +1,5 @@
 <h1 align="center">
-  <a href="https://www.getfancontrol.com"><img src="Images/logo.gif" width="36" style="vertical-align: -8px; margin-right: 4px"/></a>
-  Fan Control
+  <a href="https://www.getfancontrol.com"><img src="Images/logo.gif" width="36"/></a><span>&nbsp;</span><span>Fan Control</span>
 </h1>
 
 <p align="center">A focused and highly customizable fan controlling software for Windows.<br><i>Sources for this software are closed.</i></p>
