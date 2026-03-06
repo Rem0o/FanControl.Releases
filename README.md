@@ -32,6 +32,10 @@
 - [Libraries Used](#libraries-used)
 - [GitHub Sponsors](#github-sponsors)
 
+## Laptop/Notebook users take note
+
+<ins>FanControl does not support laptops/notebooks</ins> (unless a specific plugin is [offered below](#plugins)), because their fan control systems are designed in such a way that they cannot be controlled. For more, see [this discussion](https://github.com/Rem0o/FanControl.Releases/discussions/2533#discussioncomment-9574063). To be clear, you will find that you can INSTALL this software but it will likely fail, such as with an error "could not initialize or has no sensors", or in the logs "NVAPI_NOT_SUPPORTED". 
+
 ## Announcement
 
 - FanControl, its installer and the updater now have a signed executable, which should help with AVs false flagging.
