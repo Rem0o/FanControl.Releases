@@ -1,11 +1,11 @@
 {
-    "Number":  261,
-    "Message":  "- Configuration files can now be loaded/saved from any folder.\r\n- Resuming from sleep should no longer trigger a ask for save.\r\n- Graph point should now update properly on cancel",
+    "Number":  262,
+    "Message":  "- Fix a cache loading bug\r\n- Fix tray icon tooltips\r\n- Add support for any full config path with -c or --config cli option\r\n- Update LibreHardwareMonitorLib",
     "Checksums":  {
-                      "FanControl_4_8":  "893288F9E2E4657731C7981EB94BF166",
-                      "FanControl_10_0":  "B99A6A9D1C36AD2D60FE76098C2C3E02",
-                      "FanControl_4_8_Installer":  "9D78BA022E27B27B3AB8E372C5242228",
-                      "FanControl_10_0_Installer":  "CED733AAB0269E8543BA0F8F27010C8D",
+                      "FanControl_4_8":  "27E4BEF5AB961DDC93B2FAF6CE6900D2",
+                      "FanControl_10_0":  "0B042EBD9C18078392B998210DFCE38A",
+                      "FanControl_4_8_Installer":  "50C4AC18A5B043B07B4005899B8E518B",
+                      "FanControl_10_0_Installer":  "306195B5092B81E883074754A4915103",
                       "Updater":  "8445CA16D4EC4D0791F71C025B56FF0C"
                   }
 }
