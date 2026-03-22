@@ -1,12 +1,12 @@
-<h1 align="center">
-  <a href="https://www.getfancontrol.com"><img src="Images/logo.gif" width="36"/></a><span>&nbsp;</span><span>Fan Control</span>
+<h1 对齐="居中">
+  <一个 链接="https://www.getfancontrol.com"><图像 源="Images/logo.gif" 宽度="36"/></链接><段落> </段落><段落>粉丝控制</段落>
 </h1>
 
-<p align="center">A focused and highly customizable fan controlling software for Windows.<br><i>Sources for this software are closed.</i></p>
+<p align="center">一个专注于Windows的高效且高度可定制的风扇控制软件。<br><i>该软件的源代码是封闭的。</i></p>
 
-<p align="center">
-  <a href="/FanControl.zip?raw=true"><img src="https://img.shields.io/badge/Download-FanControl-green.svg?style=flat&logo=download" alt="Download"/></a>
-  <a href="https://www.paypal.com/donate/?business=N4JPSTUQHRJM8&no_recurring=0&item_name=Fan%20Control%20software%20creator%20and%20maintainer.%20Donations%20allow%20me%20to%20continue%20working%20on%20this%20project%20while%20keeping%20it%20free%20to%20use.%20Thank%20you%20for%20contributing%21&currency_code=USD"><img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat&logo=paypal" alt="Donate"/></a>
+<p 对齐="居中">
+  <一个 链接="/FanControl.zip?raw=true"><图像 源="https://img.shields.io/badge/下载-FanControl-green.svg?style=flat&标志=下载" 替代文本="下载"/></链接>
+  <一个 链接="https://www.paypal.com/donate/?business=N4JPSTUQHRJM8&no_recurring=0&item_name=Fan%20Control%20软件%20创建者%20和%20维护者.%20捐赠允许我继续这个项目的工作，同时保持其免费使用.%20感谢您的贡献！&currency_code=USD"><图像 源="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat&logo=paypal" 替代文本="捐赠"/></链接>
   <a href="https://buy.stripe.com/aFaeV75oSg0wcvhbKL0ZW00"><img src="https://img.shields.io/badge/Donate-Stripe-635BFF?logo=stripe&logoColor=white" alt="Donate"/></a>
 
 </p>
@@ -15,7 +15,7 @@
 
 ---
 
-## Featured On
+## Featured  On
 
 **JayzTwoCents** — Everyone NEEDS this FREE piece of software... You will thank me!
 
