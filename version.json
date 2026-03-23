@@ -1,11 +1,11 @@
 {
-    "Number":  263,
+    "Number":  264,
     "Message":  "- Fix leaks in ADLXWrapper\r\n- Fixed a logging bug\r\n- Fixed a bug when cancelling the browse window when loading a config\r\n- Update LibreHardwareMonitorLib",
     "Checksums":  {
-                      "FanControl_4_8":  "63FAA2C36D90A7B93ECEE4C75435EE4C",
-                      "FanControl_10_0":  "E8D40411770F4676CCBE6FE493E82414",
-                      "FanControl_4_8_Installer":  "5B9BDC8F49C9F352DF4D6202C41265F6",
-                      "FanControl_10_0_Installer":  "7089FD20A15F1C86DFFF05079721E81C",
+                      "FanControl_4_8":  "7A048DB8E169497740DD5E844C8E2819",
+                      "FanControl_10_0":  "0218E871BA5EA3A55CDB6A21BFFA7060",
+                      "FanControl_4_8_Installer":  "C319AEF99CC8A80FAFC65BA2771A2575",
+                      "FanControl_10_0_Installer":  "DFD5B00D0FA86BBB562842794AC260E6",
                       "Updater":  "8445CA16D4EC4D0791F71C025B56FF0C"
                   }
 }
