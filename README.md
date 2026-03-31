@@ -138,6 +138,9 @@ If you have a hardware compatibility request and can provide a **working** code 
 **Q: What BIOS settings work best with FanControl?**
 > Avoid any "smart" fan control from your BIOS. Setting a fixed default speed (e.g. 50%) works great for most people. Also check whether your BIOS uses PWM or DC mode — one may work better depending on your setup.
 
+**Q: Does it work on laptops?**
+> Mostly no, as laptops do not interface their fans the same way desktop motherboards do. Most of them are not made to be interfaced by a 3rd party. However, if supported, a plugin may add support for a specific type of laptop. To be clear, you'll be able to install the software, but it won't find any fans or may throw errors. 
+
 **Q: My NVIDIA GPU has 3 fans but only 2 control cards show up. Why?**
 > Your card only has 2 channels; multiple fans are wired to the same channel.
 
