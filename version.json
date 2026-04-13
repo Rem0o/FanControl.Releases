@@ -1,11 +1,11 @@
 {
-    "Number":  264,
-    "Message":  "- Fix leaks in ADLXWrapper\r\n- Fixed a logging bug\r\n- Fixed a bug when cancelling the browse window when loading a config\r\n- Update LibreHardwareMonitorLib",
+    "Number":  265,
+    "Message":  "- Update LibreHardwareMonitorLib\r\n- Update included version of PawnIO to 2.2.0",
     "Checksums":  {
-                      "FanControl_4_8":  "7A048DB8E169497740DD5E844C8E2819",
-                      "FanControl_10_0":  "0218E871BA5EA3A55CDB6A21BFFA7060",
-                      "FanControl_4_8_Installer":  "C319AEF99CC8A80FAFC65BA2771A2575",
-                      "FanControl_10_0_Installer":  "DFD5B00D0FA86BBB562842794AC260E6",
+                      "FanControl_4_8":  "7AE67A72CC7D444095F4FAE83E8B3E21",
+                      "FanControl_10_0":  "845B641AC20E628203ACAA7CA31F5508",
+                      "FanControl_4_8_Installer":  "22C48C53A23B79CF5B1D61BDFFC12A13",
+                      "FanControl_10_0_Installer":  "609F7BD18AC88213BE0D68DD4040EDF7",
                       "Updater":  "8445CA16D4EC4D0791F71C025B56FF0C"
                   }
 }
