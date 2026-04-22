@@ -1,11 +1,11 @@
 {
-    "Number":  265,
-    "Message":  "- Update LibreHardwareMonitorLib\r\n- Update included version of PawnIO to 2.2.0",
+    "Number":  266,
+    "Message":  "- Update LibreHardwareMonitorLib",
     "Checksums":  {
-                      "FanControl_4_8":  "7AE67A72CC7D444095F4FAE83E8B3E21",
-                      "FanControl_10_0":  "845B641AC20E628203ACAA7CA31F5508",
-                      "FanControl_4_8_Installer":  "22C48C53A23B79CF5B1D61BDFFC12A13",
-                      "FanControl_10_0_Installer":  "609F7BD18AC88213BE0D68DD4040EDF7",
+                      "FanControl_4_8":  "093B804BFB6E7734864177D0209E0BED",
+                      "FanControl_10_0":  "3FBBF9200A1D69BBFC60D923EA1E47C1",
+                      "FanControl_4_8_Installer":  "631D2411A85DB2ECC32A339A0890ED16",
+                      "FanControl_10_0_Installer":  "F4B996AC0AC392FF8BAEB185919163DE",
                       "Updater":  "8445CA16D4EC4D0791F71C025B56FF0C"
                   }
 }
