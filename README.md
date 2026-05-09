@@ -36,7 +36,7 @@
 
 ## Announcement
 
-- __NEW__: Calibration avoid points: set avoid points if you don't want your fans to never run in at a specific % that may rattle or emit an annoying noise. 
+- __NEW__: Calibration avoid points: set avoid points if you want your fans to never run in at a specific % that may rattle or emit an annoying noise. 
 
   <img alt="JayzTwoCents - Everyone NEEDS this FREE piece of software... You will thank me!" src="Images/Avoid.png" width="350"/>
 - FanControl, its installer and the updater now have a signed executable, which should help with AVs false flagging.
