@@ -1,11 +1,11 @@
 {
-    "Number":  266,
-    "Message":  "- Update LibreHardwareMonitorLib",
+    "Number":  267,
+    "Message":  "- New manual calibration feature: avoid regions\r\n- Update LibreHardwareMonitorLib",
     "Checksums":  {
-                      "FanControl_4_8":  "093B804BFB6E7734864177D0209E0BED",
-                      "FanControl_10_0":  "3FBBF9200A1D69BBFC60D923EA1E47C1",
-                      "FanControl_4_8_Installer":  "631D2411A85DB2ECC32A339A0890ED16",
-                      "FanControl_10_0_Installer":  "F4B996AC0AC392FF8BAEB185919163DE",
+                      "FanControl_4_8":  "0959B5EDC70771E55949D9A7A50BDA3D",
+                      "FanControl_10_0":  "6D7B8E7DF181B8929D50136492C3639C",
+                      "FanControl_4_8_Installer":  "61F0C352F544B4CCCA7DC31A20744B02",
+                      "FanControl_10_0_Installer":  "416848D35CCC1E96D10FE574B7DAA2A4",
                       "Updater":  "8445CA16D4EC4D0791F71C025B56FF0C"
                   }
 }

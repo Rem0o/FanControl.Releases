@@ -36,6 +36,8 @@
 
 ## Announcement
 
+- __NEW__: Calibration avoid points: set avoid points if you don't want your fans to never run in at a specific % that may rattle or emit an annoying noise. 
+  <img alt="JayzTwoCents - Everyone NEEDS this FREE piece of software... You will thank me!" src="Images/Avoid.png" width="350"/>
 - FanControl, its installer and the updater now have a signed executable, which should help with AVs false flagging.
 - [V238](https://github.com/Rem0o/FanControl.Releases/releases/tag/V238) and above now ships with a [PawnIO](https://pawnio.eu/) build of [LHM](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor). This fixes the anti-virus problems encountered with WinRing0, as it is no longer shipped with FanControl. Note that as of 09/04/2025, WinRing0 (FanControl.sys) used in V237 and below is flagged as [Trojan:Win32/Vigorf.A](https://github.com/Rem0o/FanControl.Releases/issues/3410#issuecomment-3254057373) by Windows Defender, causing sensors to not be detected — updating to V238 or later is the recommended fix.
 - The FaceIT issue was fixed with the [2.1.0 PawnIO version](https://github.com/namazso/PawnIO.Setup/releases/tag/2.1.0).
