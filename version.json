@@ -1,11 +1,11 @@
 {
-    "Number":  267,
-    "Message":  "- New manual calibration feature: avoid regions\r\n- Update LibreHardwareMonitorLib",
+    "Number":  268,
+    "Message":  "- Add FanControl Service\r\n- Add start service on boot option\r\n- Tray icon client integration with service\r\n- ADLX 1.5 support",
     "Checksums":  {
-                      "FanControl_4_8":  "0959B5EDC70771E55949D9A7A50BDA3D",
-                      "FanControl_10_0":  "6D7B8E7DF181B8929D50136492C3639C",
-                      "FanControl_4_8_Installer":  "61F0C352F544B4CCCA7DC31A20744B02",
-                      "FanControl_10_0_Installer":  "416848D35CCC1E96D10FE574B7DAA2A4",
+                      "FanControl_4_8":  "6D9D711A840354EED161DBAF27E62788",
+                      "FanControl_10_0":  "47938CB328EF90CA62EBFDF596F66050",
+                      "FanControl_4_8_Installer":  "C8823DA0E15C18401429592E03DAD4DB",
+                      "FanControl_10_0_Installer":  "63FD5AAB78C494B904355D051AED9926",
                       "Updater":  "8445CA16D4EC4D0791F71C025B56FF0C"
                   }
 }
