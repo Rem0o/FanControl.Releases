@@ -36,6 +36,7 @@
 
 ## Announcement
 
+- __NEW__: Fan Control can now be started on boot as a service, without any user session.
 - __NEW__: Calibration avoid points: set avoid points if you want your fans to never run in at a specific % that may rattle or emit an annoying noise. 
 
   <img alt="JayzTwoCents - Everyone NEEDS this FREE piece of software... You will thank me!" src="Images/Avoid.png" width="350"/>
