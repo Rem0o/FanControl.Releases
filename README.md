@@ -127,6 +127,7 @@ The plugin system lets you inject any type of sensor into FanControl. See the [P
 | [FanControl.GPDPlugin](https://github.com/chenx-dust/FanControl.GPDPlugin) | GPD devices |
 | [FanControl.LenovoPlugin](https://github.com/jiarandiana0307/FanControl.LenovoPlugin) | Lenovo laptops with `Lenovo ACPI-Compliant Virtual Power Controller` |
 | [FanControl.GigabyteWaterforce](https://github.com/brenoperucchi/FanControl.GigabyteWaterforce) | GIGABYTE AORUS WATERFORCE X AIO coolers — X240, X280, X360 |
+| [FanControl.AcerPredatorPH315](https://github.com/phaax/FanControl.AcerPredatorPH315) | Native fan control for the Acer Predator Helios 300 (PH315-53) |
 
 ## Issues and Hardware Compatibility
 
