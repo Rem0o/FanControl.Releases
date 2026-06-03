@@ -1,11 +1,11 @@
 {
-    "Number":  268,
-    "Message":  "- Add FanControl Service\r\n- Add start service on boot option\r\n- Tray icon client integration with service\r\n- ADLX 1.5 support",
+    "Number":  269,
+    "Message":  "- Allow only 1 service client at a time\r\n- App title no longer show the full path\r\n- Add service retry policy by default\r\n- Fix pre-pairing issue between control and speed cards\r\n- Fix a bug with ADLX % (duty) reporting",
     "Checksums":  {
-                      "FanControl_4_8":  "6D9D711A840354EED161DBAF27E62788",
-                      "FanControl_10_0":  "47938CB328EF90CA62EBFDF596F66050",
-                      "FanControl_4_8_Installer":  "C8823DA0E15C18401429592E03DAD4DB",
-                      "FanControl_10_0_Installer":  "63FD5AAB78C494B904355D051AED9926",
+                      "FanControl_4_8":  "31EC8253B1E35D294967A2EDCC510F9D",
+                      "FanControl_10_0":  "DC92670037EECC88F83EEF3C184E0C45",
+                      "FanControl_4_8_Installer":  "8AB79360C5F26E2BE195CF6E8EA1D0BA",
+                      "FanControl_10_0_Installer":  "D0123C203D0905F7D2E21E5A0062DEF6",
                       "Updater":  "8445CA16D4EC4D0791F71C025B56FF0C"
                   }
 }
