@@ -119,7 +119,7 @@ The plugin system lets you inject any type of sensor into FanControl. See the [P
 | [FanControl.Razer](https://github.com/EvanMulawski/FanControl.Razer) | Razer devices |
 | [FanControl.HomeAssistant](https://github.com/hgross/FanControl.HomeAssistant) | [HomeAssistant](https://github.com/home-assistant) temperature sensors (Philips Hue, HomeMatic, HomeKit, etc.) |
 | [FanControl.NzxtKraken](https://github.com/brokenmass/Fancontrol.NzxtKraken) | NZXT Kraken AIOs not yet in LHM (e.g. Kraken X2, X3 new PID) |
-| [FanControl.LianLi](https://github.com/EightB1ts/FanControl.LianLi) | LianLi [L-Connect 3](https://lian-li.com/l-connect3/) fan controllers |
+| [FanControl.LianLi](https://github.com/lewisgibson/FanControl.LianLi) | LianLi [L-Connect 3](https://lian-li.com/l-connect3/) fan controllers |
 | [FanControl.NvThermalSensors](https://github.com/TimSirmovics/FanControl.NvThermalSensors) | Nvidia GPU Hot Spot and Memory Junction temperatures |
 | [FanControl.OpenFan](https://github.com/SasaKaranovic/FanControl.OpenFan) | [OpenFAN](https://github.com/SasaKaranovic/OpenFanController) controller |
 | [FanControl.AIDA64](https://github.com/Brian-E-Taylor/FanControl.AIDA64) | AIDA64 sensor readings |
