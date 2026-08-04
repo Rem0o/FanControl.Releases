@@ -66,7 +66,7 @@ Full documentation is available at **[getfancontrol.com/docs](https://getfancont
 3. Start `FanControl.exe`.
 
 <details>
-<summary>Other install methods (Scoop / Winget)</summary>
+<summary>Other install methods (Scoop / Winget / Chocolatey)</summary>
 
 **[Scoop](https://scoop.sh/#/apps?s=2&d=1&o=true&p=1&q=fan+control)**
 ```
@@ -77,6 +77,11 @@ scoop install fancontrol
 **[Winget](https://apps.microsoft.com/detail/9nblggh4nns1?rtc=1&hl=en-us&gl=US#activetab=pivot:overviewtab)**
 ```
 winget install Rem0o.FanControl
+```
+
+**[Chocolatey](https://community.chocolatey.org/packages/fancontrol/)**
+```
+choco install fancontrol
 ```
 
 </details>
