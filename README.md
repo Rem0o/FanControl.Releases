@@ -28,6 +28,7 @@
 - [Announcement](#announcement)
 - [Main Features](#main-features)
 - [Installation & Uninstall](#installation--uninstall)
+- [Automatic updates at startup](#automatic-updates-at-startup)
 - [Plugins](#plugins)
 - [Issues & Hardware Compatibility](#issues-and-hardware-compatibility)
 - [FAQ](#faq)
@@ -56,6 +57,34 @@
 - Advanced tuning with steps, start %, stop %, response time and hysteresis
 
 Full documentation is available at **[getfancontrol.com/docs](https://getfancontrol.com/docs/)**.
+
+## Automatic updates at startup
+
+This fork includes an opt-in startup launcher for [issue #3916](https://github.com/Rem0o/FanControl.Releases/issues/3916).
+It checks the official release before Fan Control starts and, when a newer version exists, validates and starts the official `Updater.exe` in hidden mode.
+If the check fails or no update is available, Fan Control starts normally.
+
+The launcher validates all of the following before updating:
+
+- `version.json` reports a newer version than the installed `FanControl.exe`;
+- the latest official GitHub release tag matches `version.json`;
+- `Updater.exe` matches the checksum published in `version.json`.
+
+To build, install, and choose whether to enable automatic updates, run:
+
+```powershell
+powershell -ExecutionPolicy Bypass -File .\scripts\Install-AutoUpdater.ps1
+```
+
+The installer asks for elevation, copies `FanControl.AutoUpdater.exe` next to `FanControl.exe`, and displays a Yes/No configuration dialog.
+Choosing **Yes** changes the existing `FanControl` logon task to run the launcher; choosing **No** restores the normal `FanControl` action.
+For an unattended enable after the UAC prompt, add the `-Enable` switch.
+
+To remove the launcher and restore normal startup:
+
+```powershell
+powershell -ExecutionPolicy Bypass -File .\scripts\Uninstall-AutoUpdater.ps1
+```
 
 ## Installation & Uninstall
 
