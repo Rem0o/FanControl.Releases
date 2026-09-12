@@ -1,11 +1,11 @@
 {
-    "Number":  275,
-    "Message":  "- Fix a bug where the tray icon would not appear on service start\r\n- Fix a bug preventing a fan curve to be added into a mix\r\n- Fix a bug when cancelling a graph edit\r\n- Tweak control card disabled state look\r\n- Update LibreHardwareMonitorLib",
+    "Number":  276,
+    "Message":  "- Update LibreHardwareMonitorLib\r\n- Update tray icons to use MaterialDesign context menu\r\n- Reordering of the icons should now be tracked properly by Windows. In app order no longer matters, as each icon can be moved in the notification area independently.",
     "Checksums":  {
-                      "FanControl_4_8":  "FEE19FFC6FDD345EDEBA2A09783F3506",
-                      "FanControl_10_0":  "523C844209453DB286128C267A9AE82E",
-                      "FanControl_4_8_Installer":  "8DC6E0524DF112CF756C073C255D60D2",
-                      "FanControl_10_0_Installer":  "A7F682E496F48848D171CBA2F09F1FBF",
+                      "FanControl_4_8":  "5CB545845C19D43650C174F076A8EFCD",
+                      "FanControl_10_0":  "B4590F2A646C097D8DE4DFF68FC695C2",
+                      "FanControl_4_8_Installer":  "92A8A86BC4C0C2B9AC3BBA6D08B635E3",
+                      "FanControl_10_0_Installer":  "0E55BCB9C47252CC54193C839D76C355",
                       "Updater":  "283A6E745166CD3D495DBE9CD75BFD18"
                   }
 }
