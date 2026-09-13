@@ -1,11 +1,11 @@
 {
-    "Number":  276,
-    "Message":  "- Update LibreHardwareMonitorLib\r\n- Update tray icons to use MaterialDesign context menu\r\n- Reordering of the icons should now be tracked properly by Windows. In app order no longer matters, as each icon can be moved in the notification area independently.",
+    "Number":  277,
+    "Message":  "- Fix a scaling bug with the tray icon context menu location\r\n- Fix a bug where a tray icon would no longer list the available configurations\r\n- Fix a bug where the tooltip would not appear on the tray icon",
     "Checksums":  {
-                      "FanControl_4_8":  "5CB545845C19D43650C174F076A8EFCD",
-                      "FanControl_10_0":  "B4590F2A646C097D8DE4DFF68FC695C2",
-                      "FanControl_4_8_Installer":  "92A8A86BC4C0C2B9AC3BBA6D08B635E3",
-                      "FanControl_10_0_Installer":  "0E55BCB9C47252CC54193C839D76C355",
+                      "FanControl_4_8":  "5BDDF974199DF1A447C6770F24C1DA48",
+                      "FanControl_10_0":  "99D288240EAB690CC157162A2FB24FCA",
+                      "FanControl_4_8_Installer":  "55C05F7E1FF0E5DDED24E8B47422DE50",
+                      "FanControl_10_0_Installer":  "419158F8F1AEEE8359A3A88D16AB5DEB",
                       "Updater":  "283A6E745166CD3D495DBE9CD75BFD18"
                   }
 }
