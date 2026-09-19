@@ -1,11 +1,11 @@
 {
-    "Number":  277,
-    "Message":  "- Fix a scaling bug with the tray icon context menu location\r\n- Fix a bug where a tray icon would no longer list the available configurations\r\n- Fix a bug where the tooltip would not appear on the tray icon",
+    "Number":  278,
+    "Message":  "- Fix a bug where the tray icons would not survive a explorer.exe crash or restart\r\n- Fix fan control hand-off issues when disabling control.\r\n- Update LibreHardwareMonitorLib",
     "Checksums":  {
-                      "FanControl_4_8":  "5BDDF974199DF1A447C6770F24C1DA48",
-                      "FanControl_10_0":  "99D288240EAB690CC157162A2FB24FCA",
-                      "FanControl_4_8_Installer":  "55C05F7E1FF0E5DDED24E8B47422DE50",
-                      "FanControl_10_0_Installer":  "419158F8F1AEEE8359A3A88D16AB5DEB",
+                      "FanControl_4_8":  "DC2F58ED12F33094565C1B7F490F4E96",
+                      "FanControl_10_0":  "6D669E06433773892C5A199E43811B15",
+                      "FanControl_4_8_Installer":  "81921A3BF781AF49442618E194607E73",
+                      "FanControl_10_0_Installer":  "F8F8E380DBC2A378BF56A35460406CEF",
                       "Updater":  "283A6E745166CD3D495DBE9CD75BFD18"
                   }
 }
