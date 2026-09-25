@@ -13,6 +13,8 @@
 
 ![Fan Control](/Images/MainUI.png)
 
+**README の言語:** [English](/README.md) | **日本語**
+
 ---
 
 ## 掲載メディア
