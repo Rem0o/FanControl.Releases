@@ -51,19 +51,19 @@
 - アプリの**テーマ**と**カラー**を変更
 - 複数の温度ソース (CPU、GPU、マザーボード、ハードドライブなど...)
 - **[カスタムグラフ](#graph-fan-curve-editor)**を含む、複数の**[ファンカーブ機能](https://getfancontrol.com/docs)**
-- **Mix** fan curves or sensors together (max, min, average)
-- Low resource usage
-- Advanced tuning with steps, start %, stop %, response time and hysteresis
+- ファンカーブやセンサーを**ミックス** (最大、最小、平均)
+- 低リソースな使用量
+- ステップ、開始する %、停止する %、応答時間、ヒステリシスを用いた高度なチューニング機能
 
-Full documentation is available at **[getfancontrol.com/docs](https://getfancontrol.com/docs/)**.
+詳細なドキュメントは **[getfancontrol.com/docs](https://getfancontrol.com/docs/)** をご確認ください。
 
 ## インストールとアンインストール
 
 ### インストール
 
-1. [Download the latest archive](/FanControl.zip?raw=true) *or* [an installer from the release page](https://github.com/Rem0o/FanControl.Releases/releases).
-2. Extract to the desired installation folder *or* run the installer.
-3. Start `FanControl.exe`.
+1. [最新のアーカイブをダウンロード](/FanControl.zip?raw=true) *または* [リリースページからインストーラーをダウンロード](https://github.com/Rem0o/FanControl.Releases/releases)してください。
+2. 任意のインストール先フォルダーに展開する**または**インストーラーを実行してください。
+3. `FanControl.exe` を実行します。
 
 <details>
 <summary>その他のインストール方法 (Scoop / Winget / Chocolatey)</summary>
@@ -88,17 +88,17 @@ choco install fancontrol
 
 ### アンインストール
 
-**Portable** — You can leave the files there for future use, or delete them.
+**ポータブル** — ファイルは将来使用するためにそのまま残すことも、削除もできます。
 
-> **Note:** If you have Fan Control set to automatically start with Windows, either untick the checkbox in Fan Control, or manually delete the "Fan Control" task in Windows Task Scheduler.
+> **注意:** Fan Control を Windows の起動時に開始する設定をしている場合は、Fan Control 内のチェックボックスのチェックを外すか、Windows のタスクスケジューラーで「Fan Control」のタスクを手動で削除してください。
 
-**Installer** — Uninstall like any other Windows program through the Programs list.
+**インストーラー** — 他の Windows プログラムと同様にプログラムの一覧からアンインストールしてください。
 
 ## プラグイン
 
-The plugin system lets you inject any type of sensor into FanControl. See the [Plugins wiki](https://github.com/Rem0o/FanControl.Releases/wiki/Plugins) for details.
+プラグインシステムを使用すると、あらゆる種類のセンサーを Fan Control に組み込むことができます。詳細については [Plugins wiki](https://github.com/Rem0o/FanControl.Releases/wiki/Plugins) をご覧ください。
 
-![Plugin Installation](/Images/PluginInstallation.png)
+![プラグインのインストール](/Images/PluginInstallation.png)
 
 ### Rem0o の開発
 
@@ -121,8 +121,8 @@ The plugin system lets you inject any type of sensor into FanControl. See the [P
 | [FanControl.AquacomputerQuadro](https://github.com/FoPzl/FanControl.AquacomputerQuadro) | Aquacomputer Quadro |
 | [FanControl.GPU-Z](https://github.com/vision57/FanControl.GPU-Z) | GPU-Z センサーデータ |
 | [FanControl.CorsairLink](https://github.com/EvanMulawski/FanControl.CorsairLink) | Corsair Commander controllers and Hydro liquid coolers |
-| [FanControl.Razer](https://github.com/EvanMulawski/FanControl.Razer) | Razer 製デバイス |
-| [FanControl.HomeAssistant](https://github.com/hgross/FanControl.HomeAssistant) | [HomeAssistant](https://github.com/home-assistant) temperature sensors (Philips Hue, HomeMatic, HomeKit, etc.) |
+| [FanControl.Razer](https://github.com/EvanMulawski/FanControl.Razer) | Razer 製のデバイス |
+| [FanControl.HomeAssistant](https://github.com/hgross/FanControl.HomeAssistant) | [HomeAssistant](https://github.com/home-assistant) 温度センサー (Philips Hue、 HomeMatic、HomeKit など) |
 | [FanControl.NzxtKraken](https://github.com/brokenmass/Fancontrol.NzxtKraken) | NZXT Kraken AIOs not yet in LHM (e.g. Kraken X2, X3 new PID) |
 | [FanControl.LianLi](https://github.com/lewisgibson/FanControl.LianLi) | LianLi [L-Connect 3](https://lian-li.com/l-connect3/) ファンコントローラー |
 | [FanControl.NvThermalSensors](https://github.com/TimSirmovics/FanControl.NvThermalSensors) | Nvidia GPU のホットスポットおよびメモリジャンクションの温度 |
@@ -165,7 +165,7 @@ If you have a hardware compatibility request and can provide a **working** code 
 > Click the card's icon at the top left — a dialog will explain it.
 
 **Q: What OS does it run on?**
-> Windows 10 and Windows 11.
+> Windows 10 と Windows 11 です。
 
 ## 使用しているライブラリ
 
