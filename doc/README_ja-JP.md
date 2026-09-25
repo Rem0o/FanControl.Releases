@@ -117,54 +117,54 @@ choco install fancontrol
 | [FanControl.Thermaltake](https://github.com/AMoo-Miki/FanControlThermaltake) | Thermaltake 製デバイス ([fu-raz/FanControlThermaltake](https://github.com/fu-raz/FanControlThermaltake) の更新版フォーク) |
 | [FanControl.LiquidCtl](https://github.com/antoine-bouteiller/FanControl.LiquidCtl) | [liquidctl](https://github.com/liquidctl/liquidctl) 経由の AIO デバイス、マルチファンコントローラーに対応した更新済みフォーク |
 | [FanControl.AsusWMI](https://github.com/Mourdraug/FanControl.AsusWMI) | WMI 経由の ASUS マザーボード |
-| [FanControl.AquacomputerDevices](https://github.com/medevil84/FanControl.AquacomputerDevices) | Aquacomputer HighFlowNext, Quadro and Octo |
+| [FanControl.AquacomputerDevices](https://github.com/medevil84/FanControl.AquacomputerDevices) | Aquacomputer HighFlowNext、Quadro と Octo |
 | [FanControl.AquacomputerQuadro](https://github.com/FoPzl/FanControl.AquacomputerQuadro) | Aquacomputer Quadro |
 | [FanControl.GPU-Z](https://github.com/vision57/FanControl.GPU-Z) | GPU-Z センサーデータ |
-| [FanControl.CorsairLink](https://github.com/EvanMulawski/FanControl.CorsairLink) | Corsair Commander controllers and Hydro liquid coolers |
+| [FanControl.CorsairLink](https://github.com/EvanMulawski/FanControl.CorsairLink) | Corsair Commander コントローラーと Hydro liquid cooler |
 | [FanControl.Razer](https://github.com/EvanMulawski/FanControl.Razer) | Razer 製のデバイス |
 | [FanControl.HomeAssistant](https://github.com/hgross/FanControl.HomeAssistant) | [HomeAssistant](https://github.com/home-assistant) 温度センサー (Philips Hue、 HomeMatic、HomeKit など) |
-| [FanControl.NzxtKraken](https://github.com/brokenmass/Fancontrol.NzxtKraken) | NZXT Kraken AIOs not yet in LHM (e.g. Kraken X2, X3 new PID) |
+| [FanControl.NzxtKraken](https://github.com/brokenmass/Fancontrol.NzxtKraken) |LHM に含まれていない NZXT Kraken AIO の追加 (例: Kraken X2、X3 new PID) |
 | [FanControl.LianLi](https://github.com/lewisgibson/FanControl.LianLi) | LianLi [L-Connect 3](https://lian-li.com/l-connect3/) ファンコントローラー |
 | [FanControl.NvThermalSensors](https://github.com/TimSirmovics/FanControl.NvThermalSensors) | Nvidia GPU のホットスポットおよびメモリジャンクションの温度 |
 | [FanControl.OpenFan](https://github.com/SasaKaranovic/FanControl.OpenFan) | [OpenFAN](https://github.com/SasaKaranovic/OpenFanController) コントローラー |
 | [FanControl.AIDA64](https://github.com/Brian-E-Taylor/FanControl.AIDA64) | AIDA64 センサーの読み取り |
 | [FanControl.RazerCoolingPadPlugin](https://github.com/Benson5650/FanControl.RazerCoolingPadPlugin) | Razer Laptop Cooling Pad |
 | [FanControl.GPDPlugin](https://github.com/chenx-dust/FanControl.GPDPlugin) | GPD 製デバイス |
-| [FanControl.LenovoPlugin](https://github.com/jiarandiana0307/FanControl.LenovoPlugin) | Lenovo laptops with `Lenovo ACPI-Compliant Virtual Power Controller` |
+| [FanControl.LenovoPlugin](https://github.com/jiarandiana0307/FanControl.LenovoPlugin) | `Lenovo ACPI-Compliant Virtual Power Controller` を搭載した Lenovo 製ノート PC |
 | [FanControl.GigabyteWaterforce](https://github.com/brenoperucchi/FanControl.GigabyteWaterforce) | GIGABYTE AORUS WATERFORCE X AIO クーラー — X240、X280、X360 |
-| [FanControl.AcerPredatorPH315](https://github.com/phaax/FanControl.AcerPredatorPH315) | Native fan control for the Acer Predator Helios 300 (PH315-53) |
+| [FanControl.AcerPredatorPH315](https://github.com/phaax/FanControl.AcerPredatorPH315) | Acer Predator Helios 300 (PH315-53) のネイティブファンコントロール |
 
 ## 問題とハードウェアの互換性
 
-Fan Control is primarily a UI layer on top of existing hardware libraries. Any hardware compatibility issue is largely dependent on the upstream project:
+Fan Control は、既存のハードウェアライブラリの上に構築された UI レイヤーです。ハードウェアの互換性の問題は、主に上流のプロジェクトに依存します:
 
-- **[LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor)** — the main sensor/driver backend
+- **[LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor)** — 主要なセンサー/ドライバーのバックエンド
 
-Please **only open issues on this repository** for the software itself: UI bugs, feature requests, etc. Hardware support requests will be closed with a link to this section.
+このリポジトリで Issue を作成するのは、UI のバグや機能のリクエストなど**ソフトウェア自体に関するもののみ**とします。ハードウェアの対応に関するリクエストは、この項目へのリンクを添えて Close させていただきます。
 
-If you have a hardware compatibility request and can provide a **working** code sample usable in .NET (e.g. via a [Plugin](https://github.com/Rem0o/FanControl.Releases/wiki/Plugins)), feel free to submit that.
+ハードウェアの互換性に関するリクエストがあり、かつ .NET で使用可能な (例: [プラグイン](https://github.com/Rem0o/FanControl.Releases/wiki/Plugins)) **動作する**コードサンプルを提供できる場合は、ぜひ送ってください。
 
 ## よくある質問
 
-**Q: What BIOS settings work best with FanControl?**
-> Avoid any "smart" fan control from your BIOS. Setting a fixed default speed (e.g. 50%) works great for most people. Also check whether your BIOS uses PWM or DC mode — one may work better depending on your setup.
+**Q: FanControl に最適な BIOS 設定はなんですか？**
+> BIOS の「スマート」なファン制御機能は使用しないでください。既定の回転数を固定値 (例: 50%) に設定するのが、多くのユーザーにとって最適です。また、BIOS の設定が PWM モードか DC モードかを確認しましょう。構成によっては、どちらか一方がより適している場合があります。
 
-**Q: Does it work on laptops?**
-> Mostly no, as laptops do not interface their fans the same way desktop motherboards do. Most of them are not made to be interfaced by a 3rd party. However, if supported, a plugin may add support for a specific type of laptop. To be clear, you'll be able to install the software, but it won't find any fans or may throw errors. 
+**Q: ノートパソコンでも使えますか？**
+> 基本的には無理です。ノートパソコンのファンは、デスクトップのマザーボードとは異なる仕組みで制御されているためです。その多くは、サードパーティー製のソフトウェアから制御できるように設計されていません。ただし、特定のノートパソコンに対応したプラグインが提供されていれば、使用できる可能性があります。念のために補足すると、ファンが認識されなかったり、エラーが発生するかもしれません。
 
-**Q: My NVIDIA GPU has 3 fans but only 2 control cards show up. Why?**
-> Your card only has 2 channels; multiple fans are wired to the same channel.
+**Q: NVIDIA 製 GPU にはファンが 3 つ搭載されていますが、コントロール用のカードは 2 つしか表示されません。なぜですか？**
+> 使用しているカードは 2 つのチャンネルしかなく、複数のファンが同じチャンネルに接続されています。
 
-**Q: My NVIDIA GPU won't go below 30% and doesn't reach 0 RPM. Why?**
-> [See this wiki page](https://github.com/Rem0o/FanControl.Releases/wiki/Nvidia-30%25-and-0-RPM).
+**Q: NVIDIA GPU のファン回転数が 30% を下回らず、0 RPM になりません。なぜですか？**
+> この [Wiki ページ](https://github.com/Rem0o/FanControl.Releases/wiki/Nvidia-30%25-and-0-RPM)をご覧ください。
 
-**Q: There are no control cards, or control cards aren't changing fan speeds. What's the issue?**
-> See [Issues & Hardware Compatibility](#issues-and-hardware-compatibility).
+**Q: コントロールカードがないまたは、コントロールカードがファン速度を変更しません。何か問題があるのでしょうか？**
+> [問題点とハードウェアの互換性](#問題とハードウェアの互換性)を参照してください。
 
-**Q: How does [FAN CURVE TYPE] work and what do its parameters do?**
-> Click the card's icon at the top left — a dialog will explain it.
+**Q: 「ファンカーブの種類」はどのように機能し、そのパラメーターはどのような役割を果たすのでしょうか？**
+> 左上にあるカードのアイコンをクリックしてください。説明がダイアログで表示されます。
 
-**Q: What OS does it run on?**
+**Q: どの OS で動作しますか？**
 > Windows 10 と Windows 11 です。
 
 ## 使用しているライブラリ
@@ -179,6 +179,6 @@ If you have a hardware compatibility request and can provide a **working** code 
 
 ## GitHub Sponsors
 
-The GitHub Sponsor button on this page is intended for the **open-source work surrounding FanControl**. This includes contributions to [LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor), the plugin system and open-source plugins, and AMD GPU driver support via [ADLXWrapper](https://github.com/Rem0o/ADLXWrapper).
+このページにある GitHub のスポンサーボタンは、**FanControl に関連するオープンソース活動を支援するため**のものです。これには [LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) への貢献、プラグインシステムとオープンソースプラグインの開発、そして [ADLXWrapper](https://github.com/Rem0o/ADLXWrapper) を通じた AMD GPU ドライバーへの対応などが含まれます。
 
-Your sponsorship helps maintain existing projects and develop new ones. It does **not** apply to the main FanControl program itself — use the [PayPal](https://www.paypal.com/donate/?cmd=_donations&business=N4JPSTUQHRJM8&currency_code=USD&source=url&item_name=Fan+Control) button if your intent is to support FanControl directly.
+皆様からのスポンサー支援は、既存プロジェクトの維持や新規プロジェクトの開発に役立てられます。なお、この支援は FanControl のメインプログラムのものへの寄付には**該当しません**。FanControl を直接支援したい場合は、[PayPal](https://www.paypal.com/donate/?cmd=_donations&business=N4JPSTUQHRJM8&currency_code=USD&source=url&item_name=Fan+Control) のボタンをご利用ください。
