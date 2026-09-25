@@ -9,6 +9,8 @@
   <a href="https://www.paypal.com/donate/?business=N4JPSTUQHRJM8&no_recurring=0&item_name=Fan%20Control%20software%20creator%20and%20maintainer.%20Donations%20allow%20me%20to%20continue%20working%20on%20this%20project%20while%20keeping%20it%20free%20to%20use.%20Thank%20you%20for%20contributing%21&currency_code=USD"><img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat&logo=paypal" alt="Donate"/></a>
   <a href="https://buy.stripe.com/aFaeV75oSg0wcvhbKL0ZW00"><img src="https://img.shields.io/badge/Donate-Stripe-635BFF?logo=stripe&logoColor=white" alt="Donate"/></a>
 
+**Language:** [日本語](/doc/README_ja-JP)
+
 </p>
 
 ![Fan Control](Images/MainUI.png)
