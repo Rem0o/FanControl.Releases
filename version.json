@@ -1,11 +1,11 @@
 {
-    "Number":  272,
-    "Message":  "- Update LibreHardwareMonitorLib\r\n- Fix some UI hover effects\r\n- Fix a bug where the service would try to start on windows shutdown.",
+    "Number":  279,
+    "Message":  "- Fix a Windows theme switching bug\r\n- Use localized strings for add fan curve and custom sensor + button menu\r\n- Fix tray icon context menu padding and margins",
     "Checksums":  {
-                      "FanControl_4_8":  "38D32FB772E9D9E50DE63E4536383D05",
-                      "FanControl_10_0":  "A9609C29525F476C88D81B3B6E1951F1",
-                      "FanControl_4_8_Installer":  "EB080BE330A3329EBFC75A7FD59EA370",
-                      "FanControl_10_0_Installer":  "AED7A23E282E92A0338250331847919F",
-                      "Updater":  "283A6E745166CD3D495DBE9CD75BFD18"
+                      "FanControl_4_8":  "B89ACEC9D683D23E1402B759A25352B6",
+                      "FanControl_10_0":  "7D7C9F021A0ED9FD6B465070BF23ACE0",
+                      "FanControl_4_8_Installer":  "32906FA3D662EA2EFCC657EC78910A84",
+                      "FanControl_10_0_Installer":  "750048577FFC5F4B75A52EE463F8C016",
+                      "Updater":  "F16A93B6839A4A119FD0C35EDFD9E291"
                   }
 }
