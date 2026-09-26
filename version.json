@@ -1,11 +1,11 @@
 {
-    "Number":  280,
+    "Number":  281,
     "Message":  "- Fix tray icon config switching bug",
     "Checksums":  {
-                      "FanControl_4_8":  "03C706210C63B7264DF76E32E13FB867",
-                      "FanControl_10_0":  "6447B7153AFE5B748398137EFD89BBB7",
-                      "FanControl_4_8_Installer":  "C15B7DCB37C6FB7D65AC16DA8D7165CA",
-                      "FanControl_10_0_Installer":  "47C12B52EE805C8D0A75E4F189350DC6",
+                      "FanControl_4_8":  "753D95C3CE8C772E8350E4CEA4712300",
+                      "FanControl_10_0":  "784FF6582BF926A6D67227AE887B5BCE",
+                      "FanControl_4_8_Installer":  "46C549FEF51ACC241F0DBD7554EBF648",
+                      "FanControl_10_0_Installer":  "5AA0794874348B17EFC9D1FC3186DE12",
                       "Updater":  "F16A93B6839A4A119FD0C35EDFD9E291"
                   }
 }
