@@ -1,11 +1,11 @@
 {
-    "Number":  279,
-    "Message":  "- Fix a Windows theme switching bug\r\n- Use localized strings for add fan curve and custom sensor + button menu\r\n- Fix tray icon context menu padding and margins",
+    "Number":  280,
+    "Message":  "- Fix tray icon config switching bug",
     "Checksums":  {
-                      "FanControl_4_8":  "B89ACEC9D683D23E1402B759A25352B6",
-                      "FanControl_10_0":  "7D7C9F021A0ED9FD6B465070BF23ACE0",
-                      "FanControl_4_8_Installer":  "32906FA3D662EA2EFCC657EC78910A84",
-                      "FanControl_10_0_Installer":  "750048577FFC5F4B75A52EE463F8C016",
+                      "FanControl_4_8":  "03C706210C63B7264DF76E32E13FB867",
+                      "FanControl_10_0":  "6447B7153AFE5B748398137EFD89BBB7",
+                      "FanControl_4_8_Installer":  "C15B7DCB37C6FB7D65AC16DA8D7165CA",
+                      "FanControl_10_0_Installer":  "47C12B52EE805C8D0A75E4F189350DC6",
                       "Updater":  "F16A93B6839A4A119FD0C35EDFD9E291"
                   }
 }
