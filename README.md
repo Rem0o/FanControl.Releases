@@ -106,7 +106,7 @@ The plugin system lets you inject any type of sensor into FanControl. See the [P
 |--------|-------------|
 | [FanControl.IntelCtlLibrary](https://github.com/Rem0o/FanControl.IntelCtlLibrary) | Intel ARC GPU support |
 | [FanControl.HWInfo](https://github.com/Rem0o/FanControl.HWInfo) | Import HWInfo sensor data |
-| [FanControl.DellPlugin](https://github.com/Rem0o/FanControl.DellPlugin) | Dell laptops and some towers |
+| [FanControl.DellPlugin](https://github.com/Rem0o/FanControl.DellPlugin) | Old Dell laptops and some towers |
 
 ### From the Community
 
@@ -133,6 +133,7 @@ The plugin system lets you inject any type of sensor into FanControl. See the [P
 | [FanControl.LenovoPlugin](https://github.com/jiarandiana0307/FanControl.LenovoPlugin) | Lenovo laptops with `Lenovo ACPI-Compliant Virtual Power Controller` |
 | [FanControl.GigabyteWaterforce](https://github.com/brenoperucchi/FanControl.GigabyteWaterforce) | GIGABYTE AORUS WATERFORCE X AIO coolers — X240, X280, X360 |
 | [FanControl.AcerPredatorPH315](https://github.com/phaax/FanControl.AcerPredatorPH315) | Native fan control for the Acer Predator Helios 300 (PH315-53) |
+| [FanControl.DellWmiPlugin](https://github.com/MoCodesHeavy/FanControl.DellWmiPlugin) | WMI fan control for newer Dell laptops |
 
 ## Issues and Hardware Compatibility
 
