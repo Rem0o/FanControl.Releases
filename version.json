@@ -1,11 +1,11 @@
 {
-    "Number":  282,
-    "Message":  "- Make tray icons creation and update more robust to windows errors\r\n- Remove LHM\u0027s internal sensor value history to reduce memory usage\r\n- Fix some UI memory leaks\r\n- Make FanControl service tray icon mode work in non admin environnement\r\n- Make FanControl process ask for elevation when started from a non-interactive environnement\r\n- Fix a NvAPIWrapper bug",
+    "Number":  283,
+    "Message":  "- Fix Windows notification click action for updates\r\n- Add Exclude Usb Storage option from LHM\r\n- Update LibreHardwareMinitorLib\r\n- Fix a bug where the selected font would not apply\r\n- Fix a bug where numeric updown controls would be broken after moving a card\r\n- Fix default elevation for the scheduled task",
     "Checksums":  {
-                      "FanControl_4_8":  "EAD4E7A702BE17E80FC2F263C201567A",
-                      "FanControl_10_0":  "1B97D9789603DF7113A2DE972EB37131",
-                      "FanControl_4_8_Installer":  "E44460B15BA3B2FF8742F93AAABF2999",
-                      "FanControl_10_0_Installer":  "09255487B048C6646FE0D7F6DE4CA3DB",
+                      "FanControl_4_8":  "86AD55073613D6EC66946B0923A2566A",
+                      "FanControl_10_0":  "C6CE17472682635BCDE4F0D9001635B4",
+                      "FanControl_4_8_Installer":  "E59AF457B59B1C6567A658A432ED258C",
+                      "FanControl_10_0_Installer":  "B7682A98179CDF3D83B4CBD75DFBB823",
                       "Updater":  "F16A93B6839A4A119FD0C35EDFD9E291"
                   }
 }
