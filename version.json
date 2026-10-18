@@ -1,11 +1,11 @@
 {
-    "Number":  283,
-    "Message":  "- Fix Windows notification click action for updates\r\n- Add Exclude Usb Storage option from LHM\r\n- Update LibreHardwareMinitorLib\r\n- Fix a bug where the selected font would not apply\r\n- Fix a bug where numeric updown controls would be broken after moving a card\r\n- Fix default elevation for the scheduled task",
+    "Number":  284,
+    "Message":  "- Manual calibration now ignores control offset\r\n- Scheduled task now uses full path\r\n- Fix an ADLX bug\r\n- Mix Custom sensor now ignores null sensor values in Min/Max\r\n- Add missing translation location\r\n- Update LibreHardwareMonitorLib",
     "Checksums":  {
-                      "FanControl_4_8":  "86AD55073613D6EC66946B0923A2566A",
-                      "FanControl_10_0":  "C6CE17472682635BCDE4F0D9001635B4",
-                      "FanControl_4_8_Installer":  "E59AF457B59B1C6567A658A432ED258C",
-                      "FanControl_10_0_Installer":  "B7682A98179CDF3D83B4CBD75DFBB823",
+                      "FanControl_4_8":  "10B51AFEBB6B627958B26E057EC1AA60",
+                      "FanControl_10_0":  "3B565E0231D2634CAC705E038F8341B9",
+                      "FanControl_4_8_Installer":  "53DBB56B9E9CB84B170D27BA4DA7ACC4",
+                      "FanControl_10_0_Installer":  "4F089898A63D68484B8EC507317C51B5",
                       "Updater":  "F16A93B6839A4A119FD0C35EDFD9E291"
                   }
 }
