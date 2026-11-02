@@ -1,11 +1,11 @@
 {
-    "Number":  284,
-    "Message":  "- Manual calibration now ignores control offset\r\n- Scheduled task now uses full path\r\n- Fix an ADLX bug\r\n- Mix Custom sensor now ignores null sensor values in Min/Max\r\n- Add missing translation location\r\n- Update LibreHardwareMonitorLib",
+    "Number":  285,
+    "Message":  "- Selected font applies to tray icon context menu\r\n- Fix bugs in Auto fan curve and Mix fan curve\r\n- Fix bug with File sensor\r\n- Remove LHM\u0027s built in sensor logging to reduce memory footprint\r\n- Fix memory leak with main window\r\n- Fix various service bugs\r\n- Update LibreHardwareMonitorLib",
     "Checksums":  {
-                      "FanControl_4_8":  "10B51AFEBB6B627958B26E057EC1AA60",
-                      "FanControl_10_0":  "3B565E0231D2634CAC705E038F8341B9",
-                      "FanControl_4_8_Installer":  "53DBB56B9E9CB84B170D27BA4DA7ACC4",
-                      "FanControl_10_0_Installer":  "4F089898A63D68484B8EC507317C51B5",
+                      "FanControl_4_8":  "6EC689478027C3479FAB9C906C4B03A6",
+                      "FanControl_10_0":  "B408BF1A54706EDAEEB788620AC8E31E",
+                      "FanControl_4_8_Installer":  "78DF183BF9CC86C66AB428FE458969E7",
+                      "FanControl_10_0_Installer":  "2FAA3E101E86C9EBB50015B082ED00A0",
                       "Updater":  "F16A93B6839A4A119FD0C35EDFD9E291"
                   }
 }
