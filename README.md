@@ -135,6 +135,14 @@ The plugin system lets you inject any type of sensor into FanControl. See the [P
 | [FanControl.AcerPredatorPH315](https://github.com/phaax/FanControl.AcerPredatorPH315) | Native fan control for the Acer Predator Helios 300 (PH315-53) |
 | [FanControl.DellWmiPlugin](https://github.com/MoCodesHeavy/FanControl.DellWmiPlugin) | WMI fan control for newer Dell laptops |
 | [FanControl.NzxtHub](https://github.com/sceiler/fancontrol-nzxt) | NZXT Control Hub (`1E71:2022`): five fan-port controls and RPM monitoring |
+
+#### Experimental unofficial integrations
+
+> [!WARNING]
+> These plugins use reflection and implementation tricks rather than the official plugin API. They may break at any time.
+
+| Plugin | Description |
+|--------|-------------|
 | [FanControl.MCP](https://github.com/huelsevoort/fancontrol-mcp) | MCP server that lets AI assistants read sensors and tune fan curves |
 | [FanControl.MonitoringEcosystem](https://github.com/JesusRomero77/FanControl.MonitoringEcosystem) | Monitoring and logging ecosystem: local log, network data server, remote sensors (monitoring only) and a configurator app |
 
