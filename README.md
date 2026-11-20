@@ -136,7 +136,7 @@ The plugin system lets you inject any type of sensor into FanControl. See the [P
 | [FanControl.DellWmiPlugin](https://github.com/MoCodesHeavy/FanControl.DellWmiPlugin) | WMI fan control for newer Dell laptops |
 | [FanControl.NzxtHub](https://github.com/sceiler/fancontrol-nzxt) | NZXT Control Hub (`1E71:2022`): five fan-port controls and RPM monitoring |
 
-#### Experimental unofficial integrations
+#### Experimental unofficial integrations that add new features
 
 > [!WARNING]
 > These plugins use reflection and implementation tricks rather than the official plugin API. They may break at any time.
