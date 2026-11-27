@@ -1,11 +1,11 @@
 {
-    "Number":  286,
-    "Message":  "- Add maximum % control setting\r\n- Fahrenheit temperature for service tray icon",
+    "Number":  287,
+    "Message":  "- Improved startup and transitions between the app and background service\r\n- IPC sensor now declare when values are unavailable or couldn\u0027t update\r\n- Time average sensor can now absorb null values in its time window\r\n- Add a count + hidden count for each card section for hidden card discoverability",
     "Checksums":  {
-                      "FanControl_4_8":  "4DAE95FE7823E5000644186DF576A655",
-                      "FanControl_10_0":  "2366E635F4110047A2DE54A0AE12BBBA",
-                      "FanControl_4_8_Installer":  "ECDB13D5C11BEEB9600D69D788004BFC",
-                      "FanControl_10_0_Installer":  "4EB34B0B44A5D16358E7A4158187C30C",
+                      "FanControl_4_8":  "ED2F978C636BE707F27BFB34687D3321",
+                      "FanControl_10_0":  "8332722510E3D86743FFF01CB9FB12DF",
+                      "FanControl_4_8_Installer":  "27C1BF5F195D16654512D3BFEC5546DC",
+                      "FanControl_10_0_Installer":  "2CEE70C9EAD683E272976265E722C02F",
                       "Updater":  "F16A93B6839A4A119FD0C35EDFD9E291"
                   }
 }
